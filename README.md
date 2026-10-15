@@ -38,9 +38,8 @@ node scripts/update-data.mjs
 
 ## Publicar (GitHub Pages)
 
-1. Junte este código na branch `main`.
-2. Em **Settings → Pages**, escolha **Source: GitHub Actions**.
-3. O workflow `pages.yml` publica o site a cada push na `main` e depois de cada atualização diária dos dados.
+1. Em **Settings → Pages**, escolha **Source: GitHub Actions** (no plano gratuito do GitHub, o repositório precisa ser público).
+2. O workflow `pages.yml` publica o site a cada push na branch padrão e depois de cada atualização diária dos dados.
 
 > Workflows agendados (`schedule`) só rodam na branch padrão do repositório.
 

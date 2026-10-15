@@ -2,7 +2,6 @@ name: Publicar no GitHub Pages
 
 on:
   push:
-    branches: [main]
   workflow_run:
     workflows: ['Atualizar indicadores e notícias']
     types: [completed]
@@ -19,6 +18,8 @@ concurrency:
 
 jobs:
   deploy:
+    # Publica sempre a partir da branch padrão do repositório, seja qual for o nome dela.
+    if: github.ref_name == github.event.repository.default_branch
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -26,7 +27,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main
+          ref: ${{ github.event.repository.default_branch }}
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
