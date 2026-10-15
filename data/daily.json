@@ -1,5 +1,152 @@
 {
-  "generatedAt": null,
-  "indicators": {},
-  "news": []
+  "generatedAt": "2026-10-15T20:16:36.230Z",
+  "indicators": {
+    "ipca": {
+      "month": 0.82,
+      "acc12": 4.576119675071877,
+      "ref": "2026-09-01"
+    },
+    "selic": {
+      "value": 13.75,
+      "ref": "2026-11-04"
+    },
+    "inpc": {
+      "month": 0.82,
+      "acc12": 4.293633136732078,
+      "ref": "2026-09-01"
+    },
+    "igpm": {
+      "month": 1.57,
+      "acc12": 3.3483781728321116,
+      "ref": "2026-09-01"
+    },
+    "dolar": {
+      "value": 5.0521,
+      "change": 0.15860113796316502,
+      "ref": "2026-10-15",
+      "source": "Banco Central (PTAX)"
+    }
+  },
+  "news": [
+    {
+      "title": "Ibovespa cai mais de 1% com cenário eleitoral; dólar sobe a R$ 5,08",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSm1KOFZZY1FMcHlkYUJrY0JpRUd5NXhxekhpYmZFWWs3cXplV0hhOEtOTThwakFFMXRydkhuclhYV2VJOFlnbklFdnlSUjlHRDMxRjBXZHR3VmsxT2VUdnJSUEhxM3lyUUxRY3hLNGVlalNXajRaN1ZFUnBEcFlCOFRUS044UE9IdjREMzlOUlVXUTN5eW02NGtHNFNoV203czRjNg?oc=5",
+      "date": "2026-10-15T20:07:44.000Z",
+      "source": "CNN Brasil"
+    },
+    {
+      "title": "B3 (B3SA3): opções movimentam quase R$ 3 bilhões em um dia; entenda esse mercado",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3l6cEg5bTBEY0dIcEVUck9taUduM0pmUDlZeEZDNXJtQUswZnd4d2Nodk91QnpFZUJTdEVyeE9BWTJfU1prTDJ5SWFqd3duaUtidlZMSjloZEp3bkJkMGUwSE5zR3pINXlKekV0azZibm9Rd3VRWmt4UFM2Vm42OXBn?oc=5",
+      "date": "2026-10-15T19:45:03.000Z",
+      "source": "Suno - Investimentos Inteligentes"
+    },
+    {
+      "title": "Petrobras bate recorde e chega a R$ 800 bilhões em valor de mercado; ações sobem até 110% em 2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/15/petrobras-bate-recorde-e-chega-a-r-800-bilhoes-em-valor-de-mercado-acoes-sobem-ate-110percent-em-2026.ghtml",
+      "date": "2026-10-15T19:31:03.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "O mercado de juros e a eleição presidencial",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRkt4YVVxSVRScC0tdk5NSmpueTd4dGNJelJZUFdfa0NfTkhaWW4xc0xSaEtNZ3JmWXRpdnFjRnJnMFNUSENQMW5qRFY1bnBLQktBUDJtMXBBZVhwVGREejljeDg4Qk1DamE2bmt5YkNOaEFGRnQ3cERoTVFuTEhfeUNR?oc=5",
+      "date": "2026-10-15T19:26:04.000Z",
+      "source": "Monitor Mercantil"
+    },
+    {
+      "title": "Deepfakes estão cada vez mais difíceis de detectar, alertam especialistas da OpenAI e Meta",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/15/deepfakes-estao-cada-vez-mais-dificeis-de-detectar-alertam-especialistas-da-openai-e-meta.ghtml",
+      "date": "2026-10-15T19:09:31.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Petrobras alcança R$ 800 bilhões em valor de mercado e renova máxima histórica na B3",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOREdFeUZReWF4cVM4aklnSGtuU3RqajB2SVNITGFTNWRGOUJha0tPNTBOYllGUDh0UU5TZEczYmRFUlRzUG1rRmZ3ODJVUFBITEZ0NWNCanFqaGk5MGlYM1hCRVFvSFZsaDRseXpZb29DLWowNHktSVBYZXlTTzFWSy1sQWNVbDNjQ1o4MTNGUGhvZEtkWDVYbEtjNG1aamNtUjZLb3ZZNDZHclR5MGNlWlFsYzFOQ0U2VmRINjJld3FzeWpQMDdNak5EU2U4T0I3WHJEQndBVWlCWUptaTZReFhDbE8yMEU?oc=5",
+      "date": "2026-10-15T18:46:29.000Z",
+      "source": "Agência Petrobras de Notícias"
+    },
+    {
+      "title": "Grupo Globo comunica desligamento de Frederic Kachar e reforça independência editorial de seus veículos",
+      "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/10/15/grupo-globo-comunica-desligamento-de-frederic-kachar-e-reforca-independencia-editorial-de-seus-veiculos.ghtml",
+      "date": "2026-10-15T18:17:24.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Netflix reajusta preços dos planos no Brasil; veja novos valores",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/15/netflix-reajusta-precos-dos-planos-no-brasil.ghtml",
+      "date": "2026-10-15T17:39:08.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "TCU condiciona análise de contas do BC à conclusão da análise de liquidação do Banco Master",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/15/tcu-condiciona-analise-de-contas-do-bc-a-conclusao-da-analise-de-liquidacao-do-banco-master.ghtml",
+      "date": "2026-10-15T17:19:31.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Amazon lança dispositivos de IA que resumem conversas e criam lembretes",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/15/amazon-lanca-dispositivos-de-ia-que-resumem-conversas-e-criam-lembretes.ghtml",
+      "date": "2026-10-15T15:13:29.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Gestão e sobrevivência dos pequenos negócios em 2026",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHZTdmVYeFdVdTRxZEdac1lTeUpVd2VhbGFqSlc2Y19YanpweTBJc0pWS19XZWxIVXM0cVpUeTBaMEFRNmZId0JHcjZLNzZXMG1XOWszMWFzdVFUX1U1V0NSUi1DM3RJVUdkQk5xazZKQTRSaTNyMW5xaEc3bmJEWV83VE9fRTV1NmxJOFU4SkRJZTIzeW8tUl9n?oc=5",
+      "date": "2026-10-15T15:12:00.000Z",
+      "source": "www.broadcast.com.br"
+    },
+    {
+      "title": "Irmãos Batista concluem compra da Avibras, fabricante de armas e foguetes de Jacareí, SP",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/15/irmaos-batista-concluem-compra-da-avibras-fabricante-de-armas-e-foguetes-de-jacarei.ghtml",
+      "date": "2026-10-15T15:11:21.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Quinta-feira, 15/10/2026 - Notícias sobre o mercado financeiro, com Álvaro Bandeira",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaTVlNFgwRHNRRkRXX1c3OVc0VFFFbVRDRE5NcDEyc2J5dXRBTHdkZ2V2bVZsX05kdlJHaTluLXplVUdQQnpMVHNoRVdkYzN4ZlVuTXR0OTB5dDk3aTNFSzh2ckN3OFNfTC12RWFFcFpjYnRCQk9TWGlzU0YtMTRWQy1xUjgtcHJzN29INnZkYWRmQnM3UUJVOHQzN0lCWUJhTXNtdTVucjQ4Z3MwLWltZ080enFaYVhOamRkZFlhX2pqMFpaNDVHRWhoRnBBck9O?oc=5",
+      "date": "2026-10-15T15:08:00.000Z",
+      "source": "Jornal do Brasil"
+    },
+    {
+      "title": "Para proteger menores, governo pede fiscalização de seis jogos com riscos semelhantes aos das bets",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/15/para-proteger-menores-governo-pede-fiscalizacao-de-seis-jogos-com-riscos-semelhantes-aos-das-bets.ghtml",
+      "date": "2026-10-15T15:00:45.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "US Bancorp (USB): Crescimento via aquisições e redução de capital – 3T26",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XX3hBTTlNelZmT042UUZjT0VuSVZrV3drMXY4QkQyMzRNM0IweE42b2c1aFkyazhNY24wTElJUGo4ZXJDR3JYcTR0R2dOQTRJSFhjS2paZlNMaEFuaUplcFFCakFndmcwSUJfNF9JTDJGNExDNEpIYQ?oc=5",
+      "date": "2026-10-15T14:31:29.000Z",
+      "source": "XP Investimentos"
+    },
+    {
+      "title": "Barchart colhe resultados da chegada ao Brasil e “tropicaliza” solução de IA",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXI5b2g5Wm1SQ2RHczFmMFpJcUo5aFE5Rk5JQXZkTmdaTkZDT1dBQmhYR2FwZWRMNjlKMzBEZDdPT0hUdzM4X0k3R21oYUJVSUt0N3NWZXh5YmpJcnoxREViY25CcXRDbjNORkpFdGxLLTZUYnV1R2JtaHJqVkRHQVRudWNNeFItSVZtRmVKa0lEUTFvNV83WHVNTklMNTUzbmlYamd3?oc=5",
+      "date": "2026-10-15T13:48:00.000Z",
+      "source": "AgFeed"
+    },
+    {
+      "title": "Jornada menor, salário igual: como o fim da escala 6x1 pode movimentar a economia?",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdG9kVlhNcW9uaS0yN2g4c0J1ZHZsbnE1THc4UTc2LXdpYkRsY3FuZGNSWkRsTHFXdGRmdTY0UGNhU21jS0lFcmJpaWJtRjFycE96QjNnTTVQNjd1X3otV3NqSElPckhXVldTYjN3QW9GSHFydmFwSUlVLV9TSUthNTZKNzMxVkp5bF9TeU5UeHBjaXRyYVkydHRPMW10OEdNeDV1c0V3MEloUzAtb0J0ckN5azJBazZyNGNUR29uSW9NTlU?oc=5",
+      "date": "2026-10-15T13:45:00.000Z",
+      "source": "InvesTalk"
+    },
+    {
+      "title": "Tesla lança Roadster hoje; Musk diz que esportivo é mais insano que os carros do agente James Bond",
+      "link": "https://g1.globo.com/carros/noticia/2026/10/15/tesla-lanca-novo-roadster.ghtml",
+      "date": "2026-10-15T12:22:12.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "6x1, 5x2, 4x3 e 12x36: entenda como funcionam as escalas de trabalho",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/entenda-como-funcionam-as-escalas-de-trabalho.ghtml",
+      "date": "2026-10-15T12:18:57.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Finanças 24 horas redefinem o mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlotZ0VnX3BEUVlSRmFyaVE4YURzd1VYa296VWVYTzBDNFFmM1c5RzY2YkhtU3dEUDJ1b1lvTmw5YXpVSDNIZTF0cGc5Q2I1anZxS0NCdDJGdUhpUklEeV9lM0Uwa3FXQU9VN0JGNG1WcDJNSjVOTHhIMS1GRGpyU1JpN2dfQnh6Yk9LWXVhdm96aXM3ODVxdm81YUU4TkE?oc=5",
+      "date": "2026-10-15T09:03:35.000Z",
+      "source": "Poder360"
+    }
+  ]
 }
