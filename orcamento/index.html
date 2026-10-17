@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Meu orçamento por blocos</title>
-<meta name="description" content="Planilha de orçamento gratuita: divida o que entrou no mês em 5 blocos, lance gastos e compras no cartão e veja quanto ainda resta. Seus dados ficam só no seu aparelho.">
+<meta name="description" content="Planilha de orçamento gratuita: divida o que entrou no mês em 5 blocos, lance seus gastos e veja quanto ainda resta. Seus dados ficam só no seu aparelho.">
 <meta name="theme-color" content="#14161B">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="pt_BR">
@@ -135,42 +135,7 @@ button{cursor:pointer;}
 .inbox h2{margin:0;font-family:var(--display);font-weight:700;font-size:21px;letter-spacing:-.01em;}
 .inbox .ib{padding:16px 18px 18px;display:flex;flex-direction:column;gap:14px;}
 .inbox .isub{margin:0;font-size:14px;color:var(--muted);}
-.tabs{display:flex;gap:4px;margin:28px 0 0;border-bottom:1px solid var(--line);}
-.tabs button{border:0;background:none;padding:10px 16px;font-weight:600;color:var(--muted);border-bottom:3px solid transparent;margin-bottom:-1px;}
-.tabs button:hover{color:var(--ink);}
-.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--ink);}
-.exp li.cardli{padding-right:36px;}
-.exp .ctag{display:inline-block;margin-left:8px;padding:1px 8px;border-radius:999px;background:var(--field);color:var(--muted);font-size:12px;font-weight:600;white-space:nowrap;}
-.cardline{margin:-6px 0 0;font-size:13px;color:var(--muted);}
-.cardline:empty{display:none;}
-
-.cardhead{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;padding-top:40px;}
-.ptitle{font-family:var(--display);font-weight:700;font-size:clamp(30px,5.4vw,54px);line-height:1.05;letter-spacing:-.025em;margin:0;}
-.ftotal{font-family:var(--display);font-weight:700;font-size:clamp(32px,7vw,56px);line-height:1.05;letter-spacing:-.02em;font-variant-numeric:tabular-nums;}
-.cform{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px;margin-top:24px;display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:14px;align-items:end;}
-.cform label{display:block;font-size:13px;color:var(--muted);margin-bottom:6px;}
-.cform input,.cform select{width:100%;background:var(--field);border:1px solid transparent;border-radius:10px;padding:10px 11px;font-size:15px;color:var(--ink);font-family:inherit;}
-.cform input:focus,.cform select:focus{outline:2px solid var(--ink);}
-.cform .wide{grid-column:1/-1;}
-.cform button{background:var(--ink);color:var(--bg);border:0;border-radius:10px;padding:11px 16px;font-weight:600;}
-.cform button:hover{opacity:.85;}
-.cform .note{grid-column:1/-1;margin:0;font-size:13px;color:var(--muted);min-height:1.4em;}
-.cform .err{grid-column:1/-1;margin:0;}
-.flist{list-style:none;margin:20px 0 0;padding:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden;}
-.flist li{display:flex;align-items:center;gap:12px;padding:12px 16px;border-bottom:1px solid var(--line);}
-.flist li:last-child{border-bottom:0;}
-.flist .dot{flex:0 0 12px;height:12px;border-radius:3px;}
-.flist .info{flex:1;min-width:0;overflow-wrap:anywhere;}
-.flist .info small{display:block;color:var(--muted);font-size:13px;}
-.flist .v{font-weight:600;font-variant-numeric:tabular-nums;}
-.flist .x{width:30px;height:30px;border:0;background:none;color:var(--muted);border-radius:6px;font-size:18px;line-height:1;}
-.flist .x:hover{color:var(--danger);background:var(--field);}
-.flist li.empty{color:var(--muted);padding:18px 16px;}
-.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px;}
-.chip{background:var(--c);color:var(--on);border-radius:999px;padding:6px 12px;font-weight:600;font-size:14px;font-variant-numeric:tabular-nums;}
-.fnote{font-size:13px;color:var(--muted);margin:12px 0 0;max-width:70ch;}
-.nextwrap{margin-top:32px;}
-.nextwrap h2{font-family:var(--display);font-weight:700;font-size:20px;margin:0 0 12px;}
+.hero{padding:28px 0 4px;}
 
 /* seus dados */
 .tools{margin-top:48px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px 18px;}
@@ -184,6 +149,15 @@ button{cursor:pointer;}
 .toolbtns .danger:hover{border-color:var(--danger);}
 .tools .msg{margin-top:10px;font-weight:600;color:var(--ink);}
 .tools .msg:empty{display:none;}
+
+/* instagram */
+.insta{margin-top:16px;border-radius:14px;padding:24px 20px;color:#fff;background:linear-gradient(120deg,#F58529 0%,#DD2A7B 45%,#8134AF 75%,#515BD4 100%);display:flex;align-items:center;justify-content:space-between;gap:16px 24px;flex-wrap:wrap;}
+.insta h2{margin:0 0 4px;font-family:var(--display);font-weight:700;font-size:24px;letter-spacing:-.01em;}
+.insta p{margin:0;max-width:52ch;opacity:.95;}
+.insta a{display:inline-flex;align-items:center;gap:10px;background:#fff;color:#14161B;text-decoration:none;font-weight:700;border-radius:999px;padding:12px 20px;white-space:nowrap;}
+.insta a:hover{transform:translateY(-1px);box-shadow:0 6px 18px rgba(0,0,0,.18);}
+.insta a:focus-visible{outline:3px solid #fff;outline-offset:3px;}
+.insta svg{width:22px;height:22px;flex:none;}
 
 footer{padding:28px 0 56px;color:var(--muted);font-size:13px;}
 footer p{margin:0 0 4px;max-width:70ch;}
@@ -211,13 +185,7 @@ footer a{color:var(--ink);font-weight:600;}
     </nav>
   </header>
 
-  <div class="tabs" role="tablist" aria-label="Seções">
-    <button type="button" role="tab" id="tab-blocos" aria-selected="true" aria-controls="panel-blocos">Blocos</button>
-    <button type="button" role="tab" id="tab-cartao" aria-selected="false" aria-controls="panel-cartao" tabindex="-1">Cartão de crédito</button>
-  </div>
-
   <main>
-  <div id="panel-blocos" role="tabpanel" aria-labelledby="tab-blocos">
     <section class="hero">
     <div class="hero-grid">
     <div>
@@ -250,52 +218,6 @@ footer a{color:var(--ink);font-weight:600;}
     </section>
 
     <section id="grid" class="grid" aria-label="Blocos do mês"></section>
-  </div>
-
-  <div id="panel-cartao" role="tabpanel" aria-labelledby="tab-cartao" hidden>
-    <div class="cardhead">
-      <h1 id="cardTitle" class="ptitle">Fatura do mês</h1>
-      <div id="faturaTotal" class="ftotal">R$ 0,00</div>
-    </div>
-    <p class="lede">Lance cada compra no cartão e escolha a qual bloco ela pertence. O valor entra no gasto desse bloco, no mês da fatura. Não lance a mesma compra de novo na aba Blocos.</p>
-
-    <div class="cform">
-      <div class="wide">
-        <label for="cDesc">O que você comprou</label>
-        <input id="cDesc" type="text" maxlength="60" placeholder="Ex.: Tênis, assinatura, mercado" autocomplete="off">
-      </div>
-      <div>
-        <label for="cVal">Valor total da compra (R$)</label>
-        <input id="cVal" inputmode="decimal" placeholder="0,00" autocomplete="off">
-      </div>
-      <div>
-        <label for="cParc">Parcelas</label>
-        <input id="cParc" type="number" min="1" max="48" value="1" inputmode="numeric">
-      </div>
-      <div>
-        <label for="cBlock">Bloco</label>
-        <select id="cBlock"></select>
-      </div>
-      <div>
-        <label for="cStart">Primeira fatura</label>
-        <select id="cStart"></select>
-      </div>
-      <div>
-        <button id="cAdd" type="button">Lançar compra</button>
-      </div>
-      <p id="cPrev" class="note"></p>
-      <p id="cErr" class="err" role="alert"></p>
-    </div>
-
-    <ul id="flist" class="flist"></ul>
-    <p class="fnote">Remover uma compra apaga todas as parcelas dela, em todos os meses.</p>
-    <div id="fchips" class="chips" aria-label="Fatura por bloco"></div>
-
-    <div id="fnextWrap" class="nextwrap" hidden>
-      <h2>Já comprometido nas próximas faturas</h2>
-      <dl id="fnext" class="summary"></dl>
-    </div>
-  </div>
 
   <section class="tools" aria-labelledby="toolsTitle">
     <h2 id="toolsTitle">Seus dados</h2>
@@ -310,20 +232,27 @@ footer a{color:var(--ink);font-weight:600;}
     <input id="impJson" type="file" accept="application/json,.json" hidden>
     <p id="toolMsg" class="msg" role="status"></p>
   </section>
+
+  <section class="insta" aria-labelledby="instaTitle">
+    <div>
+      <h2 id="instaTitle">Gostou da planilha?</h2>
+      <p>Siga @oluissantonio no Instagram para mais dicas de como organizar o seu dinheiro.</p>
+    </div>
+    <a href="https://www.instagram.com/oluissantonio/" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg>
+      Seguir @oluissantonio
+    </a>
+  </section>
   </main>
 
   <footer>
     <p>Seus valores ficam salvos neste navegador. Em outro aparelho, ou depois de limpar os dados do navegador, eles só aparecem se você restaurar um backup.</p>
-    <p id="credit" hidden></p>
     <p id="storeWarn" class="storewarn"></p>
   </footer>
 </div>
 
 <script>
 (function(){
-  // Seu @ do Instagram (sem o @). Deixe vazio para não mostrar o crédito no rodapé.
-  var INSTAGRAM = '';
-
   var KEY = 'financas-blocos-v1';
   var BLOCKS = [
     {id:'essenciais',    padrao:'Despesas essenciais', cor:'#D42F3F', on:'#FFFFFF'},
@@ -345,7 +274,6 @@ footer a{color:var(--ink);font-weight:600;}
   var storageOk = true;
   function normalize(d){
     if(!d || typeof d.months!=='object' || d.months===null || Array.isArray(d.months)) return null;
-    if(!Array.isArray(d.cards)) d.cards = [];
     if(!d.names || typeof d.names!=='object') d.names = {};
     Object.keys(d.months).forEach(function(k){
       var m = d.months[k];
@@ -361,7 +289,7 @@ footer a{color:var(--ink);font-weight:600;}
       var raw = localStorage.getItem(KEY);
       if(raw){ var d = normalize(JSON.parse(raw)); if(d) return d; }
     }catch(e){ storageOk = false; }
-    return {months:{},cards:[],names:{}};
+    return {months:{},names:{}};
   }
   function save(){
     try{ localStorage.setItem(KEY, JSON.stringify(data)); storageOk = true; }
@@ -405,24 +333,7 @@ footer a{color:var(--ink);font-weight:600;}
     var x = a.split('-').map(Number), y = b.split('-').map(Number);
     return (y[0]-x[0])*12 + (y[1]-x[1]);
   }
-  // parcelas do cartão que caem na fatura de um mês
-  function chargesFor(key){
-    var out = [];
-    data.cards.forEach(function(p){
-      var i = monthDiff(p.start,key);
-      if(i>=0 && i<p.parcels){
-        var cents = Math.round(p.total*100), base = Math.floor(cents/p.parcels);
-        var c = (i===p.parcels-1) ? cents - base*(p.parcels-1) : base;
-        out.push({p:p, n:i+1, value:c/100});
-      }
-    });
-    return out;
-  }
-  function cardSpent(key,id){
-    return chargesFor(key).reduce(function(a,c){ return c.p.block===id ? a + c.value : a; },0);
-  }
-  function manualOf(m,id){ return (m.spent[id]||[]).reduce(function(a,e){ return a + e.value; },0); }
-  function spentOf(m,id){ return manualOf(m,id) + cardSpent(cur,id); }
+  function spentOf(m,id){ return (m.spent[id]||[]).reduce(function(a,e){ return a + e.value; },0); }
   function spentSum(m){ return BLOCKS.reduce(function(a,b){ return a + spentOf(m,b.id); },0); }
 
   function parseBRL(s){
@@ -467,7 +378,6 @@ footer a{color:var(--ink);font-weight:600;}
         '</div>'+
         '<div class="meter"><div class="fill" data-fill></div></div>'+
         '<div class="nums"><span data-spent></span><span data-left></span></div>'+
-        '<p class="cardline" data-card></p>'+
         '<ul class="exp" data-list></ul>'+
         '<div class="add">'+
           '<input data-desc type="text" maxlength="60" placeholder="O que você gastou?" aria-label="Descrição do gasto em '+esc(b.nome)+'">'+
@@ -497,23 +407,11 @@ footer a{color:var(--ink);font-weight:600;}
     var m = month(), ul = $('[data-list]',card);
     ul.innerHTML = '';
     var arr = m.spent[id]||[];
-    var cardItems = chargesFor(cur).filter(function(c){ return c.p.block===id; });
-    if(!arr.length && !cardItems.length){
+    if(!arr.length){
       var li = document.createElement('li'); li.className='empty';
       li.textContent = 'Nenhum gasto lançado ainda.';
       ul.appendChild(li); return;
     }
-    cardItems.forEach(function(c){
-      var li = document.createElement('li'); li.className='cardli';
-      var d = document.createElement('span'); d.className='d';
-      d.textContent = c.p.desc;
-      var tag = document.createElement('small'); tag.className='ctag';
-      tag.textContent = c.p.parcels>1 ? 'Cartão '+c.n+'/'+c.p.parcels : 'Cartão';
-      d.appendChild(tag);
-      var v = document.createElement('span'); v.className='v'; v.textContent = brl.format(c.value);
-      li.appendChild(d); li.appendChild(v);
-      ul.appendChild(li);
-    });
     arr.slice().reverse().forEach(function(e){
       var li = document.createElement('li');
       var d = document.createElement('span'); d.className='d'; d.textContent = e.desc;
@@ -532,8 +430,6 @@ footer a{color:var(--ink);font-weight:600;}
     grid.innerHTML = '';
     BLOCKS.forEach(function(b){ grid.appendChild(buildCard(b,m)); });
     grid.appendChild(buildFree());
-    fillStart();
-    renderCard();
     renderEntries();
     updateDerived();
   }
@@ -570,113 +466,7 @@ footer a{color:var(--ink);font-weight:600;}
     descEl.focus();
   }
 
-  /* ---------- cartão de crédito ---------- */
   function blockById(id){ return BLOCKS.filter(function(b){ return b.id===id; })[0] || BLOCKS[0]; }
-
-  function fillBlocks(){
-    var sel = $('#cBlock'), was = sel.value;
-    sel.innerHTML = BLOCKS.map(function(b){ return '<option value="'+b.id+'">'+esc(b.nome)+'</option>'; }).join('');
-    if(was) sel.value = was;
-  }
-  function fillStart(){
-    var html = '';
-    for(var i=0;i<12;i++){
-      var k = shift(cur,i);
-      html += '<option value="'+k+'">'+monthLong(k)+'</option>';
-    }
-    $('#cStart').innerHTML = html;
-  }
-  function refreshLists(){
-    BLOCKS.forEach(function(b){
-      var card = $('[data-id="'+b.id+'"]',grid);
-      if(card) renderList(card,b.id);
-    });
-  }
-  function sumCharges(list){ return list.reduce(function(a,c){ return a + c.value; },0); }
-
-  function renderCard(){
-    var list = chargesFor(cur);
-    $('#cardTitle').textContent = 'Fatura de '+monthName(cur);
-    $('#faturaTotal').textContent = brl.format(sumCharges(list));
-
-    var ul = $('#flist'); ul.innerHTML = '';
-    if(!list.length){
-      var e = document.createElement('li'); e.className = 'empty';
-      e.textContent = 'Nenhuma compra nesta fatura. Lance a primeira no formulário acima.';
-      ul.appendChild(e);
-    }
-    list.forEach(function(c){
-      var b = blockById(c.p.block);
-      var li = document.createElement('li');
-      var dot = document.createElement('span'); dot.className = 'dot'; dot.style.background = b.cor;
-      var info = document.createElement('div'); info.className = 'info';
-      var t = document.createElement('div'); t.textContent = c.p.desc;
-      var s = document.createElement('small');
-      s.textContent = (c.p.parcels>1 ? 'Parcela '+c.n+' de '+c.p.parcels+' (total '+brl.format(c.p.total)+')' : 'À vista')+', '+b.nome;
-      info.appendChild(t); info.appendChild(s);
-      var v = document.createElement('span'); v.className = 'v'; v.textContent = brl.format(c.value);
-      var x = document.createElement('button'); x.type = 'button'; x.className = 'x'; x.textContent = '×';
-      x.setAttribute('aria-label','Remover compra '+c.p.desc+(c.p.parcels>1?' e todas as parcelas':''));
-      x.dataset.delp = c.p.id;
-      li.appendChild(dot); li.appendChild(info); li.appendChild(v); li.appendChild(x);
-      ul.appendChild(li);
-    });
-
-    var chips = $('#fchips'); chips.innerHTML = '';
-    BLOCKS.forEach(function(b){
-      var v = list.reduce(function(a,c){ return c.p.block===b.id ? a + c.value : a; },0);
-      if(v<=0) return;
-      var s = document.createElement('span'); s.className = 'chip';
-      s.style.setProperty('--c',b.cor); s.style.setProperty('--on',b.on);
-      s.textContent = b.nome+' '+brl.format(v)+' ('+fmtPct(v,sumCharges(list))+' da fatura)';
-      chips.appendChild(s);
-    });
-
-    var html = '', any = false;
-    for(var i=1;i<=3;i++){
-      var k = shift(cur,i), tot = sumCharges(chargesFor(k));
-      if(tot>0) any = true;
-      html += '<div><dt>Fatura de '+monthName(k)+'</dt><dd class="big">'+brl.format(tot)+'</dd></div>';
-    }
-    $('#fnext').innerHTML = html;
-    $('#fnextWrap').hidden = !any;
-  }
-
-  function updatePreview(){
-    var t = parseBRL($('#cVal').value);
-    var n = Math.max(1,Math.min(48,parseInt($('#cParc').value,10)||1));
-    $('#cPrev').textContent = t<=0 ? '' :
-      (n>1 ? n+' parcelas de cerca de '+brl.format(t/n)+', uma em cada fatura.' : 'Compra à vista de '+brl.format(t)+' na fatura escolhida.');
-  }
-
-  function addPurchase(){
-    var err = $('#cErr');
-    var total = parseBRL($('#cVal').value);
-    var parcels = Math.max(1,Math.min(48,parseInt($('#cParc').value,10)||1));
-    if(total<=0){ err.textContent = 'Informe o valor total da compra.'; $('#cVal').focus(); return; }
-    err.textContent = '';
-    data.cards.push({
-      id: uid(),
-      desc: $('#cDesc').value.trim() || 'Sem descrição',
-      total: total, parcels: parcels,
-      block: $('#cBlock').value, start: $('#cStart').value
-    });
-    save();
-    $('#cDesc').value = ''; $('#cVal').value = ''; $('#cParc').value = 1; updatePreview();
-    renderCard(); refreshLists(); updateDerived();
-    $('#cDesc').focus();
-  }
-
-  function showTab(name){
-    ['blocos','cartao'].forEach(function(n){
-      var on = n===name;
-      $('#panel-'+n).hidden = !on;
-      var t = $('#tab-'+n);
-      t.setAttribute('aria-selected', on ? 'true' : 'false');
-      t.tabIndex = on ? 0 : -1;
-    });
-    if(name==='cartao') renderCard();
-  }
 
   /* ---------- atualização dos números ---------- */
   function updateDerived(){
@@ -694,8 +484,6 @@ footer a{color:var(--ink);font-weight:600;}
       $('[data-pct]',card).textContent = fmtPct(pl,income);
       $('[data-fill]',card).style.width = (pl>0 ? Math.min(100, sp/pl*100) : (sp>0 ? 100 : 0))+'%';
       $('[data-spent]',card).textContent = 'Gasto '+brl.format(sp);
-      var cs = cardSpent(cur,b.id);
-      $('[data-card]',card).textContent = cs>0 ? 'Inclui '+brl.format(cs)+' do cartão' : '';
       var left = $('[data-left]',card);
       left.classList.toggle('over', sp>pl);
       left.textContent = pl>0 ? (sp<=pl ? 'Restam '+brl.format(pl-sp) : 'Passou '+brl.format(sp-pl))
@@ -716,7 +504,7 @@ footer a{color:var(--ink);font-weight:600;}
     }
     freeSeg.title = 'Não alocado: '+brl.format(Math.max(free,0));
 
-    // cartão "Não alocado"
+    // quadro "Não alocado"
     var fc = $('#free');
     if(fc){
       var neg = free<0;
@@ -772,7 +560,7 @@ footer a{color:var(--ink);font-weight:600;}
     var b = blockById(id), v = value.trim();
     if(v && v!==b.padrao) data.names[id] = v; else delete data.names[id];
     b.nome = v || b.padrao;
-    save(); fillBlocks(); renderCard(); updateDerived();
+    save(); updateDerived();
   }
 
   /* ---------- seus dados ---------- */
@@ -790,7 +578,6 @@ footer a{color:var(--ink);font-weight:600;}
   function exportCsv(){
     var keys = {};
     Object.keys(data.months).forEach(function(k){ keys[k] = 1; });
-    data.cards.forEach(function(p){ for(var i=0;i<p.parcels;i++) keys[shift(p.start,i)] = 1; });
     var rows = [['Mês','Tipo','Bloco','Descrição','Valor (R$)']];
     Object.keys(keys).sort().forEach(function(k){
       var m = data.months[k] || {entries:[],plan:{},spent:{}}, ml = monthLong(k);
@@ -800,9 +587,6 @@ footer a{color:var(--ink);font-weight:600;}
       });
       BLOCKS.forEach(function(b){
         ((m.spent||{})[b.id]||[]).forEach(function(e){ rows.push([ml,'Gasto',b.nome,e.desc,numf.format(e.value)]); });
-      });
-      chargesFor(k).forEach(function(c){
-        rows.push([ml,'Cartão',blockById(c.p.block).nome,c.p.desc+(c.p.parcels>1?' ('+c.n+'/'+c.p.parcels+')':''),numf.format(c.value)]);
       });
     });
     if(rows.length===1){ toolMsg('Ainda não há valores para baixar.'); return; }
@@ -823,7 +607,7 @@ footer a{color:var(--ink);font-weight:600;}
       try{ d = normalize(JSON.parse(r.result)); }catch(e){}
       if(!d){ toolMsg('Esse arquivo não é um backup desta planilha.'); return; }
       if(!confirm('Restaurar este backup? Os valores atuais deste aparelho serão substituídos.')) return;
-      data = d; applyNames(); save(); fillBlocks(); renderAll();
+      data = d; applyNames(); save(); renderAll();
       toolMsg('Backup restaurado.');
     };
     r.onerror = function(){ toolMsg('Não foi possível ler o arquivo.'); };
@@ -869,10 +653,10 @@ footer a{color:var(--ink);font-weight:600;}
   });
 
   document.addEventListener('focusin',function(e){
-    if(e.target.matches('[data-plan], #cVal, [data-name]')) e.target.select();
+    if(e.target.matches('[data-plan], [data-name]')) e.target.select();
   });
   document.addEventListener('focusout',function(e){
-    if(e.target.matches('[data-plan], #cVal')) setField(e.target, parseBRL(e.target.value));
+    if(e.target.matches('[data-plan]')) setField(e.target, parseBRL(e.target.value));
     else if(e.target.matches('[data-name]')) e.target.value = blockById(e.target.closest('.block').dataset.id).nome;
   });
 
@@ -887,30 +671,6 @@ footer a{color:var(--ink);font-weight:600;}
     });
     m.plan = JSON.parse(JSON.stringify(pm.plan||{}));
     save(); renderAll();
-  });
-
-  // abas
-  $('#tab-blocos').addEventListener('click',function(){ showTab('blocos'); });
-  $('#tab-cartao').addEventListener('click',function(){ showTab('cartao'); });
-  $('.tabs').addEventListener('keydown',function(e){
-    if(e.key==='ArrowRight'){ showTab('cartao'); $('#tab-cartao').focus(); }
-    if(e.key==='ArrowLeft'){ showTab('blocos'); $('#tab-blocos').focus(); }
-  });
-
-  // formulário do cartão
-  $('#cVal').addEventListener('input',function(e){ clean(e.target); $('#cErr').textContent = ''; updatePreview(); });
-  $('#cParc').addEventListener('input',updatePreview);
-  $('#cAdd').addEventListener('click',addPurchase);
-  ['cDesc','cVal','cParc'].forEach(function(id){
-    $('#'+id).addEventListener('keydown',function(e){
-      if(e.key==='Enter'){ e.preventDefault(); addPurchase(); }
-    });
-  });
-  $('#flist').addEventListener('click',function(e){
-    var t = e.target.closest('[data-delp]');
-    if(!t) return;
-    data.cards = data.cards.filter(function(p){ return p.id !== t.dataset.delp; });
-    save(); renderCard(); refreshLists(); updateDerived();
   });
 
   // outras entradas
@@ -940,22 +700,16 @@ footer a{color:var(--ink);font-weight:600;}
     e.target.value = '';
   });
   $('#resetNames').addEventListener('click',function(){
-    data.names = {}; applyNames(); save(); fillBlocks(); renderAll();
+    data.names = {}; applyNames(); save(); renderAll();
     toolMsg('Os blocos voltaram aos nomes originais.');
   });
   $('#wipe').addEventListener('click',function(){
     if(!confirm('Apagar todos os valores de todos os meses? Isso não pode ser desfeito. Se quiser, faça um backup antes.')) return;
-    data = {months:{},cards:[],names:{}}; applyNames(); save(); fillBlocks(); renderAll();
+    data = {months:{},names:{}}; applyNames(); save(); renderAll();
     toolMsg('Tudo apagado. Comece de novo quando quiser.');
   });
 
-  if(INSTAGRAM){
-    var cr = $('#credit');
-    cr.innerHTML = 'Feito por <a href="https://instagram.com/'+encodeURIComponent(INSTAGRAM)+'" target="_blank" rel="noopener">@'+esc(INSTAGRAM)+'</a>';
-    cr.hidden = false;
-  }
-
-  fillBlocks();
+ 
   buildStrip();
   renderAll();
 

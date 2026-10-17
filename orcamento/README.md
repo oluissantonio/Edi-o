@@ -1,14 +1,14 @@
 # Meu orçamento por blocos
 
-Planilha de orçamento gratuita, feita para abrir no celular. A pessoa divide o que entrou no mês em 5 blocos, lança gastos e compras no cartão (com parcelas) e vê quanto ainda resta. Não tem login e nada é enviado para servidor: os dados ficam no navegador de cada pessoa.
+Planilha de orçamento gratuita, feita para abrir no celular. A pessoa divide o que entrou no mês em 5 blocos, lança os gastos e vê quanto ainda resta. Não tem login e nada é enviado para servidor: os dados ficam no navegador de cada pessoa.
 
 O que dá para fazer:
 
 - Lançar entradas, planejar quanto vai para cada bloco e lançar gastos, mês a mês.
 - Renomear os blocos (é só tocar no nome).
-- Lançar compras no cartão de crédito, à vista ou parceladas, em cada bloco.
 - Baixar tudo como planilha (CSV, abre no Excel, Google Planilhas e Numbers).
 - Fazer backup e restaurar em outro aparelho.
+- Ir direto para o Instagram @oluissantonio pelo botão no final da página.
 - Instalar na tela inicial do celular e usar sem internet.
 
 ## Publicar na Vercel
@@ -23,7 +23,6 @@ Cada novo push na branch padrão publica a versão nova automaticamente.
 
 ## Antes de divulgar
 
-- **Seu @ no rodapé:** em `index.html`, procure `var INSTAGRAM = '';` e coloque o seu usuário sem o @, por exemplo `var INSTAGRAM = 'meuperfil';`.
 - **Prévia do link:** para a imagem `og.png` aparecer quando alguém compartilhar o link (WhatsApp, Instagram etc.), troque `content="og.png"` pelo endereço completo depois do deploy, por exemplo `content="https://seu-projeto.vercel.app/og.png"`.
 - **Atualizações:** se mudar o `index.html`, troque também `orcamento-v1` por `orcamento-v2` em `sw.js`, para os celulares que instalaram a planilha baixarem a versão nova.
 
