@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:40:44.516Z",
+  "generatedAt": "2026-10-17T10:36:05.694Z",
   "indicators": {
     "ipca": {
       "month": 0.82,
@@ -21,132 +21,132 @@
       "ref": "2026-09-01"
     },
     "dolar": {
-      "value": 5.0521,
-      "change": 0.15860113796316502,
-      "ref": "2026-10-15",
+      "value": 5.0826,
+      "change": 0.6037093485877154,
+      "ref": "2026-10-16",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "A bolsa subiu na expectativa, mas a realidade segue difícil. O que esperar da temporada de resultados?",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaDMzWmVKUTNKUFl5RHhaRGxYNk0zNzdrbW1VMzViUnFfcXhxb0haVzVqOWFUT19DcW55cFRKZjVYdXdDQlNXQ09lZmRLZEZlVUpoS3Nnek5jRnRKblZ0OG9zUnZnM2NnV0Y4NnliQ0t2dFFQVUpMZHVfME9OcldFaWpIRE5GaHlaOENSTXp0bWQ0Zngxc3NYQkpYZjBqMzdwZ2U3OW9TTTNWU2ZucjZEenlzMWZ4WlR2OVNxSHIxcF9STjBXaGR5bzhOSFR1NHNZMWVBaDRuWnBjb3NwNzZmb3llOA?oc=5",
-      "date": "2026-10-16T10:05:00.000Z",
-      "source": "Seu Dinheiro"
-    },
-    {
-      "title": "Cortina vermelha - Broadcast - O mercado financeiro em tempo real",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lSGN4ajU5QzFqajN2ZURmVk96NUVTWm5FSWNQc1BvTmg0dDhiTlJKbGxXNlBla1l1SVdMakZKMmlvSE56UHdOLV96bVZ3T25lQktYd3lTeTcyQQ?oc=5",
-      "date": "2026-10-16T10:00:00.000Z",
-      "source": "Broadcast | Financeiro"
-    },
-    {
-      "title": "ETFs ativos: a próxima onda dos fundos pode mirar os multimercados",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHNENmNKbzVKajhTMGFvVk5KN1dUMThwODBDQTkwdnNITjdIZFhobkhKYWxPUEdmSDlQLTVvNnZCY2Rtd3E2UjA0YkxzcDFqRDJwSW1ZRW5JcHZIR0xPcUhsYUJZbWMtRmlHVmhaemx3Q0lWYUJaOGRhM19VRTFMMnRKbGRfY0IxdWlTQ2phTnVnb1lFeGYwck9KUkxld3hqdVN4TC1QU1ZKUdIBrwFBVV95cUxQVDgyME9sSjdGbm5vZTFKRUhGbjhFOVJ2d3FVbGdJMG51ZnB6NFBWTkFuS3JfVDJtQ3BTM1k3d05sV3kycHdncjVPMDN6SHVaOFo2cG52c0dBZDV2Um56Q0xBTlloQ19VMWdSZkRmVWJPYms2WjY1VzdYZ0FmaThwSWtPZnF2U3BxTkctSVpGQmxBZmgyVFBubWVkbURZckE4LTdsNHF2Q3B4eERsbF9z?oc=5",
-      "date": "2026-10-16T10:00:00.000Z",
-      "source": "InvestNews"
-    },
-    {
-      "title": "Mercado asiático fechou em alta, com recuperação das ações de tecnologia. Falas de Kevin Warsh sobre juros e inteligência artificial movimentaram os mercados",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWWNIbk9ybWhTZFZWUHlvcW55ejA0R2ZYaWVRTDN5V0VlVHVtb3Z3dV9YTzJ0UEVSOWczWXg3MDMwdktSRi1nLTg2OEpMNmp5UXNsM1pYSHRrY3c5WnMxU29sdVNYa3c5TTFwck5mN29yamdRR0lMbWlCbjJsSk1vWFNJRHFZeDZ3ZTBvNXRLcjkteU5kYmFMczZrM0h2aHVWNmFnLXFLZHhSbGlWUlFqN0E3cUhoZUdfMVpMNmRvN1BieUlHQklzZEgtejdZTW94elh5b2FqVEFoTUpCTGVxWHU4R2hZY0Y2MDlWZmF6OWFzZTFzd3FRdzVUdDU3TWFVTXRrTGZtSHRGSzVJV1VIajFyS1FkYXRwZGdz?oc=5",
-      "date": "2026-10-16T09:59:52.000Z",
-      "source": "ADVFN"
-    },
-    {
-      "title": "Lojas viraram vitrines da internet? Entenda como os brasileiros estão mudando a forma de comprar",
-      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/16/lojas-viraram-vitrines-da-internet-entenda-como-os-brasileiros-estao-mudando-a-forma-de-comprar.ghtml",
-      "date": "2026-10-16T08:00:00.000Z",
+      "title": "Volkswagen Tera ganha motor mais forte e novo câmbio, mas vai ganhar dos chineses? O g1 testou",
+      "link": "https://g1.globo.com/carros/noticia/2026/10/17/volkswagen-tera-ganha-motor-mais-forte-e-novo-cambio-mas-vai-ganhar-dos-chineses-o-g1-testou.ghtml",
+      "date": "2026-10-17T08:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Aumento do risco dos investimentos financeiros",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQXNvdUswdUhvMFJFNVJyaVQ3QzBkRVBwY1ZuY1BwT0dDbmppdFU2cTNIY01EUXhoWnZ5cHp0N0g3X1ZuZUx2aWdLU3c4WFhtMWZ5WHBLNjFFZWlmNnVYZlB2OFRBVWZOUnpKOWZZdFJ1VUhXWkZaQU1LRTdkTW5NZVA1UmFFZ1V4R3FKRFFEWW5QTlFGcmdF0gGmAUFVX3lxTE8yWkpzYXhxbmlhLUxJQzVUMUdpT3RXMGhVa0hIOEpQTUJGYmtCWjhXR2tDeU9ZdGhxMkphb01KeHFzUDJrWGtBNjU2MTBEal9yVU1wcHNJUFVyWGRnNmhEZkJRLWlscFZEazh0VFpXUXdLdFh1Ulh4UWRRR29UYndWN3NTYUphcUJyNFRpMDBOTHJqWmRoUmoxRnhpektfYmhnSzE1ekE?oc=5",
-      "date": "2026-10-16T08:00:00.000Z",
-      "source": "Valor Econômico"
-    },
-    {
-      "title": "Ações que subiram até 49% após o 1º turno vão sustentar a alta? Analistas avaliam",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUwxNXM5SzhFTDRLalNrLUl3Zk5YZHpvZEtzcjFmQ0REZW9NTl9GTER5M1dfdjFuY1JDMUhQTXl2Q0p4YkhtMjhKb1BfdXVIRVdYWXhkZENHNU4zdU1uSTBEUkE2ejlDdVRDVVNNU2diSXdJSTJKRFI5RHRSZTZmS0V0eWFMN2U1Tk91NmVOZE9OZzhIQnpIZzRVTXJTbWp5WjA4OGExSU52MDNlLXV2LWk0cUxQNmZMM3RvX2hHNjDSAcYBQVVfeXFMT1IxVEZqODFLaWFqVFFzNEM2VDl3MExxMi1NR1FmRW43MFRQMnVsRTU1WDVRQ2pVYl9UbkJtZXpkc2VUQ3JxVHpFa0NBOUJqNGh0cUNjNHhTT0lYT3IweHpoQjFwYWZHVTFJdUxNbWpLX1FHQUpacTlWeFRFUkdDeU9id0dCTjhtMW04Ujk5MF9BVGNWU2ExNm5MVHd5elRoOEpweTQ1c1lLcE5SWXFiM3BRYjR1dm14NnZ2YWpKbDB2T3UyYjVB?oc=5",
-      "date": "2026-10-16T08:00:00.000Z",
-      "source": "InfoMoney"
-    },
-    {
-      "title": "Ibovespa hoje: pesquisas eleitorais e IBC-Br podem mexer com a Bolsa nesta sexta-feira",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOemlCVFBmU0cyaEpWR0l6Z2lqeVdxbzJWMFdGTEw3NEJhSUZLNmVuRmVIaVZxSUtQNmhrX2RXUnNWdXdpdnVsWTIzQVNvUUI2QVNnMEZWdzBOWnBvLVdLUnV1dW1PcFl3V0oxQ1FaVTNWeXVvVHNMOG9hVW9qd21iRnI1WDJFTnBtRGcycUxFN1JmLWZhakxHaEZVRlZiZzVxZWN1ZUlibkRCWEZpZUE1bVQ1TEs3N2JwMDhmWGx3aHFBTXdjVDF0Um5CWWUwWFczN2NkcUMyMTJobWV10gHiAUFVX3lxTE9WTUFLLUVtdlF1Yk1LZjdEbkdYX2JjeF9HS01FWDJXajhnMTQ3aVNhOTB4cVM5WmpJaEd1UEhZa2hacG12a2ZDMExZOWt6RHZiMVhYd09odV92QzR2YzY2dzVFb2FNdF9rRGVtMm9RLXhBNy1pR2hrRGwxemliNFhDdWxGVGMzQzMzTG5IOG84RURCa09pbXhRSU1MQ1QyU2hQM042MC1KMUNyall1OTBxNW1WMUVjcVZ1cHQ3U1AzSmc0THdvSlNvempkamh4VzJpS2VGNjZ4SzA1UHA5cGdCd2c?oc=5",
-      "date": "2026-10-16T07:30:00.000Z",
-      "source": "Estadão"
-    },
-    {
-      "title": "Seu café tradicional mudou? Entenda o que está diferente na composição",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/16/seu-cafe-tradicional-mudou-entenda-o-que-esta-diferente-na-composicao.ghtml",
-      "date": "2026-10-16T06:00:00.000Z",
+      "title": "Você pagaria R$ 2.000 por um quilo de café? Grão de MG bate recorde em leilão no Japão",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/17/voce-pagaria-r-2000-por-um-quilo-de-cafe-grao-de-mg-bate-recorde-em-leilao-no-japao.ghtml",
+      "date": "2026-10-17T08:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Perdão de dívidas, aumento do teto e mais funcionários no MEI: veja novas regras e quem tem direito",
-      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/16/mei-faturamento-divida-pl.ghtml",
-      "date": "2026-10-16T06:00:00.000Z",
+      "title": "'Superinteligência'? Por que Trump insiste em tentar mudar o termo 'IA', usado há 70 anos",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/17/superinteligencia-por-que-trump-insiste-em-tentar-mudar-o-termo-ia-usado-ha-70-anos.ghtml",
+      "date": "2026-10-17T07:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "iPhone Duo entra em pré-venda nesta sexta; veja preços do celular dobrável da Apple",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/16/iphone-duo-entra-em-pre-venda-nesta-sexta-veja-precos-do-celular-dobravel-da-apple.ghtml",
-      "date": "2026-10-16T03:00:00.000Z",
+      "title": "Depois dos carros, a carne: como a China avança sobre clientes do Brasil com frango até 20% mais barato",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/17/depois-dos-carros-a-carne-como-a-china-avanca-sobre-clientes-do-brasil-com-frango-ate-20percent-mais-barato.ghtml",
+      "date": "2026-10-17T07:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Salário mínimo: veja o que já defenderam as campanhas dos candidatos a presidente",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/16/salario-minimo-veja-o-que-ja-defenderam-as-campanhas-dos-candidatos-a-presidente.ghtml",
-      "date": "2026-10-16T03:00:00.000Z",
+      "title": "Starlink tem uma 'irmã militar' controlada pelos EUA; entenda o que é a Starshield",
+      "link": "https://g1.globo.com/inovacao/noticia/2026/10/17/starlink-tem-uma-irma-militar-controlada-pelos-eua-entenda-o-que-e-a-starshield.ghtml",
+      "date": "2026-10-17T06:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Tesla apresenta Roadster que 'voa' e dirige de ponta-cabeça com tecnologia da SpaceX",
-      "link": "https://g1.globo.com/carros/noticia/2026/10/15/novo-tesla-roadster-elon-musk.ghtml",
-      "date": "2026-10-16T01:07:20.000Z",
+      "title": "Escala 6x1 acabou. E agora? Veja perguntas e respostas para entender tudo sobre mudança",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/17/escala-6x1-acabou-e-agora-perguntas-respostas.ghtml",
+      "date": "2026-10-17T03:00:04.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Temporada de Resultados Renda Fixa – 3º trimestre de 2026",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXhaSXVSdGdmRlBidk5qVzF5ZjEtenZPcWJ5R1RZWTR6R2k5V01DVVRqMGlvMWxhSzRhMl9FYnZsUHczeE5yNUZEWVNycURaeGhONDRpemJsZWFJVUVUcV9Wa2ZpdlQzUHppQlhFYjZSWEpHaW9tNUNrS0htZ2R1TjFRWDhmZDJkYVNJZ0RsbTY4OTZPalFOcVN3NTc2b0Rmcy1TU0d4TldOWnc?oc=5",
-      "date": "2026-10-15T23:37:23.000Z",
+      "title": "IA ajuda no monitoramento de publicidades sobre investimentos",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVlsZHJsMUhiNGdqR2VwaDdSWUlGRDQ1VklibXI0dUhscDc4aUF3SzlOY0xsQndjYmcyMW9Wb2pzTE1sX2w1eHJUdWppeHNyd0FJalpfTWJPTEx2UGRQMkx2QWJ6N2hwNm9wa3paY21uSlMwNTVLMEFySHR4dnBEckduamZFOElianhfSk1naDkzV05UWEJoRUZR?oc=5",
+      "date": "2026-10-16T23:26:37.000Z",
+      "source": "Monitor Mercantil"
+    },
+    {
+      "title": "A Semana na Renda Fixa (12/10/26 a 16/10/26)",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1I5RnROYWZqeFE4djJzUlFzcEl3ZUJ4ZFZzck5YMjB5UUtVOHBXWW9wUTJYX1hBYmllMzMtczltN29NcEhJUnNMYTNFSHJ1bEEzUVJ4NmdPaF9aZG9xLWRCWHhoTGtLQi05UnRjVDJCUUFYdXNwZ29HMDVfaWJRVUxERzRmV1pRclBKS1hEemZyWHhmcUVEMHV3?oc=5",
+      "date": "2026-10-16T22:14:31.000Z",
       "source": "XP Investimentos"
     },
     {
-      "title": "Petrobras alcança R$ 800 bilhões em valor de mercado e renova máxima histórica na B3",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOREdFeUZReWF4cVM4aklnSGtuU3RqajB2SVNITGFTNWRGOUJha0tPNTBOYllGUDh0UU5TZEczYmRFUlRzUG1rRmZ3ODJVUFBITEZ0NWNCanFqaGk5MGlYM1hCRVFvSFZsaDRseXpZb29DLWowNHktSVBYZXlTTzFWSy1sQWNVbDNjQ1o4MTNGUGhvZEtkWDVYbEtjNG1aamNtUjZLb3ZZNDZHclR5MGNlWlFsYzFOQ0U2VmRINjJld3FzeWpQMDdNak5EU2U4T0I3WHJEQndBVWlCWUptaTZReFhDbE8yMEU?oc=5",
-      "date": "2026-10-15T22:17:57.000Z",
-      "source": "Agência Petrobras de Notícias"
-    },
-    {
-      "title": "Senado aprova projeto que amplia limite do MEI e perdoa dívidas de inadimplentes",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/15/senado-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml",
-      "date": "2026-10-15T21:51:06.000Z",
-      "source": "g1 Economia"
+      "title": "Mont Asset quer transformar clientes de planejadores financeiros em investidores",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVXlYWHJfLTFqQ1loRVhDOVdEQ2tlazhUbE10NHBPTnQ3MGxhMGhBNkV1M2NkcGZrWlV0ZXBEc0VERUw5SlRZbXpma1dJMVA3bjRxcjlmbzdVNnhNV1NyOWNJQjFlLUMyUWJET3FKTGVjVmhDS1lUM01PTkZTdTFOQ3ZUMWdZdDVZazBaUldFbmRBNXZFRm8wZ05jUncwcFhBWUttaC1rYzdBTk5XZ1JTMkFjV3Q3YTRWcFBjbzZmc0dqU3BDN2N5dS1BZFlubnRwWU9sSXYwM0fSAd4BQVVfeXFMUERPWjFWakV6NW02NzZIbnNzTWotbGNpOWVFd0lPRUxZczQ0ckhwcGxYT0lIZVVBdmdtc2ZUcEJDNXZ6ZllLNk1SWUs1Y2lzWjZzZzFkU1dfakdZZnJMWHJiN0IxWTRKOE5Wa2NPalM5MkFRR1g1dkJ5RTRPS3ZRa1luZW1jdVlYWEZKaFZjQkxRRm5hSlVrMGJzcVU5TE5raWdqTmhobzRuVnBGeGZiU3FKSXBrRnNHVlVlS01makM3NC1jQzBMQjJUYXB1QTFQRzh6RFBWN0R0NHVueVFB?oc=5",
+      "date": "2026-10-16T21:35:00.000Z",
+      "source": "Estadão"
     },
     {
       "title": "Fechamento do mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFZ0TnZyZmNvY1NhOHpMcEstU29CV05ha2JOUjJoazdZVE9FZHhrajEwOGRLZlZBVmgwS1VsVFlXdlVVVjNrYUpvdjRWZFBma0cydnlZa0NleDFVSXo2ZGZtUm14enMyT1lUOXVKYUhWTU9mRmc5b00wOVNxS1RWWTI4cDlEeU9lRFhYOVlqSjUxcFFJUl9YYlNkd3NITXUzSmdV?oc=5",
-      "date": "2026-10-15T21:33:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0dva1c1RVZtLTh6cXhYRVR0bHUyN0FMQ0RVcVhRcmJzNFZKRl9IU0szdEI1R2VveXpDTGkxWHlnLU5wN1ZtZEVKVnVJV2lUeGJQaFNCTWV6Ni1nOEdqZkFIMTR2c0xRaFFQa3VxVDBtWndqNXBrX2FwNkFXeExySEwzXzlmT2lZb1d3YVI4UFBvTUFyc2NaWVE0QVI3d3I2Q0h3?oc=5",
+      "date": "2026-10-16T21:32:00.000Z",
       "source": "UOL Economia"
     },
     {
-      "title": "Brasil deve voltar ao top 8 das maiores economias do mundo em 2027, prevê FMI",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/15/brasil-deve-voltar-ao-top-8-das-maiores-economias-do-mundo-em-2027-preve-fmi.ghtml",
-      "date": "2026-10-15T20:41:29.000Z",
+      "title": "Alemanha aprova sistema de poupança para aposentadoria desde a infância",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR1lEdEM1SDZsSTNFRTNHTEpadWUtdlU3LTJ0RjQ3Szd5d19DSTJaUVJaUm14VHcxZkdZbnVhcDdQcGJsS0VNY3BEaTh0bVRCeUduZ2NqdUItUDFpTXNWX1RTc3RvYlVwbDZudzBibVBqRFFtVnF0MHM5Tkd5MTlxdHU2Q1hEVE1BUUdmaXZMZXY1Qko3QWY4YmFDUG16bUV1X2xDT19Wb0RCYWZ6eU94OGF5bDNaMkxwSHBkdnBFNlI?oc=5",
+      "date": "2026-10-16T20:42:00.000Z",
+      "source": "Folha de S.Paulo"
+    },
+    {
+      "title": "Petróleo dispara e Brent chega a US$ 110 pela 1ª vez desde maio; veja o que pressiona os preços",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/16/petroleo-dispara-e-brent-chega-a-us-110-pela-1a-vez-desde-maio-veja-o-que-pressiona-os-precos.ghtml",
+      "date": "2026-10-16T20:14:17.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Casas Bahia fecha acordo que prevê mais de R$ 33 milhões para trabalhadores demitidos",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/casas-bahia-acordo-demissao-massa.ghtml",
-      "date": "2026-10-15T20:33:18.000Z",
+      "title": "Fim da escala 6x1 é oficializado no Diário Oficial; quando entra em vigor? Veja datas",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/16/fim-da-escala-6x1-diario.ghtml",
+      "date": "2026-10-16T19:55:16.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Petrobras bate recorde e chega a R$ 800 bilhões em valor de mercado; ações sobem até 110% em 2026",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/15/petrobras-bate-recorde-e-chega-a-r-800-bilhoes-em-valor-de-mercado-acoes-sobem-ate-110percent-em-2026.ghtml",
-      "date": "2026-10-15T19:31:03.000Z",
+      "title": "Escassez de capital obriga empresas a decidir melhor",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOW5ZNWp1Q0E5bEx5UWdva0Z6M3J3dng4Z2dDcnlGVVdjXzJhNEp6NnVtVlBLcDBpV1FJX3p4bnVFeDRDV3lSNlF0R01hS3Rna01VUDdFazBqUF9ycjg1S0s3Rjl5dEV4U3FXNXY4UWlRZDI5QUpXdUMwSjhaVE5hTTFha0x4dEhabjhPRWVhMkJiYUxyRFl2OGJR?oc=5",
+      "date": "2026-10-16T19:42:00.000Z",
+      "source": "www.broadcast.com.br"
+    },
+    {
+      "title": "Idec propõe criação de autoridade para fiscalizar mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0NvcWJfZENkNzNWbjVDekswczhaTGtYMWFDcDVNdjI3R25HdmppVEM1Z2YzWTFOUkdhVWJ1VnJldkxfQl9sQXo2UVNpSlVYbFJ6ck5OVms0S29OUEprYkMxZ2ZiY0JWTmxVaHMwOU14OUJjLWpEUkJpLWxtekRHVzllV21XdVNGU2hMT2FoM2FvQkdGZXJ0ZFpPYlNNVElUZnYw?oc=5",
+      "date": "2026-10-16T19:29:55.000Z",
+      "source": "Monitor Mercantil"
+    },
+    {
+      "title": "Déficit das contas públicas dos EUA sobe a US$ 1,99 trilhão, maior em 5 anos",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/16/deficit-das-contas-publicas-dos-eua-sobe-a-us-199-trilhao-maior-em-5-anos.ghtml",
+      "date": "2026-10-16T18:13:09.000Z",
       "source": "g1 Economia"
+    },
+    {
+      "title": "Aprenda a criar tilápias em cativeiro",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/16/aprenda-a-criar-tilapias-em-cativeiro.ghtml",
+      "date": "2026-10-16T17:43:32.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Alta da bolsa após primeiro turno mostra empolgação do mercado com a possível perda de direitos",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRENtdkJDVjM1eXJxR1dpMWVwWlo0NmtsLWhvZWJYbVoyeU5ibTdZTlFNdmYySTVGX2xacjhNMWYtYmxVYVk0Y0FYNE9TbS04WW1oQ1M1eWhMUnZ3aW0wQ1BGeC12anVoN0JlZFFxNWlnYVJTQ2Q2RTNQNEw2S1Q4X1Q3Z05ST3o3UHdtZ0R3?oc=5",
+      "date": "2026-10-16T17:00:00.000Z",
+      "source": "Intercept Brasil"
+    },
+    {
+      "title": "Idec propõe criação de autoridade para coibir abusos contra consumidores no mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbXlaTENXYVhLdWU1LWs1amFmanMxVnFmazlzQTZEZzhaRTNobGZORFZNU0hjMnN2ck0tRl8xVGlqa2xYd0phSVd5MWJndnNtX0lkZWJVbEhEbnZLUW1UTHdpczJWRVhsSHhlTl9NOE1vamFia080N2RFOS1YaWZxN2R4RGJkcnpEOUVocElhX19Nck5lZFdnSGtxOXctOEdWMHNkeGd2emxFTzI1SE1CQWY0d3MxMnFldmd0aGNrQnpycHJwUThFSnFSMkpUN0tOc1E4MXBpZ0cwTE13c0xMQ3B2ONIB8gFBVV95cUxOOTh2dE1uRHllWTRIaHhUU292ZnZ1WHI5bUphNjRHd0EzelZWRXRfR3l0Vm1uY2xFSGtvWkxvUFNxazJSdTZLZDRvLUJ6VmRESUxxYkY0Mlp1QUtZTkd1Q3U1STVCcDE1MTNNRzU0X2ZoSnJjZ2VWR09IQktHYk9wbUtPWENwUXo1UWVrdS1EdGt2b0tyRVdtZHAyMmwyZlJYZ2o3TlcyVktTclJ6RlEyZjBHeEg5ODhQQk9nQkJJZ2VLNzF1eC04VkZiMEI3eU9GMnFNZ0JBLUZtYUFaY3U5MnlFaVQ5LVNVa28ybU9odHlvdw?oc=5",
+      "date": "2026-10-16T14:36:34.000Z",
+      "source": "Valor Econômico"
+    },
+    {
+      "title": "Opções batem recorde na B3: volume diário sobe 79% em 2026",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdE9BQnVYc3JFYktLNXdUaVl1cV92WmxwWU1USTd2WVctS3VEQUhZeFlETUJhUllkbXlyNGZXSmVkYlo1UWk4aHJhN1RpTVZJLTQyb3pZc3I5YXRSalNBd3VzRTE0T1RoUzJZU1k2Y0VVNVRlcnowR19GSEVVVDVOUzhNcndneVFNVjFFcnFyLVlDY0lvbGQycFZ0OWNtcWx6U3NB?oc=5",
+      "date": "2026-10-16T13:37:00.000Z",
+      "source": "InvesTalk"
     }
   ]
 }
