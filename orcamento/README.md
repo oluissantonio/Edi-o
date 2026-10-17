@@ -6,8 +6,6 @@ O que dá para fazer:
 
 - Lançar entradas, planejar quanto vai para cada bloco e lançar gastos, mês a mês.
 - Renomear os blocos (é só tocar no nome).
-- Baixar tudo como planilha (CSV, abre no Excel, Google Planilhas e Numbers).
-- Fazer backup e restaurar em outro aparelho.
 - Ir direto para o Instagram @oluissantonio pelo botão no final da página.
 - Instalar na tela inicial do celular e usar sem internet.
 

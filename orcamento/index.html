@@ -137,21 +137,8 @@ button{cursor:pointer;}
 .inbox .isub{margin:0;font-size:14px;color:var(--muted);}
 .hero{padding:28px 0 4px;}
 
-/* seus dados */
-.tools{margin-top:48px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px 18px;}
-.tools h2{margin:0 0 6px;font-family:var(--display);font-weight:700;font-size:21px;letter-spacing:-.01em;}
-.tools p{margin:0;color:var(--muted);font-size:14px;max-width:70ch;}
-.toolbtns{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px;}
-.toolbtns button{border:1px solid var(--line);background:var(--field);border-radius:10px;padding:9px 14px;font-weight:600;font-size:14px;}
-.toolbtns button:hover{border-color:var(--ink);}
-.toolbtns .primary{background:var(--ink);color:var(--bg);border-color:var(--ink);}
-.toolbtns .danger{color:var(--danger);background:transparent;}
-.toolbtns .danger:hover{border-color:var(--danger);}
-.tools .msg{margin-top:10px;font-weight:600;color:var(--ink);}
-.tools .msg:empty{display:none;}
-
 /* instagram */
-.insta{margin-top:16px;border-radius:14px;padding:24px 20px;color:#fff;background:linear-gradient(120deg,#F58529 0%,#DD2A7B 45%,#8134AF 75%,#515BD4 100%);display:flex;align-items:center;justify-content:space-between;gap:16px 24px;flex-wrap:wrap;}
+.insta{margin-top:48px;border-radius:14px;padding:24px 20px;color:#fff;background:linear-gradient(120deg,#F58529 0%,#DD2A7B 45%,#8134AF 75%,#515BD4 100%);display:flex;align-items:center;justify-content:space-between;gap:16px 24px;flex-wrap:wrap;}
 .insta h2{margin:0 0 4px;font-family:var(--display);font-weight:700;font-size:24px;letter-spacing:-.01em;}
 .insta p{margin:0;max-width:52ch;opacity:.95;}
 .insta a{display:inline-flex;align-items:center;gap:10px;background:#fff;color:#14161B;text-decoration:none;font-weight:700;border-radius:999px;padding:12px 20px;white-space:nowrap;}
@@ -219,20 +206,6 @@ footer a{color:var(--ink);font-weight:600;}
 
     <section id="grid" class="grid" aria-label="Blocos do mês"></section>
 
-  <section class="tools" aria-labelledby="toolsTitle">
-    <h2 id="toolsTitle">Seus dados</h2>
-    <p>Tudo fica salvo só neste navegador, nada é enviado para nenhum servidor. Para usar em outro aparelho, faça um backup aqui e restaure lá.</p>
-    <div class="toolbtns">
-      <button id="expCsv" type="button" class="primary">Baixar planilha (Excel)</button>
-      <button id="expJson" type="button">Fazer backup</button>
-      <button id="impBtn" type="button">Restaurar backup</button>
-      <button id="resetNames" type="button">Voltar nomes originais dos blocos</button>
-      <button id="wipe" type="button" class="danger">Apagar tudo</button>
-    </div>
-    <input id="impJson" type="file" accept="application/json,.json" hidden>
-    <p id="toolMsg" class="msg" role="status"></p>
-  </section>
-
   <section class="insta" aria-labelledby="instaTitle">
     <div>
       <h2 id="instaTitle">Gostou da planilha?</h2>
@@ -246,7 +219,7 @@ footer a{color:var(--ink);font-weight:600;}
   </main>
 
   <footer>
-    <p>Seus valores ficam salvos neste navegador. Em outro aparelho, ou depois de limpar os dados do navegador, eles só aparecem se você restaurar um backup.</p>
+    <p>Seus valores ficam salvos neste navegador. Nada é enviado para nenhum servidor. Em outro aparelho, ou depois de limpar os dados do navegador, eles não aparecem.</p>
     <p id="storeWarn" class="storewarn"></p>
   </footer>
 </div>
@@ -563,57 +536,6 @@ footer a{color:var(--ink);font-weight:600;}
     save(); updateDerived();
   }
 
-  /* ---------- seus dados ---------- */
-  function download(name,content,type){
-    var url = URL.createObjectURL(new Blob([content],{type:type}));
-    var a = document.createElement('a');
-    a.href = url; a.download = name;
-    document.body.appendChild(a); a.click(); a.remove();
-    setTimeout(function(){ URL.revokeObjectURL(url); },1000);
-  }
-  function toolMsg(t){ $('#toolMsg').textContent = t; }
-  function today(){ return ymKey(new Date())+'-'+String(new Date().getDate()).padStart(2,'0'); }
-
-  function csvCell(v){ v = String(v); return /[;"\r\n]/.test(v) ? '"'+v.replace(/"/g,'""')+'"' : v; }
-  function exportCsv(){
-    var keys = {};
-    Object.keys(data.months).forEach(function(k){ keys[k] = 1; });
-    var rows = [['Mês','Tipo','Bloco','Descrição','Valor (R$)']];
-    Object.keys(keys).sort().forEach(function(k){
-      var m = data.months[k] || {entries:[],plan:{},spent:{}}, ml = monthLong(k);
-      (m.entries||[]).forEach(function(e){ rows.push([ml,'Entrada','',e.desc,numf.format(e.value)]); });
-      BLOCKS.forEach(function(b){
-        if((m.plan||{})[b.id]>0) rows.push([ml,'Planejado',b.nome,'',numf.format(m.plan[b.id])]);
-      });
-      BLOCKS.forEach(function(b){
-        ((m.spent||{})[b.id]||[]).forEach(function(e){ rows.push([ml,'Gasto',b.nome,e.desc,numf.format(e.value)]); });
-      });
-    });
-    if(rows.length===1){ toolMsg('Ainda não há valores para baixar.'); return; }
-    var csv = '﻿'+rows.map(function(r){ return r.map(csvCell).join(';'); }).join('\r\n');
-    download('meu-orcamento-'+today()+'.csv', csv, 'text/csv;charset=utf-8');
-    toolMsg('Planilha baixada. Abra no Excel, Google Planilhas ou Numbers.');
-  }
-
-  function exportJson(){
-    download('backup-orcamento-'+today()+'.json', JSON.stringify(data), 'application/json');
-    toolMsg('Backup baixado. Guarde o arquivo para restaurar em outro aparelho.');
-  }
-
-  function importJson(file){
-    var r = new FileReader();
-    r.onload = function(){
-      var d = null;
-      try{ d = normalize(JSON.parse(r.result)); }catch(e){}
-      if(!d){ toolMsg('Esse arquivo não é um backup desta planilha.'); return; }
-      if(!confirm('Restaurar este backup? Os valores atuais deste aparelho serão substituídos.')) return;
-      data = d; applyNames(); save(); renderAll();
-      toolMsg('Backup restaurado.');
-    };
-    r.onerror = function(){ toolMsg('Não foi possível ler o arquivo.'); };
-    r.readAsText(file);
-  }
-
   /* ---------- eventos ---------- */
 
   grid.addEventListener('input',function(e){
@@ -688,25 +610,6 @@ footer a{color:var(--ink);font-weight:600;}
     var m = month();
     m.entries = m.entries.filter(function(x){ return x.id !== t.dataset.dele; });
     save(); renderEntries(); updateDerived();
-  });
-
-  // seus dados
-  $('#expCsv').addEventListener('click',exportCsv);
-  $('#expJson').addEventListener('click',exportJson);
-  $('#impBtn').addEventListener('click',function(){ $('#impJson').click(); });
-  $('#impJson').addEventListener('change',function(e){
-    var f = e.target.files && e.target.files[0];
-    if(f) importJson(f);
-    e.target.value = '';
-  });
-  $('#resetNames').addEventListener('click',function(){
-    data.names = {}; applyNames(); save(); renderAll();
-    toolMsg('Os blocos voltaram aos nomes originais.');
-  });
-  $('#wipe').addEventListener('click',function(){
-    if(!confirm('Apagar todos os valores de todos os meses? Isso não pode ser desfeito. Se quiser, faça um backup antes.')) return;
-    data = {months:{},names:{}}; applyNames(); save(); renderAll();
-    toolMsg('Tudo apagado. Comece de novo quando quiser.');
   });
 
  
