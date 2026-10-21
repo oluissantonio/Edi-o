@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:39:09.692Z",
+  "generatedAt": "2026-10-21T10:40:47.163Z",
   "indicators": {
     "ipca": {
       "month": 0.82,
@@ -21,131 +21,131 @@
       "ref": "2026-09-01"
     },
     "dolar": {
-      "value": 5.0564,
-      "change": -0.5154842009994929,
-      "ref": "2026-10-19",
+      "value": 5.014,
+      "change": -0.8385412546475709,
+      "ref": "2026-10-20",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "Justiça decreta encerramento da recuperação judicial da Americanas",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDJGWnA2X0FwVjBEdk56S0VrdE5xWV9MX3JfQlNLWUV1TkFTcVljSC1HalFERF81dmZNMWR5ZkViX29Jb0VJWlY3aVRmNV80RnRaRUx0SmlMaGo2UjBmV1VFT0VjQTNiOXNBeS1MdlFENHBTeFRwLUJZNUZXZlJjQkt5WkswZGIyT0puZHhQTzFWM1JaY19IVGxLUTkwY3AtdW04?oc=5",
-      "date": "2026-10-20T10:00:00.000Z",
-      "source": "Broadcast | Financeiro"
+      "title": "DAY TRADE 21/10/2026 | Abertura de mercado e minicontratos",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTZ1ZHdKVnNKejNBckVUNVNpNmVqcnM5N0k4SUJTNGl0cE9SWEhwZjZSRThEVmR4dVVxcWdXNTVOaVgtUTVTbzUtX0NTaW9jbGlUa3NyNzI4VnY2UlIxRmNqT3QyV1AtRFp4NTR3R0lGVW42SFhqWm9WcWcxM3hMZVJ0ZFBsdWRIYXFwNmlYY2FGQ0ZXTV8wSTE5OUdvS1h6YXMtXzVQS21mNFBZTUlmSmpYYw?oc=5",
+      "date": "2026-10-21T10:12:39.000Z",
+      "source": "XP Investimentos"
     },
     {
-      "title": "Pesquisas eleitorais, debate e fiscal: o que pode mexer com o Ibovespa até 2º turno?",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVS12dFp4WDFWY2IxRUlYZVQzUURWMks4TUxLc0NGX2FNeTkyWElQZWJQUkUwbzJwSktEZ0RmeWhuOHc3VUU4N1lnNkQxX1BMelBGcXpWZXJ2VXBaUmpwd1hYOXJoSVFod2NOLWg1WkE0eFpORnBrSDI2MFBXbnlxclczOWFtMWhTTXRsVE9tMDRnbm9JWVQ5NGgzbWtsNXY1alJMUi1qWUJhNkNvOHltRG1NU2l1Y2JrZDZucNIBwgFBVV95cUxNWGxIR2dnVnR2WFppeHZBaWk3cDRCRldGeGlFQnBtVTZDam5wVXhzMnFrX3J5N3hFZDdiOWV3UVc4TUdoOWFfbXVfZG50VWpRakl2X3pvR2dpOWJ0TkJoZjYwM0h4R3FaMXRhWGFoR3Ywel9WbXE5R0llQXJaeXhjeUhYZl9lMFRSWm1Rc3RNN1NpQXB2SFZhZWRWOXhldm9RY0F0cmdNekl5RDYyNFYtS3BRbGotT1ROSEpHMmh2R3hGdw?oc=5",
-      "date": "2026-10-20T08:00:00.000Z",
-      "source": "InfoMoney"
+      "title": "Desigualdade limita avanço feminino nas finanças",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSXg4WjRzM1VJZjB5eGpjVy1MTURnZFJzVjJYMVRmY3IweHQtMTBGLUVLN3NWREpCNzlabTVLOGFTM0lIY291S3ZMYkR5Mld1amFOMTNYd2hNRlJscWpPdTg4TFBNTEpxSkdPTDB0TDkyTXY5b1NKX2xOYmNRRDVoTXFuTFpfekV2VHhPVW91OWZXM0dWX0NkVUxnS0JMVS1hQ0hGbHBEZHY?oc=5",
+      "date": "2026-10-21T10:00:00.000Z",
+      "source": "Capital Aberto"
     },
     {
-      "title": "Jeep Compass 2027 ganha versões híbridas, mas ainda custa e consome mais que rivais chineses",
-      "link": "https://g1.globo.com/carros/noticia/2026/10/20/jeep-compass-2027.ghtml",
-      "date": "2026-10-20T07:00:00.000Z",
-      "source": "g1 Economia"
+      "title": "Saiba quais indicadores e balanços saem nesta 4ª feira",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZy1Bd19NdDZVeWJ5NVk3MUJEQkZ3RllrMGx2QVFLaUwzeEk2Sm5INFBIcWFnREJvY0pvNEdvaWVvdk1SckYwemsxR1hLZmhmaERNVzgteTN2U1ZaaGs3SldOYzF4R3Z4eXRlUXFlQ0g1b2h0T2g1YVdQLWgyRUpEMmJIRV9IRlMtQ05OQ1lSM2gwejdEVkNRMDFGeEh6LVgzc2Mw?oc=5",
+      "date": "2026-10-21T09:02:44.000Z",
+      "source": "Poder360"
     },
     {
-      "title": "Flávio contraria discurso do ajuste, mas mercado mantém aposta",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYWtFcnl4WkZnS09fbWdnRFF1eEE1SUtERG52UFlOUFE2QWVPOFZhUU16TEU2Y3dITF9oVnZEMC1EUVhPYzBoUmFpQ0lTd3NNN1ViZ3RFeVlZOXMxa3BxaWlFUHpac0VYeXVUcFk1U0tpTWxmSlZwR05vcnJYSl8wbTRmYnZJR3NaTVpiVTBBcWV2cGI2UGRkR01OZzVxamE4cGl0MWZJM2VhaXJ5SVVsdDVrTllGTU1UUkNNOC1yVnEtbHR3WWN0T0I0RUxsLXM?oc=5",
-      "date": "2026-10-20T06:39:41.000Z",
-      "source": "CNN Brasil"
-    },
-    {
-      "title": "Como americanos enfrentam a alta da inflação: 'Já fiz coisas insanas para sobreviver'",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/20/como-americanos-enfrentam-a-alta-da-inflacao-ja-fiz-coisas-insanas-para-sobreviver.ghtml",
-      "date": "2026-10-20T05:00:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Doença de Newcastle: mais de 130 granjas são monitoradas após confirmação de foco em SC",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/doenca-newcastle-130-granjas-monitoradas-confirmacao-foco-sc.ghtml",
-      "date": "2026-10-20T04:00:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Salário de até R$ 80 mil: mercado financeiro, dados e auditoria devem liderar remuneração no DF em 2027, diz guia",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdlIxSC14cS1YNERtaWVDYk03YUh3YWsxdnJpc1FLam12ZWZQT2EyVnk2RlZwY3d3NnFZMmMzM3JBNWdsMVMwZmJCMi1fUGx3OFFBOXVtM0ttQ0J6d3NJZ0NEdHRFb0laZ0xaTVZpMDdqcjNabUZway1VR1c1dEtzVFZBRVFMR2g3aTluSDk5WndjdVVsTlBUaVFKQWs0MHlLQ0dkX1RLaHdBSTZpNlUyQ0dlcU9rdS1VRHVLVUROY0pTYkdta1JKMHRuSTlzMFRGXzBwV3pUUHZTY3hobEczUEpDSnE5dFFqRWVwOW05aV8tUFFfLVUybUtVbEVGU0E4WGhLT3VB0gGUAkFVX3lxTFBrelJZbm5hNWNaTmQzM1F4Um5iUFJPX0dQV21hN1RKdVZ2TzhNMWRZZ1ZwUjVWRnZfeDhlWndpVWkybXRSajFNR202cF8tNDVnQkhuaFZrNWhPY0hRazRjYWlRU2dZM1VOR2k0bE4xUFJTMmROT2xFX1lFTUJqVUZRX09FdEplZS1ZUUFMbzk5b241aDZ1N2ZCQ3RpQVExalJSdHZNSVRDc0pYNmpBT0cxM2stRjNMOXRQbnVnUHdmUnExSkh2YUVYMzhGcjA2R3pyU0thZEpnaVNVNHdRTFFsMDh5cktDX1dLSThQLXZ2Z3lTbE50c280TW5uWWsyazdLZk54c201X2FrRVVzYXNJdGg2dg?oc=5",
-      "date": "2026-10-20T03:05:00.000Z",
-      "source": "G1"
-    },
-    {
-      "title": "Profissões em alta para 2027: veja cargos com salários de até R$ 93,5 mil",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/20/profissoes-em-alta-para-2027-guia-salarial.ghtml",
-      "date": "2026-10-20T03:00:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Bolsa Família: pagamentos de outubro terminam amanhã; veja quem recebe, valor e como consultar",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/20/bolsa-familia-pagamentos-de-outubro-terminam-amanha-veja-quem-recebe-valor-e-como-consultar.ghtml",
-      "date": "2026-10-20T03:00:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "México suspende importação de frango do Brasil após foco da doença de Newcastle em SC",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/mexico-suspende-importacao-de-frango-do-brasil-apos-foco-da-doenca-de-newcastle-em-sc.ghtml",
-      "date": "2026-10-20T02:57:17.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "FÓRUM LIDE ECONOMIA CONECTA EVOLUÇÃO DO MERCADO FINANCEIRO ÀS PERSPECTIVAS ECONÔMICAS DO BRASIL",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdTUybTBjLWRYZjQzOHJ0dGFOOHgwR3JrcHZfVkNxVVlUZkUycUk4SW9PdjM0UUhnWjY0cG1VVjBBNlhPTkh5Tld2WkF3YW5QZ2Y4ZXEwOU1VdDVUR3hiMW1SUzFYamZ2bmRtbmRreWlvemtlVWl2WDItbWxseGI2SGtSYndNcV9zbjMzSFVHZDNxcmxURUY2WGlpRUZvWlZjNUkwa24tczBvcFBpQVRhUlZHMFRGb044X2FSdWpJTlo2VktQNzJEY1JCWW5jQlBVcFk4?oc=5",
-      "date": "2026-10-20T02:16:14.000Z",
-      "source": "Hilneth Correia -"
-    },
-    {
-      "title": "Justiça encerra recuperação judicial da Americanas",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/19/justica-do-rj-fim-de-recuperacao-judicial-da-americanas.ghtml",
-      "date": "2026-10-19T23:24:34.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "CVM e Anbima estudam tecnologia para baratear operações com ativos imobiliários",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWjBSTkczeUFhN2JEUzN2U2MzM2xTWm04emJvMkNRT204OW04QURjdkNDQUZGbDlnNVI4U1poNXlHUDJISmNRLTQ2WWVJTGxNTUxDMkdZeGx3cU5NREpkaWh1QlQ2dHpBN3g0NWJqQktUUDVDWmRpSFBnWWVzS2tqRDQ0MUpxLVAxLU9yb3FYT2FzSHJtN29IU0FsRDdZcG9yV0JtcjhjMHFBU3A0c0tZRzJyX1lyZDh1Sm1pdDFVLUltbXBrZmJj0gHMAUFVX3lxTE9tUWhCMnJlcHlnVFNyOVBDVkVwSmh2dFNxRmZ6dGZaSk1wd3Fmc2FXMFg1VVlGX1Z1djdkdmRLQVJ2eTBta2laaFVCbjY0UUduVVVtXzNlZ0R3MTNfS1BNMmZBUVZIS1BTLUtKZFZUWlBIUVROaFBLM3ZwdEJXUS1OQjZ4MVRpTjF3eTg4Y0NXWWxmVlpGVlZFWjFqZTNHSXV2MUdKdGthU2d5Mmt6dVVPSmV6d21kN3dMX3A0TVl5eW0zdU1LMndUWHNUMg?oc=5",
-      "date": "2026-10-19T22:21:00.000Z",
-      "source": "Estadão"
-    },
-    {
-      "title": "Mercado de opções bate recordes em meio às eleições",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXg4Q3RRVFNNdXp6VHI4bTlXRmw4UXJwTjBIX3EwRkVXa0ZKbjUzd3g2UzZmOTB6M3MwS0dSRXd3bk0xY1RJaXFVQUUyQUs3b1J6MFRMc3NROVVrcDVwRDVabXQ2bzZlNDVSMi1WbjJOenM1UWtHYjNwMHI4VkRWelA3T2cyYnhYc2NMdm0xMW9CZ2RlMFR0eVhqZ3dLbTcyZGFB?oc=5",
-      "date": "2026-10-19T22:06:36.000Z",
-      "source": "Banco Inter"
-    },
-    {
-      "title": "Argentina de Milei prepara novo corte de 20 mil funcionários públicos; 77 mil já perderam o emprego",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/19/argentina-de-milei-prepara-novo-corte-de-20-mil-funcionarios-publicos-77-mil-ja-perderam-o-emprego.ghtml",
-      "date": "2026-10-19T21:43:10.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Fechamento do mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVdxbnJoRFF1eEd4YlhGdVNkMWZaaFlHNmtJOTh5Y25qRG96WjFiVkhTd1FkNjBpZlJaelAzRFhPTWZKYlY1azBXTzFpWmNQbEswSy16NEEtWkt0ekc4TUt3R0FDVUdub0hZTXFNYWE2NXJyNGFkOVJ4OUxtd2JVT01FbHI1ZWZUeW1LMnpmdnpaTDdfdXQyc2pNYzh6d1IwRDNN?oc=5",
-      "date": "2026-10-19T21:34:00.000Z",
+      "title": "Mercado aumenta uso de influenciadores digitais para atrair investidores",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2I3emdYbnJsQ1pMRzQwRWdpcF95S1hpRkFKOXJiMjB5WUdQM1dFVlZhRkk4YlBtYUs2ZVlyRExJenFhNXRWdGU3WGpBb1hJenRQYWNNc3FSUzV2eFdHNXVNN2dSeHA5LWlfdmxkVUlmeEdKOUlzb1dtV0dyQkE0SFpaV3hxRHpKUmNydHFMbjNYdzIzTGdrYUM5Q2NfZkk4enZreUlBdWt0SlEwRmlQb2poM3B3MEgwSTlnZExCNWpESW0xV2pEMmxHZW5PQQ?oc=5",
+      "date": "2026-10-21T08:32:22.000Z",
       "source": "UOL Economia"
     },
     {
-      "title": "Mulheres ocupam só 20% dos cargos de liderança no mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDVvRS05ZWRUUVVUdU54QVdqNUtFU0hOVC01TXhlZVRVWF9fZ0VYT1M1b0U5dk96anlyM1ZvYnFuTGJQQnJxZVpBcWM1WjhmTHJjZnBnUHJvUWpsTDVQYnFPbDkya241Sl9PNFlEaVhTRDN2SUZvOVc4WUh0aE1mUnNRdFJ2MEdJcV9yYmN4V1dXb2VKRmJzSUZCY1ZEYWpRYkFsb2w4eWU2Y3BWMm1FWWdDRHRYMFBINXI5am1TRFNPbzd3SkxmUWp3?oc=5",
-      "date": "2026-10-19T20:56:58.000Z",
-      "source": "Jornal do Comércio"
+      "title": "Os 50 anos da Lei do Mercado de Capitais e da CVM",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2gwVW5YWkNsemdOUF9RYTliZHpaWDBTdC1YYUZlYUNuTFJXMjBJRTQxU2NfczBDWDA5MWlnOVdMV3lDd2tLRzRvYXItX1ZwNkZDbUhCdkpkNDFxVGpPQXlaOTRyX015SFUxbVhxVmthdlQyTl8tMDVHbFEweUpEMFFKd0dIRVZwNnAweFZRcGNxeU1QWFJOSmZ4ZUJ2LXN1SkQ4d2t2S0tmd1gwYU1nbUlXbm84MG1NV3Mya185Q3JmaHRXdVE?oc=5",
+      "date": "2026-10-21T08:16:32.000Z",
+      "source": "JOTA Info"
     },
     {
-      "title": "Japão lança foguete para missão que pode ser a primeira a coletar amostras de lua de Marte",
-      "link": "https://g1.globo.com/inovacao/noticia/2026/10/19/japao-lanca-foguete-para-possivel-primeira-missao-do-mundo-a-uma-lua-de-marte.ghtml",
-      "date": "2026-10-19T20:17:48.000Z",
+      "title": "Por que ajuste fiscal do novo presidente do Chile leva a crise com desemprego recorde",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/21/por-que-ajuste-fiscal-do-novo-presidente-do-chile-leva-a-crise-com-desemprego-recorde.ghtml",
+      "date": "2026-10-21T08:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Quase 500 mil brasileiros na malha fina receberão carta da Receita Federal",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/19/quase-500-mil-brasileiros-na-malha-fina-receberao-carta-da-receita-federal.ghtml",
-      "date": "2026-10-19T19:28:21.000Z",
+      "title": "Temporada de balanços: mercado prevê dados ruins por juros e inadimplência",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGZpM20yeUFmdWxISkJsbGZEbjhuR1cyV2l4WkU0U2ZCOVktd1k2VWRBVjdveWtQR1RhSUVnTEdmWTdnVTVBZVIyUU84b1RUNk8tVHlGcmxucGFCR1cwcTd1Y2x4UGV2MjJncWpYbWN3SEp3UHdSemp3TDI5NzBPYjgzdnBTVE9XS25hZ1NDQjlBUk53ckk5Q3FFOGpOVTVoZHVjU1QxVGVVclZtNGE3MkoyeTAxMTdlaTFPcEdKTDdWRm9o?oc=5",
+      "date": "2026-10-21T07:05:42.000Z",
+      "source": "CNN Brasil"
+    },
+    {
+      "title": "Após seis anos de atraso e crises de segurança, maior Boeing 737 MAX 10 é aprovado para voar; conheça",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/21/apos-seis-anos-de-atraso-e-crises-de-seguranca-maior-boeing-737-max-10-e-aprovado-para-voar-conheca.ghtml",
+      "date": "2026-10-21T06:00:00.000Z",
       "source": "g1 Economia"
+    },
+    {
+      "title": "Os maiores salários para 2027: veja ranking de carreiras por setor, para quem quer ou não ser chefe",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/21/os-maiores-salarios-para-2027-veja-ranking-de-carreiras-por-setor-para-quem-quer-ou-nao-ser-chefe.ghtml",
+      "date": "2026-10-21T06:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Chefe da Ferrari dá nota 10 a Tesla que 'voa' e elogia Elon Musk: 'Temos que continuar sonhando'",
+      "link": "https://g1.globo.com/carros/noticia/2026/10/21/chefe-da-ferrari-da-nota-10-a-tesla-que-voa-e-elogia-elon-musk-temos-que-continuar-sonhando.ghtml",
+      "date": "2026-10-21T06:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "De produtos baratos a líderes de tecnologia: como a China passou a superar gigantes ocidentais",
+      "link": "https://g1.globo.com/inovacao/noticia/2026/10/21/de-produtos-baratos-a-lideres-de-tecnologia-como-a-china-passou-a-superar-gigantes-ocidentais.ghtml",
+      "date": "2026-10-21T06:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Getty Images entra com pedido de recuperação judicial nos EUA",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/21/getty-images-entra-com-pedido-de-recuperacao-judicial-nos-eua.ghtml",
+      "date": "2026-10-21T05:48:07.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Por que o mercado reage às eleições antes mesmo de a economia mudar?",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/21/por-que-o-mercado-reage-as-eleicoes-antes-mesmo-de-a-economia-mudar.ghtml",
+      "date": "2026-10-21T05:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Doença de Newcastle: operação fará visitas a 1,6 mil propriedades em áreas perto de foco confirmado",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/21/doenca-newcastle-visitas-propriedades-perto-foco-sc.ghtml",
+      "date": "2026-10-21T04:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/21/lula-sanciona-nesta-quarta-lei-que-preve-perdao-de-dividas-e-aumento-do-teto-de-faturamento-para-mei.ghtml",
+      "date": "2026-10-21T03:00:01.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Smart Sampa: como funciona o sistema de 58 mil câmeras de SP que teve senhas expostas por 11 meses",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/21/smart-sampa-como-funciona-o-sistema-de-58-mil-cameras-de-sp-que-teve-senhas-expostas-por-11-meses.ghtml",
+      "date": "2026-10-21T03:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Acordo de compra e venda de títulos de renda fixa",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeElLaW9VeXVjRFJiTXBTTzFHWWw5Tm5IQ2FsUFZ6WjFPZ2haeGxyTlcwOHEtQ2U5djg2b0lFLVVLTmxsTnhpYnJpbjJ2TGZ4TENaTDdTTmt2bWtqRzM4RldseEo0N19YZkdmR2xwVDFMQ0gzN0RGd1JyWmpxT0RVOVJsU3Q3TTdPX0E?oc=5",
+      "date": "2026-10-21T01:52:31.000Z",
+      "source": "Monitor Mercantil"
+    },
+    {
+      "title": "Setor financeiro avança em aquisições e dobra participação em negócios",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPckV1OW5PMnVqa2ZEel9lZTVSMTBPSjY5M0p0MUdLb2JlcmhLZEtfQzZWQWxGNmtTN3lWY1J5N3E3VXlvUnFmRnY2djVtN0RESG1ER0ZHYzlMRGkyRXFjYlA3SC02VGZOXzEtM04wNFlEaHQtODhrd2pLUG9kS1ZCcVhRRkFGd2JDVUJETnRic3JYVUpLZjRsblU1TU1RcFhBdnpLc20yUGdmWDN0RTdVVXlQOTVfdFVHd0pYMUpFNmLSAcYBQVVfeXFMUEtNbTdMeTNkaElZQTZGU1dOTGZ6aFZBQ19ZRmFkdEV5UERKREJ6R0ZsdGhtNEkyVldHcEYwdzhkdTBtdk12NlVZNU41TWc4TzZqZnhIUjZaVEo2RHdFREpmUEtnVWpIdFJkTmlhZFF1aVNyODVySEhjVXlpcExuRXg4Z3JWQVBwX0hDNENZZ0c5a0lsMlRHRFhjZlN4X2NtXzVHR1RfMHF4SEIzejJaYmpDdUVRcWZuTU10Tm82bTVDcXBpbFh3?oc=5",
+      "date": "2026-10-21T00:59:00.000Z",
+      "source": "Estadão"
+    },
+    {
+      "title": "Anbima: Mercado de capitais movimentou R$ 556,7 bi entre janeiro e setembro",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaC05aUJ6Ym9qNG16T2dwTmtlMHVsSHpxUzhmeXpQN0hzdXNvVlE0Rjg1cU9QT1B6Ui14RFZuR2E4ekMwWEZmd2FjYTluQjNDaDI5Zm1TY0tOLURNSXBOOXRhT1JfT0dqZDl3RzIxZk1CV0FoeHFqdXdfUFpLa2lVb2ZKcjhycUhNaUxqSF9FMUNNd1ZaVUV2OUFGb2RlNm1yWUl6cmllZmlYbmFueHlxWVN5UWNXNkVmVmc?oc=5",
+      "date": "2026-10-20T20:02:00.000Z",
+      "source": "InvesTalk"
     },
     {
       "title": "Mercado financeiro reduz expectativa de inflação para 5,16%",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QV0NSOWJBR2otVU1MbUh4Q2JzMWdxRlBiNGJuSGtfcTVqMU05ZmhCbzFlbmpUcWYzcXgzV05XNm9STnFCRGlLZkpVZDZkaWpqckUzZ3FaS213VlJw?oc=5",
-      "date": "2026-10-19T16:01:00.000Z",
+      "date": "2026-10-20T16:26:00.000Z",
       "source": "Agência Brasil"
     }
   ]
