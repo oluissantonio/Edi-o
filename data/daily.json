@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:37:16.202Z",
+  "generatedAt": "2026-10-25T10:37:37.158Z",
   "indicators": {
     "ipca": {
       "month": 0.82,
@@ -29,28 +29,76 @@
   },
   "news": [
     {
-      "title": "Volatilidade é mesmo a vilã dos investimentos?",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWFIdWNwcG5TMWlSVUpKWFNnZU1JbnplVmtNT3FDOVVSQ0lzYW44cFdjZHkwMG9ueGlPNDdTVHNGeXJ3UEg3STBFWDh2UlhLb3RhQ0hSSUQ3Qk0yN3VpQUJCWGk1YlhRdlRKanVOY29mX2lFUkwwTURwVi1MVVlpRFNuMndESWFXczI5VHkzV2ZaLTd5VXpUYnVsUHBpX0k?oc=5",
-      "date": "2026-10-24T10:00:58.000Z",
-      "source": "CNN Brasil"
+      "title": "Do mercado financeiro ao empreendedorismo: a trajetória de Jonathan Félix desde 2007",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOW5CelhKSEFDMHgzX3Jkb0xvdWtvbW5jWFp1Z0hIWHVsWWluTWxsYnhyc0ZCUGdyVkhVU2l3WEFQOHhDRXdfbHFXZ3BnZlVMUm93WlByWmtUQlNobl9UZlh3T2Fsa2luQ3U1ZDI0RkdPU01kYm5oV2c2WUR5MmFOWXBpZ240LTFuN2Z4UkI0NzdCVThKRzVyN0xOWXQzV3M2OWxYX21ob0NhM1Y1SkRsNlYxRWJqN3hKMWpjckVpak5Pdw?oc=5",
+      "date": "2026-10-25T09:50:07.000Z",
+      "source": "jornaltribuna.com.br"
+    },
+    {
+      "title": "Palestras de Campos Neto ‘inflacionam’ com chance de ele integrar eventual governo Flávio",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYkI4U0RZbFZVUkdlWkhjanRpSnNUazM5M0tNS29EcXRzUnNTNlQ4UTJyTVVUZ19WdldzT0FfZzhpRF9zZi1zOHZHeXpOQVU0TlJsb1lTdnZqOWFfak9HT0Z0c0NaYldKWWNmdUpLYkdtcFRnbEc3d2dCN280TWlqNnZWSlVEM3R2MElhdUV6MmZwb21PTlJHOUdCOVFVM0FNNHlsX1o4M3FMc29XalRpM3ZxWnNFV1pqOEtxX2MzQldZbVFSYjhuMVdEVVFLMDh2MjdoRXI1b9IB3AFBVV95cUxOUFFjS1hnV2J2ODVyVmdlWlRDRkVQS3RYV1RzeWx4MHhnRTZoay1sT2MxR3F6MTUweG1HUHgtVmVPakpnanlodnNHalFvRUxHTXYyZ1ZobWZaSHFGbUNva2xERnpXcXJhN3dzdjZiaGExVkRCaFFET0YyY0VzbHhkYWJlbVpZazhOLURSc1Y4bmJZR3hkeWlsTUR2NzdXOTFsR2hBTU9QYTNXejMwUHhJZkhUNEZkd2JuUmJ5bGliWFR1bVhnY3pRSVU1TWpCVnpRLXhVLUZ4bUxxTEtQ?oc=5",
+      "date": "2026-10-25T08:00:00.000Z",
+      "source": "Estadão"
+    },
+    {
+      "title": "Próximo governo terá 41 cargos a preencher em agências reguladoras, BC, CVM e Cade",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOajZlUERHclFINlRWendlRGtmWnJKdy0wMGh4RUVSOTJzVHo4VVF5dXV1MlZIeHJyV3pEZnBCTmJ4eHNwdXhpVXB2YkdOc0YtcHczUEkwVGpGWUVUSHBOS0RLTTRWLXhVQ05wbVVLSUE0WHh2UzhLd29ITmEzeXFWeVR1SUZZS181MjhhRFZ5dC01N1QzTW5uSTNIY0lGM1Q4RFhTUFEtakhLekNPaEcyVG9IY1lXUmVqcko5X0tHZjJyTWJfdDRaOXdFYTlEQWp4enpBZFd30gHkAUFVX3lxTE9SbjlFelJ2amxvMnFCRHVFUGt0aWhoTmR0aWszaVdoSHotdGFzMWZLM1lzc0FNOGxZeXhSUURja3lqVjNPX1NRNWFvdDFPOGpUam5mLWpPdlNKRzdSSWZUMXY3bjhWY2Fka0JYSmROWVdUMGhMcGs4b2EzdWU4SHdLZHA0THJWcWM3S0NndUhXZm9sT19XMVNGLUM1ZGdfLU5GY1VOam1qSGxXSmFyWkt1ejN0eDZWYzliZmRqZ1JNcFNDV2xVRGo3VE91Qng0eEVvRXlXc2tzb1dudFhwYm1BVzVzZw?oc=5",
+      "date": "2026-10-25T07:00:00.000Z",
+      "source": "O GLOBO"
+    },
+    {
+      "title": "Colunista - Ronaldo Fiani",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBobGREZFhHcG5qeXJ1d2VTTkNSQXZ1WVJpamUwM2p3MGR5WkFMaXVVTXVwUnNOSmlsR3E2OGpJcFpoenpyQlNKcG80M0RuVlRLYVFHY2E4Q29VVXhrMG5wM0JPVHZVX2wtOHhwbHlyQnNDa2hHSHFtdWl5bw?oc=5",
+      "date": "2026-10-25T03:02:44.000Z",
+      "source": "Diário de Petrópolis"
+    },
+    {
+      "title": "Varejo, alta renda e private: como os bancos segmentam clientes",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNkVlQ0hqV3d3emgzQ2Q4Yk43WEdrMGtKd0FHeEpRZldGaEZWTW5KdWRmZlhFSWs4RWNLcjlXcnpPY3lwY21NQkRnQ0RGM01wUGhCeTFZbEVTVVpJa2tJam52WUZMbHI5WlI3a1pxQ3VWVTB4T0N5Y2E1QmVrU0RSRGVnSDRuRDFLdkJJRGt5dXdfN2JfSXQtbHViWkFzX3hWNlE0eFJ5VDh3LTBhcUVrYUlzazdmZ3VvXzY2dC1fbkF0dzhybmpjYzQyNmVxRHZ3R1FjMEotSEJhV3dnM09hQURYUnF1RUJP?oc=5",
+      "date": "2026-10-25T02:00:00.000Z",
+      "source": "Safra"
+    },
+    {
+      "title": "Magazine Luiza dispara 71% em outubro e recupera quase R$ 7 bilhões em valor de mercado",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQempXLXY2LXVwV3JzeDh0UWxNZW1qRzNNZ29PRGlGSGFHTE5TekNqaURwT1V2N2daQlB0OTlsM1k4R0hCbHlqUnk2OTZBQWZwMlNGQmEwZ08tVXlpNFF4UWdtOXg4ejFXZE9sTDZSY3JGSWNNM0J1WWNYTkRLcnBkRS1rOXhlTjNiRFZSRnBtSVRuUlVjMWMta3JfSzFQQTd2ZUQ5R05vNkRjRDdLSUZrSXdNbmwtWHlaaGl6c1VRMFg?oc=5",
+      "date": "2026-10-25T01:13:00.000Z",
+      "source": "Balada IN"
+    },
+    {
+      "title": "Mega-sena não tem ganhadores e próximo concurso pode pagar até R$ 300 milhões; confira os números sorteados",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/24/mega-sena-concurso-3074-confira-os-numeros-sorteados.ghtml",
+      "date": "2026-10-25T00:04:27.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Dúvidas sobre a Raízen (RAIZ4), bolsa de olho nas eleições e balanços no radar: veja as matérias mais lidas da semana",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbUJvX1NMQmtuZEk4clZsaUZ2M1A5UTJQQmJEeE9ZZm9vcEI0OVJkS3U0bVlrUlR3NURfd3MyQWZ2MGVOZXhhYnM4cjZmMkhaelhGOGZJekoyeDBubm9jRXY0U2M1Zm05ZUs4REZkQVA0NW4tYk9HQkx1Y2hvUXd0ekt1bko4T0JmZ2lDWU1SNmFhOEFaQTZwMGw3ME9rTm5NR2tDalRkNEwzY2wyMHhzTjVwUWU0M0ViZlB5V0p3czVxWnBjd0lVM0FPTUZ2eEE1Rk5GMjJ5dm93QmJ5bkU3bHUzTUZVT1R6T2RFOGM4cnpscTg?oc=5",
+      "date": "2026-10-24T18:45:00.000Z",
+      "source": "Seu Dinheiro"
+    },
+    {
+      "title": "Trading ao Vivo Agora no Mesmo Aplicativo Utilizado pelos Clientes para Abrir e Depositar Fundos em Contas",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWTl6NEgySktXWV9mdnVtWEsxdTgtbjVoMXJZU29GRmxPOHZZT09LcWJNSjVMUzJoeTltWFZTMjhVczU3UXdWTExGU19UT2Q1VDdwTUZ4c0hKd0M0YUFHQ0toUE9kbW9MeWE4LVpfbHFGTGtZVjBVNFYxUDZSVU50SmxSS1ZSZmFPZFA3emZzUFRKbUowNmR4U19yYWxNeEQ4SHlsdW1tbTJXOEdjdXA3YXpVcnlPeC1TTVZlMmE3dlduQmxkdW5PMDB4bWk5VDNvQUJkZjJZVXRBV1g4bGM0YzBB?oc=5",
+      "date": "2026-10-24T17:42:00.000Z",
+      "source": "www.broadcast.com.br"
+    },
+    {
+      "title": "Tendências 26/10/2026 | das principais ações da Bolsa",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM3VSUkxmWTQtZzhZc3NSZ0NKaGtuU2t6QmtXX3dvTERvbW1EMkNOVzVkeWpocGNPS3otOHhvNmV5SldfdzdkdXdVQTlxRDN2WnVjRGN0RDBfU0hNbXpSUmRiQjVUSTVGX2ZXTTcxeDBBczBUdmx6Y19xQmUyTmt1U3owTklMSWVHYXY3d1BNVlRlY3dDb09TaWJBUmF4VG1KZVlZQjV6M05HeEps?oc=5",
+      "date": "2026-10-24T12:27:33.000Z",
+      "source": "XP Investimentos"
+    },
+    {
+      "title": "Bitcoin: o termômetro mais sensível do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGJqWGhUdUl5a0JkYmtJc1JGaUJfZmp5c2RfNnJrUlF1YTIzY1NwOWdjS2dzOUh4eUR3X3ZnR0U1QzZ5S1F4aTgzR0llQkZnQlRQdVNnaEpOQmJHMHZ2b0FkR2xGSklIck1sV3ZLaGRHMG5aQ20wUUVzQjNBRk9pY0REUkhrb3hxTkVwanZQWXNMMTNscmw40gGcAUFVX3lxTE95c09fWG1ZWVNOZkpXVjBEU05CbS1Dc2pOY01PVlgzeTdNWWYtWGU4Sk5qNUxKWHJvdXNLck52SFZ5YW83SGlkQVQ3eDBDY1lhVlJmZDBkMWNYRk95SGhhcHVwY0JReTFrQlBYWDZJb2dhWXRRV2xQd2Fhb0JrOFZuVUMzWUo4T1dKRDRoNVZfSkZUdzhNUlpsY3M4MQ?oc=5",
+      "date": "2026-10-24T12:02:00.000Z",
+      "source": "Portal do Bitcoin"
     },
     {
       "title": "Quem paga a conta? Economistas analisam promessas de Lula e Flávio diante de Orçamento apertado",
       "link": "https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml",
       "date": "2026-10-24T09:50:53.000Z",
       "source": "g1 Economia"
-    },
-    {
-      "title": "Eleições agitam a Bolsa, Petrobras dispara e risco nos EUA preocupa; veja as mais lidas da semana",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb2tVaEoxbnJodHI0cGpfU2lJb3RXSVJud0tMUEV5MGxNRmgxR0Q1MGtkR2ROUFAtR0FqYW5RY0Itd2wwSFJaeU0tR3lJUW90aTd6RW5XTThxUndwYXo4RTN2bzE1UjhaQVZQdUM2V3daYVNKdWpBbEhnc1BkNjcxXzEwS1FweHRhUng2WW1vVERyZDdvR21SaTAzR2pic0JDLVVFd0xCZ3pmelVpMkNrMFU2TVpkRURqb3FNR0FsT2ktTnliNTZJNnZDaV9jb3V0dHBlTVFoSkdncVNGeWhUMnE5X19LbE1zZ1HSAe8BQVVfeXFMT18weGlxM3E5STViMXJqUmVTRk9MeW01TUlsLW56aDQyMzFaN2plV0R5a2xrQ0pNT0g3OW05eHBkWnFoQS1sSnRsbHl5ODVSZ3U5cEtVN19aMExPMHhRS1lUSm9GY0ZNSHZ5aldFUFgyZzMyamVPUHAxcjRBODZ4UUlwcHE2UlNQUGR4TnNySEw5OTREYzRJY0NRNzB2c1hna2RfRnI4VmxkcFJoMnR2R0RRSXoxYzJfUVZxZDJoa3B0eXNFU2k2ZFR3TEl1SmVaNjZuaG9DZktJUTh6Q0V6eEtHanRPQTFGWmdrLTMtRXc?oc=5",
-      "date": "2026-10-24T08:30:00.000Z",
-      "source": "Estadão"
-    },
-    {
-      "title": "Incerteza sobre propostas de candidatos freia euforia do mercado",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSVZrVTVKMmhod2dEUEJOTkZkMFduc1Bid214WjQ1MlMzOG9sT0dwWnluX0ZwazRaQzlmRzBkeHlFNGhMWXBYQzF6eUxWNXpxaDltdWNzR3FabTZ6NXRjVDRMUU54MDlleGEwQW1xYzZQdFhhS3YwdkJvN1dsXzVnZExRU3RuOXBEemdobWVWSlloRlgyclRBcmxNWVVTeTBYVkxsUW1FNzFkOV90cHhlckI1X21pa0ZEM182NF9fbEoyR3lXcmU3RHloWmvSAdsBQVVfeXFMTTZSdXJXZ1cyNGJkR211eTBlMHVIUThFb3BLU1NXU19Cb2VOeXczalpra2NXSmxDQk5wR3gxVTI0TmpPSkVJZXdIbUZMX3FUeDFpQ0Jja1RxSDlTUnI3QTl6Q1RWUUFsdjBXcHEzSE9wZE1VTkV5Q0c1bXNySi1VVlp1ME41SE9rUzFJUWlIa1BKV01FU1FNSkJaeFVGdmo4UmtYQVB0OEhLZDNOSTR4ME5wSDh2czdzSk9KX0lDdnljUlFucFFEVVNOMWgtdHdhZzJ3QWU2d01GSmdR?oc=5",
-      "date": "2026-10-24T07:00:00.000Z",
-      "source": "O GLOBO"
     },
     {
       "title": "INSS: faltou ao 1º turno? Votar no segundo pode servir como prova de vida; veja como funciona",
@@ -65,46 +113,16 @@
       "source": "g1 Economia"
     },
     {
-      "title": "Fusões, aquisições e infraestrutura aproximam finanças tradicionais e criptoativos",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnFieENiMkxHZ1pTTlFYbEg1NTRwNmZ2Y3A3LXNfTWZEVUVsSExKeEI2dFAySXhaREdxbUV1V1FzQ1huWi1jdkRmclVPU3hadFhSejhhZktjVVlsdFJ3cWRCMVdjcWh2TFl4SXVORFZTYi1xaWlocFFvLWRRSUVtSWoweHhCTDdidVJDYU92VlJQcTcyR2psVnIxcGg0ZmM2SlY3RkJQUjdHbnVKYTlEN1owVXE?oc=5",
-      "date": "2026-10-24T03:44:04.000Z",
-      "source": "Monitor Mercantil"
-    },
-    {
       "title": "Mega-Sena pode pagar R$ 230 milhões neste sábado; g1 transmite ao vivo",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/24/mega-sena-pode-pagar-r-230-milhoes-neste-sabado-g1-transmite-ao-vivo.ghtml",
       "date": "2026-10-24T03:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "A Semana na Renda Fixa (19/10/26 a 23/10/26)",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0RpaDFFTjNIclpBcG85clBGeXlsaHN5NUhqSFBlVmxEdEhMQ084Nzg1MVdrSFlfelpIVU13LUJBNXpjcTktblRwcl92MVZjM3djV0lKWWtMbERza3gyLU5FdG1VSmJDbklOWmZRcUVIOXBlaWdsaEdPQVV4S2M1cnZnaS05cTBLWGxPS01tNlFQeGF4VTJpOElR?oc=5",
-      "date": "2026-10-23T22:36:18.000Z",
-      "source": "XP Investimentos"
-    },
-    {
-      "title": "O que o mercado financeiro pode ensinar ao Direito sobre risco, dados e IA",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQlBjYWZaY0JUbE5QLTFSQUdrX1dXdGY3OHpHbkRlVGFWNVVJY29QeU5DVkxwSFRUclF6eWV4bGY1cVFqMlVXQXY5a2pUajRJYnpycVYwdnllU1BZX3h3Rl9VY0J4eVU4SVNnUS1aMFJFYzB2cXUxb3NUVDY0dWN6OElyNEVPWVR3cTRiNjRRYUE1VGg0WHFJdHZRMXNJV2NY?oc=5",
-      "date": "2026-10-23T22:34:08.000Z",
-      "source": "direitoce"
-    },
-    {
-      "title": "Eleições e mercado financeiro: assessor de investimentos deve priorizar estratégia de longo prazo em cenário de volatilidade",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQjJzYVlUQVpEZGpPUDRvWV9EeWNsdk1reDljZjNwbVJfLTMxVF90dTdHOTRVX2VYc0RVMW5EM2FXREpVVFZyZGpGbmgzb0RZQWptYm9uVDE3YnhoTWpSTVhsMV8ydy1ERDNiNTJ1ZEVZODE2Qi15VVBsTXZTRmd3X3FNY0ZSdThYWTJNbzdDOHRULXpFSzB1TEVNVHRMQ3lvYWV3RGVJT3hodlVRSTJzWVk4TVNzNGR4aGIwSkp0XzNBS1IwNjU2cE9KcU9Bb1Z3Z2l1cGxVcWpFLUV2dUowZ1lOakVnUEdNdEN4SWgzOVJoWko3RldyeVM0bWNwRmhTeGx5OXZWeURnVE5qZXRrUHhsYVhQel9LVUp1dlNZakZpOFnSAbICQVVfeXFMTVBlc1o0UkR5N2YzSEtoLUVxM19oYmRoUkl1ZVNMV3h2NmIyR2l0UjhjcmxVUDVVQVUzRG9paURHci1qNWxMYkZRa0VXV1doZFBsZUxUd0ttc3pmM09lMUowWDlmUnZLRm9FXy1nZTZOQXJZQ0N3ZldvVFYzTllJWDNRYTV3ZXl2WC1NZ2VWTFhoRmJEN1Y1YU9jYXE0X0tld2ZqejdHRkhNYnUyVWg2eTJIOHU0QmVJTDZCNXY1bUY0WnJWem45dDBXdzM2QW1Vd1g0VnNJcVlITEFOX2F3RUFfLVJLenlXTFl1OWxsUHZUd2VmeGgzTFR5ZERBOXJXYzFqbW1fYjVWSnAtYkhmVHRZMnlHQlFHRDFrSHlOLWhMeFNPMDNfWVEwajhtcnhVZDVB?oc=5",
-      "date": "2026-10-23T22:11:28.000Z",
-      "source": "Valor Econômico"
-    },
-    {
       "title": "BC passa a exigir autorização prévia para oferecer crédito a clientes com risco de endividamento",
       "link": "https://g1.globo.com/economia/noticia/2026/10/23/bc-exige-autorizacao-previa-para-oferecer-credito-a-clientes-em-situacao-de-vulnerabilidade-financeira.ghtml",
       "date": "2026-10-23T22:01:54.000Z",
       "source": "g1 Economia"
-    },
-    {
-      "title": "Fechamento do mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0VkeEZ3Uk5oaDhYMUprcUFON0RURThMYkNsLVpMTVNwcUtycHFoLTFUR2pWT3MxLW55TE9BalBjOW9EbFY4RHVzelRiU3lUQVd2N2prQnBoeFZTV3dwX3c1V2VsREVlOWs4dE9BYUtRc245OFBSa3lFZTBYMThScXhWMmtTTGNKVHFXWWViU1JyX2t1SkpFamZzTGZxV1BrVmE0?oc=5",
-      "date": "2026-10-23T21:35:00.000Z",
-      "source": "UOL Economia"
     },
     {
       "title": "Trump retira tarifa de 50% sobre alguns produtos do Canadá, incluindo madeira e alimentos",
@@ -119,12 +137,6 @@
       "source": "g1 Economia"
     },
     {
-      "title": "O que explica a euforia do mercado financeiro com possível vitória de Flávio Bolsonaro?",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOHpZWUpERHgtalU0alYwMVBFdDRLNlExY2hySHh0X3YtaXJnVjZSS3k5cFk0dDVGV1hnbVVabW1SY1RzTFViRUJNOVpHOU9DM3BsZXY4T0FYSEF1R1VDMExCWjM2QXBhdW5Cc3pjRXdJX2VYVWo0MlMzU0pkemVSTUFoN2d2YmhtVTJBRG9Ra2lYMU1Ib3NjaVdDMzYyUS04X3o5QTRZWlFkdlV2UjVFLVhSME82d2pyODJGbVZnUmNTZjNyeS1aekZJcw?oc=5",
-      "date": "2026-10-23T18:40:13.000Z",
-      "source": "JOTA Info"
-    },
-    {
       "title": "Após Flávio citar volta do Perse, governo fala em projeto para perdoar dívidas de bares, restaurantes e empresas de eventos do Simples",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-flavio-citar-volta-do-perse-governo-fala-em-projeto-para-perdoar-dividas-de-bares-restaurantes-e-empresas-de-eventos-do-simples.ghtml",
       "date": "2026-10-23T18:02:14.000Z",
@@ -134,18 +146,6 @@
       "title": "Mercado de canetas emagrecedoras pode triplicar até 2035 e chegar a US$ 22 bilhões",
       "link": "https://g1.globo.com/economia/noticia/2026/10/23/mercado-de-canetas-emagrecedoras-pode-triplicar-ate-2035-e-chegar-a-us-22-bilhoes.ghtml",
       "date": "2026-10-23T16:51:25.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Brasil não escapa da correção de ativos (vença Flávio Bolsonaro ou Lula)",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa0dYVHJ6Z2I5Y0hmdzdYWmNRY2V1R0lnRU9EUWhVVGR4bU5YeU9iTzdUdWJZMTJLblc5N0lwcGRLQ1NOVjZLMXlfNjI5S2VINDQ0MnFDRm1OV2Z6WWRrbmNHR0hjMXgxbjBSeVR4b0VtY0NOZW9NLWxCVWdYOWV0ZHFENkQ1X095WW9aYTFHZlp0VlR6QW9fc2NqUzFFZGlMWDZMMA?oc=5",
-      "date": "2026-10-23T16:38:00.000Z",
-      "source": "NeoFeed"
-    },
-    {
-      "title": "Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/23/ia-da-anthropic-tentou-espalhar-virus-e-criou-perfis-falsos-para-enganar-desenvolvedores-em-teste.ghtml",
-      "date": "2026-10-23T16:16:21.000Z",
       "source": "g1 Economia"
     }
   ]
