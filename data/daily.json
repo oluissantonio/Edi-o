@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:47:23.409Z",
+  "generatedAt": "2026-10-27T10:44:28.089Z",
   "indicators": {
     "ipca": {
       "month": 0.82,
@@ -21,132 +21,132 @@
       "ref": "2026-09-01"
     },
     "dolar": {
-      "value": 5.0377,
-      "change": -0.011908778754728577,
-      "ref": "2026-10-23",
+      "value": 5.5007,
+      "change": 9.190702106119858,
+      "ref": "2026-10-26",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "Eleição, balanços e juros dos EUA guiam os olhares do mercado nesta semana",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTZkTktwV3czeTVmY0ZqOW5KaXhhY1BWdkFLc19OMkRCSHdqUUhLZkxjSlN3NTBIR1hjRVR6aFR0dnNHYmVDUGNwM2k1YmZHV1VLdm0xOG1ydjdxeTFNaTd3UWpaaG9SOTExOU1GUTNxYnFmSUF4eE5Bb2xkQlo1am1iSVRHUDRJWEV4OXBmdWZmVU5Lazh4TFgyUlJ6RjI0eFRqa293TQ?oc=5",
-      "date": "2026-10-26T10:28:35.000Z",
-      "source": "UOL Economia"
-    },
-    {
-      "title": "Indústria de ETFs mira novo salto em 2026",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmdVZHk2RnBZaTBqbmhMb0ItalU5X2lLcUNaMjBSWUs2bXo0ZWN0bTlMV29LOGZBb1d4WlpmRVJVS0Z4RzZMZHd3bFRYdzV5REtBVk44bmVZVnBhcC0wQ2FTRy1raWJEQ3RON2NjdUdVbUFuMkF3UkpnWGY1aHp3dHhScmRBQ3NNZVpNR2djT2dWWWkybFgxX3lad2d6ZDZnMmRiY0l3?oc=5",
-      "date": "2026-10-26T10:00:00.000Z",
+      "title": "Mercado aponta crédito privado como agenda prioritária",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0l0aktLbUtfLUY4OWpiQWNoaklyR0tqZG5PQi1CdUVRZWtmUVE1Q09TdExWQThVZU5MZWwxOE5Rd0tCZUM3UEVJNG05N1NlVndXUTduTEpRTndWeFRudHF0bDllb0tJbWdULU9HOGZJUklsY2NnbzFnUGswSTZrR0pXSEM1SFQ5LXJFVEtaX05UVnJVdU92Ylh4M2t1RzA1VTRyZUhIUUFuNTd4YVRRb01FYzUwdw?oc=5",
+      "date": "2026-10-27T10:00:00.000Z",
       "source": "Capital Aberto"
     },
     {
-      "title": "O combate à lavagem e o futuro do mercado de ativos judiciais",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVDEzcUpuTUlGSnhVNUhZM2EzOXAwZlJWVHZUaW1DTExkZ2FaQ0ItTjF5TWxjajdLUkFjb1kwNm52aFZCcm9tN09qcVFiV3JBRzA3c1YwOHBZdXBZMmllTzJwNVRJcFdCaEgxZVBNbndQSkZla3IyVXp2NEhMUGlGaEE2Nk1jNTJJanFnNkJEbm4xQktSaG9QQi1ZUWREZXRYTmQtRU9XcDZFN1RTbVE?oc=5",
-      "date": "2026-10-26T08:00:17.000Z",
-      "source": "JOTA Info"
+      "title": "Mercado teve a pior reação das últimas seis eleições presidenciais",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUk3eUY4RkZ1dGFpOGZXaG0xazBfWFZmSnlhVktuN01ldHE5QTBXZFM4WU1jWTlLVXhpRVBUdjk1cngzQ0o4VWg4THB2N2NjM0RqZ3d3V3ZTb01sN1ozRUlYQ2ttU0VaZFQ5Q2Q5bFNzekVKX3hRRFFxMnRSV3NpdTQzaUlYbnlLZUhHT3hqZ1BBekhOLU03eVZZaGJ5REhNYjhYdHdCLWtUMDNtR1pKVFNORUJocmpoSUp0b3Vn?oc=5",
+      "date": "2026-10-27T08:44:25.000Z",
+      "source": "UOL Economia"
     },
     {
-      "title": "Mercado financeiro já precificou a eleição? Veja o que esperar de ações, dólar e Tesouro hoje",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQVZDUmxBcDkzNzhFdnpuRGw4YUZqeWZfdG0xMU1NbjY1dmJGaTBmOFVFX1BLUVctOTBKbzVESTl0T2FaU29zS01vQ213UDlCcEhsdVpBSk93OU9nMnZnQjQyS1c2alRXQjJrekNHYlNlTXctaS1SdVZlV2RFR2NDMHNTcjJQTTE0MTJ3YTVQdzlSY1RudkdFTXVFYVBzX0JPeFp4REdZSWZNS19RRmRyZ1IyT3VxUWxjWHlPTmZfRXh1WEVQblkzNVkxRWkwajEydjBSc2U3RE1qV0dSMERhZFVwd27SAeoBQVVfeXFMT0VtZDM2N1M0X0FTM1VDNGUwR0VCOVYwV1E4QVBHS3VGV2hmNjJ1OE1DNjNjT0xib3Z5RnRrdUNzaHgwZ2xKRlpYSi01MG9mcnpONlpsVTk5T0MtSFlPdFV1cExYV1cyR3VrZDBUb3YxdmRkYk02VTRacS00aFAyR0dEMUlfTkN2a28wWWl6Y1dYaWFySUI1a3ZfYUIwaG5hZi1BWWNzdmc5WG8tMWVfUFdJQW1PazFCYU9sRWV5RmN0VFdXcHQ2czk0c0hNajE4eXFoU1dHdEJxWDZBaVRXRW5rak9WbUVTTzJ3?oc=5",
-      "date": "2026-10-26T03:50:00.000Z",
+      "title": "Denúncias de assédio eleitoral no trabalho mais que dobram em outubro; veja como denunciar",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/27/denuncias-de-assedio-eleitoral-no-trabalho-outubro.ghtml",
+      "date": "2026-10-27T06:30:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Empresas recorrem à religião para ensinar ética à IA",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/27/empresas-recorrem-a-religiao-para-ensinar-etica-a-ia.ghtml",
+      "date": "2026-10-27T06:30:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Taxação de bilionários: eleitores da Califórnia podem aprovar primeiro imposto do tipo no mundo?",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/27/taxacao-de-bilionarios-eleitores-da-california-podem-aprovar-primeiro-imposto-do-tipo-no-mundo.ghtml",
+      "date": "2026-10-27T05:00:01.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Dia do Servidor Público é feriado ou ponto facultativo? Veja onde haverá folga",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/27/dia-do-servidor-publico-veja-onde-havera-folga.ghtml",
+      "date": "2026-10-27T03:00:02.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "É hora de comprar ações? Veja o que avaliar após o tombo do Ibovespa",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/27/comprar-acoes-veja-o-que-avaliar-apos-tombo-do-ibovespa.ghtml",
+      "date": "2026-10-27T03:00:02.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Mega-Sena pode pagar R$ 305 milhões nesta terça-feira; g1 transmite ao vivo",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/27/mega-sena-pode-pagar-r-305-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+      "date": "2026-10-27T03:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Mercado financeiro reage à vitória de Lula com queda da bolsa de valores e alta do dólar",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUHJUemtzTG5YX3pyRUZHaE8tT2ZqNEQzaHZ6T3VVNjBVTEwyZE9BVUlXblEwNHJKaDR2WkV5cTRxVlJLRjltWWo0TnhIMnBfUjNNUmwzY09vci1EQlk2TFAzbmRuYVRzTVdoQjVfRmdKbkdHQWxPR0pxVFBkWDJOYndPWm8tQ3J2SWFENGluekFXcjZLeXZZbXRxZjkwX2VJbnVHNG41S2Q3VGJRY0JDUmhsYW9zT19Nd0hEUXdNd2xZaHhJWmFlejV0clZkNGRzT013OGZPWFJobjhnR0I1bmlfMVHSAfMBQVVfeXFMTnZTd3dKaldkbHlYZWkyTEE1VERmQmk1cWd5Szl3S0xhUXpjZDRHMDVtQTNPLVJOQmI3Q0ZabVFnajlKc0oyVU5QR3VoMVN6Z2VOS2JDQVJPYjhfS3lzU1RsSmV1SEd5N0MyVEhBNnotMXplMTByaXlSbUN5anRKX1dVN25XbHdUYktaSTVLcTRES0p5UDNKRW5WRjNseEpQWmhvTE5sVUc0d0ZoTHBkb2FPV3hfOVIzN0RTMmdHWjBkdXR2VW5BTzhoeDJfNXZFSHl3V1dIbU9vb2pWRngxSUNlNkhiUm84LWxfVmw1QWZHZ0dV?oc=5",
+      "date": "2026-10-27T02:37:19.000Z",
+      "source": "G1"
+    },
+    {
+      "title": "Por que a vitória de Lula fez a Bolsa despencar e o dólar disparar? Entenda a reação do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQclhVd2RQUnFhUmhLdFVmcTJpSUduaVZZOTFJeDdMOE5hRDFRaHBiUE9VUXNzeUdiVkYwejVHWFFibFJSU09PRVc2WTRkWk53am5DNU84cHR3SmppRjNveWVyYS0xcFp2VmVCMFd2SGg4SDZiamhmNk1YNjFmalFUNHJybmpYWlJiNW9COEVVOTVEa1hUSTQzbGJ3MTVHOG1CVVpPeVRWeVpUbXpySTJPVjZoYUR4dEk0NjA0WFRNRTNseUM4b24xLVJYSHdTTjVtRFBKUFU3MWphZkY0aXRkMkZDY3pVUUNoNVBOVl9DNnh1eTNidlRGMkFNTDhtTHVaMW9jX2NFOURBUlFnQXJzNXBIaHBsby1TS3ZlWmxR?oc=5",
+      "date": "2026-10-27T01:44:40.000Z",
+      "source": "GZH"
+    },
+    {
+      "title": "Vitória de Lula gera queda histórica na Bolsa e dispara cotação do dólar",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXYwUnF5S21qZnV5UEY4TU9fZGhIOUxtNHowaTZRTE1iWldJbWdld3NkYkJqY1J6aWtENDhUZnd3TjE3RThSdXg4aEE1bk9ITUhkVTlOTzVwY0IxWXlDQ29ncWtqdGZnWnlLbkVvVWtsT0VTMVdWMHUwdE03ZmNxNl8xdTBLSV84QUtZNkdBMGFUMDVzUy10a1FWelJ2aU1walBvZWVTSDlsLWt0TjVwQnUwdV95aUJsbDJWYkF1ejg?oc=5",
+      "date": "2026-10-27T01:00:00.000Z",
+      "source": "Gazeta do Povo"
+    },
+    {
+      "title": "Mega-Sena 3075 acumula e prêmio vai a R$ 305 milhões; confira os números sorteados",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/26/mega-sena-concurso-3075-confira-os-numeros-sorteados.ghtml",
+      "date": "2026-10-27T00:05:46.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "O que há de novo na reação do mercado à reeleição de Lula",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNzRtWG5CcWhmTkMxZWtWSGpFVE54RGJRNkh6M2Z4d2VZOWp2QmI0OTJUd0FMaVpackwzZEtDeXVqajlDOGlHMXJSSmg2aXRJUE5YM1FJQVZlNnl0cFJYLTVhMC1FNEpRN2VpZWdwU05IRzE3a0dqMFVWWWhLZ0hsZ1diZFBLOGp1S2tkWmVvQlNyZ2FveTh5ZFViOXM4ck5PT1FrbmEtSzA2TDE4d2tMSEVHa2RaMHdCSV9lb2N3?oc=5",
+      "date": "2026-10-26T22:45:03.000Z",
+      "source": "Nexo Jornal"
+    },
+    {
+      "title": "Dólar sobe 8,21%, e bolsa cai 13,88% após reeleição de Lula",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWhZRWg3WlFaYzVqZUM0eHJTdzk0dTAyaFU5VE1sTy01eHRmX2szd045VkY1VEZGRTFfZThfemluTlF5ZjI1ZDQwMjBqcVJ6NmVzcU5kT0Fud21VWFdOT0I1Z0xJdm5sUkRTVGNtVXRNT3ExNW50d1Biemo2bzFxWkt1S2JMVjZQOWxCcVB2ODZQRWxPcXI0VmZyRXdBZE03N18zRlk4LVk1dGJqTGdLZC13?oc=5",
+      "date": "2026-10-26T22:07:00.000Z",
+      "source": "EBC - Empresa Brasil de Comunicação"
+    },
+    {
+      "title": "Reeleição de Lula: Ibovespa derrete quase 14% e dólar tem maior oscilação desde janeiro de 1999",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNm1GTjRzX3dVNVNnSUozbjV3ZHJKRWkwNXQydEp6dEE4eHAwV21NbW5xS201NWRLSnY0ZTAzdmFDdTI5YXVzWHVoRzNBTXZUdkRfdlNSSnFEUUlyeWxQUnl1Q0ZhU2FYRFY1ZXpiNXNGajhZYjFfdG9PZVdxSlVhbEJiSlpQbzZ4YXFZN3ZBUWdFSDNKd2k5U0V2d0FDeHhEZldHQnJOM291Mnl1YnY4ZmhpMEY3TGFEZXhFZnhOZmo4YUxMY0dPLU9JektmTzNyaDl30gHYAUFVX3lxTE90NWZqTG42dVhCWE5MVkg3d1lNeHdjckdRQ3llTnFLa3FfU3Z0Y2ZiS2VhNmJRbUNHWXBMdmN2ZmhhcndnUWllekxnb1FjcVVuVHBIYXNueWxiVWdJeVF4cjV6ZEtOX29PSlNyQXFFYUhkY0YzeGdvSmduY0hMWG1iZFJnei1jWlh5T0ZSVUUyWTdXWFlSb1U2bngxUjd6STFTV0pCeVlqR3lqNG9kWEJLSGhpN0ZmQS1HOUVPcEx1UllBUUNIUzBFTFd2VnNzZ1V2UU8xaUFidA?oc=5",
+      "date": "2026-10-26T21:46:00.000Z",
       "source": "Estadão"
     },
     {
-      "title": "Eleições: Dólar Sobe a R$ 5,60 e ETFs do Brasil Caem 19% no Pré-mercado",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3hhTmVLSVd6WnI0VmZnbVhYRHRnakVIVXROdXd2ZkxDLVNGNklkdHhPblpiM1ZlRXVQTnZpempkdU9BVDRrOHJxeFRqOGN4Sng2ZENGaFp4eTJ6bVZ2RUh3LVZtWE5YVjhpRWdnSl9pVkYxUzV6S2djakZ3UGM5TVctallheHZ2MWJhS2VfdUtOczFDMXNnODVMWFVwRmdVYWt1SGNIUnZjdUkxR3VBXw?oc=5",
-      "date": "2026-10-26T03:20:35.000Z",
-      "source": "Forbes Brasil"
+      "title": "O que vai acontecer com dólar e juros após derrocada dos mercados financeiros com vitória de Lula",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5WE1CMHVkRmE0V0xKWlBUTWVNVWtUdzNqVnVHWjFOZVp3MkxVQnNIbkJrMnlhSTE2amhMZldETUdkMnYwb0pKNmVzUkZaMldQbE9XT1hJUWM1dG1ZUmpUaEl2bw?oc=5",
+      "date": "2026-10-26T21:06:39.000Z",
+      "source": "BBC"
     },
     {
-      "title": "O que Lula promete para o seu bolso? Veja as propostas para trabalhadores, aposentados e empresários",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/26/lula-eleito-propostas-economia.ghtml",
-      "date": "2026-10-26T03:00:00.000Z",
+      "title": "Globoplay inclui sportv no plano de entrada e muda diferenças entre assinaturas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/26/globoplay-inclui-sportv-no-plano-de-entrada-e-muda-diferencas-entre-assinaturas.ghtml",
+      "date": "2026-10-26T21:00:43.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "INSS inicia pagamento de benefícios de outubro; veja calendário",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/26/inss-inicia-pagamento-de-beneficios-de-outubro-veja-calendario.ghtml",
-      "date": "2026-10-26T03:00:00.000Z",
+      "title": "Circuit breaker é acionado pela primeira vez desde a pandemia de Covid-19; relembre todas as vezes em que a Bolsa parou",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/26/circuit-breaker-e-acionado-pela-primeira-vez-desde-a-pandemia-de-covid-19-relembre-todas-as-vezes-em-que-a-bolsa-parou.ghtml",
+      "date": "2026-10-26T20:54:28.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "PIB cresceu, desemprego caiu, mas juros e dívidas pesaram: veja o balanço da economia de Lula 3",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/26/pib-cresceu-desemprego-caiu-mas-juros-e-dividas-pesaram-veja-o-balanco-da-economia-de-lula-3.ghtml",
-      "date": "2026-10-26T03:00:00.000Z",
+      "title": "Ibovespa desaba após reeleição de Lula e ações recuam até 58%; veja as maiores quedas",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/26/ibovespa-desaba-reeleicao-lula-acoes-recuam.ghtml",
+      "date": "2026-10-26T20:05:56.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Reeleição de Lula contrata pregão turbulento nos mercados",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZV9TY2RGdlVlVk9XVVBCLU8zRng5T1lkYUVWbllKQkVPbmhZZDhoN1FMSHFra1ltZmdLVFRfNk05eXhsal9ZalhHeUVjLWlIZWVMdWRyZnAyeTZaVGVqYUVHU1hyWGJjLUR3VTU3QWxNXzl6UTJvU1d2X2x6WDcwWnMtYjRiaGltOUhzb01fcUNvZUZuZFBnODRwNS11cVhwMXIxWmZfV2U0T09Nd1hLMnczdENnX1NoaWFfN18ySjhBZ9IB0AFBVV95cUxObFhWSmZEdTZINzFac210cGZ4cFJhYUR0YnRpMEFlUEVyZXBEWExEZjRZY0NYa1JtTzV6V1JSbkhxZlVzZEVzQ3lRYzlPSFhNRkdnYV9GQVdLQ2o3N2wzQkM5SEctelYtcEc1VEYyT2hfWFBxeWNIOWhZenZkRkJ1UlVKNU42Y0o2bmpLNWVlLVFxOGUtVUV6bVp6RDRRZGVtR1pLbmdhbW1Xa2lTclRsVnBYRHlPckZpakRzSzJndFBJUlpiT0MwSk5VeGxWbUto?oc=5",
-      "date": "2026-10-26T02:48:57.000Z",
-      "source": "Valor Econômico"
-    },
-    {
-      "title": "Mercado espera dia de “sangria” após reeleição de Lula",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV080MmlmQ3JDbGhMZGhSejRLTHZKZ1IzbzMtY2Y3U0xMTEZJcERUY29rM3Yzcm1VMHM1SzZ1T3c4eXF2VG9XX0xoaV9XUGFQZUI5RHdRdzRxSFhFclZXd2JvOEdjWm8yeU1nZ1VQTGJkUzkyTEVkcUxvUjg5R1NHeWhtRWF0OFlTa2hWYjIxYWVZVi1ELTVyeEQyYzE?oc=5",
-      "date": "2026-10-26T01:58:53.000Z",
-      "source": "Poder360"
-    },
-    {
-      "title": "Como os mercados vão abrir nesta segunda após a reeleição de Lula?",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGQ0SUdNSldNbW5iSTBlUUdTVFh0Qkt0TDBHc1pBS3lNOTZnUFFuTThMVUdPV08yeGhzWmZDdThoMnU2SzRRV05HX0t6ZFFjU0JONWloZm9wUl9rVVVCbUJFXy1iX0I5R0E4M3ZhaDBzZ1VOMENCcmlQemQ1cVpadUNiMXRQMWRnWGZwQmJJOUFmMml4cVFRNlAxa24yUFpYZ09XWTNvc9IBrAFBVV95cUxOOTAzUkZxTEZYN1RIX1pqMTg4MHF0emoyX2U3VTJLNlR1cG80THRkNFEtYnZjaG1rM0ZnbE44cDlGVFRQNFV0bnZTTHgza1ZmOFViTUVQSWFyUWNpMU05X2RrOE9xTHBIdzVCcWFPTDF6bDEwLTlfbHRRVW1BSTJyMDR4Vi1RelBBcGlEVmR1QlNXd3ZnUVZZZTBVa3owZlE2d3ViQjNfczR2Rk52?oc=5",
-      "date": "2026-10-26T01:24:40.000Z",
-      "source": "InfoMoney"
-    },
-    {
-      "title": "Bolsa pode cair 10% após as eleições? Veja os riscos e as oportunidades para investir",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHIyS2JlZE1hU29IRWJPZ0VNY2prMzFFeTlMVEJQM2VabEhiTlA3VXlJRlRwanVPcG5sSnk1RVIxb0hpbko1MG5iM29LOEdCY3NVNDhDTFdGdVU0VW9oZTd0WEdkQWdOeUlQQ3JJd2hySG1PZFotaUlmVjMxT2I4RG5JMNIBxwFBVV95cUxQdUZSamVfZkdJa2c0Y0w2Nld3Vk93UWlISHpTcFoyVkZNaGVkRF91Y0NVM2JPeFNEbmlGMmpEWjBVLU9yUkFQMEd4ajdneGVKaHRGU0xobTZPRTdTMVhNeUVXQXNMQlNkbjR1bjBTRmtkN0EzYW53OUk2RS1iUWNlS3VneE12LUEwTHlPTUpYcHZ2ZGhXNWNKVHV6TFVJc2ZhVXNxRTVjSm05Nms4RkJUeGxxaHJYWEc4eVN5T2c0ak0wZ05RZDdZ?oc=5",
-      "date": "2026-10-26T01:15:06.000Z",
-      "source": "Suno - Investimentos Inteligentes"
-    },
-    {
-      "title": "Com vitória de Lula, ações de empresas brasileiras derretem em Nova York",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1FpQlY4OFpMdUEwMzV4LWhpTEplTU41d1ltS0VrVDlZdFJuWmQzSG5CV3pSbzNxaEw2dUVhRjVyeHNQV0VhQjJIMzZYLXF0aG1KNHgxbS11eUx2S0RNLUFuWFYyNHV6SS1hQTVmM2xTSURMWjFCWTVsVF93ZzVHdzNYOU85Y0JzelJEWDJTc0l2Z2J1NGpkeUhseUdsQ09jdHJlUGVfdzYtMkk?oc=5",
-      "date": "2026-10-26T00:53:14.000Z",
-      "source": "VEJA"
-    },
-    {
-      "title": "Após reeleição de Lula, fundo de ações brasileiras despenca 19% nos EUA e antecipa reação do mercado",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/25/ewz-desaba-19percent-apos-reeleicao-de-lula.ghtml",
-      "date": "2026-10-26T00:43:01.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Eleições 2026: Anac diz não ter identificado anormalidades na programação de voos comerciais",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/25/eleicoes-2026-anac-diz-nao-ter-identificado-anormalidades-na-programacao-de-voos-comerciais.ghtml",
-      "date": "2026-10-25T20:58:14.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Mega-Sena acumulada: prêmio estimado de R$ 300 milhões pode ser o 2º maior da história dos sorteios regulares",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/25/mega-sena-acumulada-premio-estimado-de-r-300-milhoes-maiores-historia-sorteios-regulares.ghtml",
-      "date": "2026-10-25T12:34:15.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Mega-sena não tem ganhadores e próximo concurso pode pagar até R$ 300 milhões; confira os números sorteados",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/24/mega-sena-concurso-3074-confira-os-numeros-sorteados.ghtml",
-      "date": "2026-10-25T00:04:27.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Quem paga a conta? Economistas analisam promessas de Lula e Flávio diante de Orçamento apertado",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml",
-      "date": "2026-10-24T09:50:53.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "INSS: faltou ao 1º turno? Votar no segundo pode servir como prova de vida; veja como funciona",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/24/inss-faltou-ao-1o-turno-votar-no-segundo-pode-servir-como-prova-de-vida-veja-como-funciona.ghtml",
-      "date": "2026-10-24T06:00:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "As propostas de Lula e Flávio Bolsonaro sobre CLT e relações trabalhistas",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/24/as-propostas-de-lula-e-flavio-bolsonaro-sobre-clt-e-relacoes-trabalhistas.ghtml",
-      "date": "2026-10-24T05:00:00.000Z",
-      "source": "g1 Economia"
+      "title": "‘Mercado’ faz terror econômico depois de apostar alto na derrota de Lula",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOUtwZS0wVkFsMk91NXBhNmlPbkRfUk5aLWhndGEzOXRBelpjQTdudXEwZFN2WnJtQ2lwRFh2dEsyMHE3UlE2TWJUdnVnNVVuOTRIOU1XTENPV0l6UlNHbmZBR19WODNleTBqREZEbDUtb0ZDNS1lcFRVc0RfdVowWlJuNnljWXpBOHdZZzVZSHVyOEJHanRmSGxVaWNfdjJ2dThKdk4yUDhYNGpsQ0Vmc2t3?oc=5",
+      "date": "2026-10-26T18:24:00.000Z",
+      "source": "CartaCapital"
     }
   ]
 }
