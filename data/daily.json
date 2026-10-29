@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:51:35.592Z",
+  "generatedAt": "2026-10-29T10:52:56.217Z",
   "indicators": {
     "ipca": {
       "month": 0.82,
@@ -21,132 +21,132 @@
       "ref": "2026-09-01"
     },
     "dolar": {
-      "value": 5.3346,
-      "change": -3.0196156852764218,
-      "ref": "2026-10-27",
+      "value": 5.342,
+      "change": 0.13871705469950193,
+      "ref": "2026-10-28",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "Números contrariam pânico do mercado, mas ciclo do consumo dá sinais de fim",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVljc0d3dnV0YXJJUVp1by04MUw2ZXlsY2lHR1pMQWptUGhXSDR2SUVWMXI0dFdCQUtPZ0J2ZHlLMEg2Y1o3TWpCNEVfdlhmaVpUV2RXazIyWGVzTGVNNGpkTl9PT1lzZUlqdVBSYmM1cjdTWkwzY092M1dZRV9HWFhWcDZqVy1qZzVOV3A5dEp6Q1RlaHZGRG9sMF9rcGhLb0JhbUJ3dGRpdjQ3UmhTVjRNS0RuWmU0eUl0YllXR2x0Yms?oc=5",
-      "date": "2026-10-28T10:19:48.000Z",
-      "source": "UOL Economia"
+      "title": "Bolsas da Ásia fecham em baixa com balanços e juros no radar; Nikkei destoa",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVHYwY1BWMTdKV0VlWTQ5RXg0TGVOd3ViRHQxd2tYbXNfMDlCNl9maTdSaTVIODktVlJoU1RHR2I0ZUNUZ04tb2YtYzJlV0ZlNU5venl5ZFRlSXhFQnBrN3JZckhrLVdrcGp4eUpzTzNTWHhpZGprZFhDX3RKbUJidjdLdUlwSUtZakI4eVFsX1ZRTldqMG9aOEFtdndLVXhiNGt3Z0szaWdySjRmOWxFeWxGOS1vMmJIcGlGcUtLODMtUXdjNDN5azZ4T3RCU21TRGlj?oc=5",
+      "date": "2026-10-29T10:47:44.000Z",
+      "source": "Jornal do Comércio"
+    },
+    {
+      "title": "Economistas criticam usar corte de gastos para conter dívida pública",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVQtSXAtSjY1RWtUci1qRXhUUXdSTFFQV1VjYnYwZ252SWgzWUZ0NDRaelpHMG1tcGxKOFVBekJfNkpzb3dSY1QzMTM2aUVSZGV0LXJHbEtuMncwSUhqTm1Zd3VyQm9UcWg1Q2oxbTl0aTczV2Z1alozSVRWWmFyVV9Ga092LW5UaENac1d1MWZPd2Rvem43UEJqQVN5SHQyOHN6UnMwbkdVWUNnb1FhVzZuWi1XLUl4Ti1YNnotUDl5YkhZ?oc=5",
+      "date": "2026-10-29T10:36:00.000Z",
+      "source": "Agência Brasil"
+    },
+    {
+      "title": "Um fundo imobiliário, duas versões: o que falta para os FIIs 'falarem a língua' do investidor estrangeiro?",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcDNmd2x0cDdMejE5RC01ZGJjcGRBSHpWZUc1NGczZEsyaUtJckZlSFVZZ1dGeTBTaXBIcmFzV0NtZFg0Z1c0U3FFOXZrVlV2MVhvQ2J2R2ItY29URmZsdXlXSV9ncUgySkF0NUgtRGZNWDFoaGljUDZXVnFnaC1sdW5pdG1pcDk1dEFidGZGbXl3dHlxY3Fqa0hxZnlGV2piWXlsT2tEYWtrOVlDVU1FZTdCaG9ZcnFCSmJ5LUE4YWI4OEQtcTVhZ1BmTjN0SVF6UVE5MzE3aFJHbkFVS25hUmtqb3JLUVU?oc=5",
+      "date": "2026-10-29T10:30:00.000Z",
+      "source": "Seu Dinheiro"
+    },
+    {
+      "title": "Apesar da surpresa, cancelamento de leilão de LFTs é elogiado pelo mercado",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMFQ1c1gtQzRCdEQxNzZ1bEFLcDMwRnFTdmlqRzlNaENSWW5mZk92eFZ5NkUzNUtOVEduNVZmX2Fka1RoYjdlUjJxbm9rdDI0NDBQTldMdkVtVTExS3JmOWxhUTBnRDBfT0ZJeDhvQWlkMkY2a1VySWdBbzZoMEZEZ3h6Um9MSjJBdXMyU2lOSGI5M0NsWkRGcm9NZGh4UXl6OTNnMTJDdUptTDdYZkgyMzJvTEJZNDBZZDY5VlNXeU5MTDB6c2tyMXEyTm91ZjjSAd4BQVVfeXFMTmItOEhuM09Qd2dfN3haeS1jdWRrOTFXc3VTT2RUUUFFWnNjSk9HZlZndWdkVE92VXVGRS1uZGF0bG1zSERhVW93V1pqdW1sUFBIRENjTEJBd3FORHRYclRiZW5hWjhRVnZ3ZE1JV1BuZERzamg1cC1xaXo0YVNSSVMyVEcwaVpFLXZBTGVuX0MtMVJQcXdaeVoyTTFNOW1BcFdFUXZqd0NVdm0tN0FxelNWc1RXZ0tqQXZ3eGpPN3hXSHRIUld2V3RDODZ2ang2ZmRSOXNZMXRyVkh5STFB?oc=5",
+      "date": "2026-10-29T10:00:02.000Z",
+      "source": "Valor Econômico"
+    },
+    {
+      "title": "José Paulo Kupfer | Ajuste fiscal, sim, mas não o do mercado",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRW1MX08xLTA1Tm1fVlNaanYzOTB3WEpZWkVNRV9TWjdWTm5ZZnR4NEc4TnZTQTdXVmRWX2NMSnRCWnRzajEzcENzZUZzdjROSjkydWpjMHRqWDgybEhCa2VkUjBLVTRIUk9UWXZOY2FMTlZjbDRkZjYyVHJCdUItLQ?oc=5",
+      "date": "2026-10-29T09:01:43.000Z",
+      "source": "Poder360"
+    },
+    {
+      "title": "Eleições nos EUA: carne bovina vira símbolo de inflação e guerra cultural na disputa pelo Congresso",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/29/eleicoes-nos-eua-carne-bovina-vira-simbolo-de-inflacao-e-guerra-cultural-na-disputa-pelo-congresso.ghtml",
+      "date": "2026-10-29T08:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Economia melhora, mas população empobrece: por que reformas geram insatisfação em países emergentes?",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/29/economia-melhora-mas-populacao-empobrece-por-que-reformas-geram-insatisfacao-em-paises-emergentes.ghtml",
+      "date": "2026-10-29T08:00:00.000Z",
+      "source": "g1 Economia"
     },
     {
       "title": "Mercado financeiro já precificou a eleição? Veja o que esperar de ações, dólar e Tesouro hoje",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdlRHLXl0T01SVFBuUjBES1puZmVGOHlETjd4enVIZnFSUEFPY194bzdnZUtxb1gwUmlCYUljSWhkZmR2UklzNnJIbDFTckZOcUNmZ2FrOTVyci1pVDQzU1l1MTZQWUYtUHdJUXVYdE5XbEpKV1dBV1lDb3hzbjRsOC02WnJ0ZmRBbmtSRWdZX1dZZmNMcTlkUEpxUmFpOE5MS1ZfVnJKbk95M2JHcmxEX1pmQU5lWXQyX3V4eWxGdmFJVl9udFJVWVp4RnB5YzRKOXR6UEdLZEVYZmZZVFVETGoxbXlSWDctSEZkcVdxQQ?oc=5",
-      "date": "2026-10-28T08:04:39.000Z",
+      "date": "2026-10-29T07:37:11.000Z",
       "source": "Estadão"
     },
     {
-      "title": "Governo renova subsídio ao diesel; por que o agro é tão vulnerável à alta do combustível?",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/28/por-que-o-agro-e-tao-vulneravel-a-alta-do-diesel.ghtml",
-      "date": "2026-10-28T08:00:00.000Z",
+      "title": "34 cidades do ES têm mais bois e vacas do que habitantes; veja os números por município",
+      "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/10/29/34-cidades-do-es-tem-mais-bois-e-vacas-do-que-habitantes-veja-os-numeros-por-municipio.ghtml",
+      "date": "2026-10-29T07:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "LISTA: veja os 6 carros de até R$ 100 mil que consomem menos combustível",
-      "link": "https://g1.globo.com/carros/noticia/2026/10/28/lista-veja-carros-economicos.ghtml",
-      "date": "2026-10-28T06:00:01.000Z",
+      "title": "Pizzaria pede que clientes de esquerda não frequentem o local; veja o que diz a lei sobre recusar atendimento",
+      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/29/pizzaria-pede-que-clientes-de-esquerda-nao-frequentem-o-local-veja-o-que-diz-a-lei-sobre-recusar-atendimento.ghtml",
+      "date": "2026-10-29T06:00:01.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Políticos e influenciadores incentivam demissão e boicote a quem votou em Lula; MPT aponta violações",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/28/politicos-e-influenciadores-incentivam-demissao-e-boicote-a-quem-votou-em-lula-mpt-aponta-violacoes.ghtml",
-      "date": "2026-10-28T06:00:00.000Z",
+      "title": "Novembro terá três feriados; veja datas e possíveis emendas em 2026",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/novembro-tera-tres-feriados-veja-datas.ghtml",
+      "date": "2026-10-29T06:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Anthropic se prepara para um dos maiores IPOs da história; veja ranking",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/28/anthropic-maiores-ipos.ghtml",
-      "date": "2026-10-28T06:00:00.000Z",
+      "title": "LISTA: veja quais dos 10 carros mais vendidos do Brasil gastam menos combustível",
+      "link": "https://g1.globo.com/carros/noticia/2026/10/29/lista-veja-quais-dos-10-carros-mais-vendidos-do-brasil-gastam-menos-combustivel.ghtml",
+      "date": "2026-10-29T06:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Terras raras: o que o Brasil tem a ganhar ou perder na disputa bilionária entre China e EUA?",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/28/terras-raras-o-que-o-brasil-tem-a-ganhar-ou-perder-na-disputa-bilionaria-entre-china-e-eua.ghtml",
-      "date": "2026-10-28T05:00:00.000Z",
+      "title": "Brasil deve R$ 11 trilhões e EUA, US$ 40 trilhões: por que as dívidas preocupam de formas diferentes?",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/29/brasil-e-eua-por-que-as-dividas-preocupam-de-formas-diferentes.ghtml",
+      "date": "2026-10-29T05:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Novas regras do vale‑refeição e alimentação: o que muda nos cartões a partir de novembro",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/28/novas-regras-do-valerefeicao-e-alimentacao-o-que-muda-nos-cartoes-a-partir-de-novembro.ghtml",
-      "date": "2026-10-28T04:00:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 320 milhões nesta quarta-feira; g1 transmite ao vivo",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/28/mega-sena-pode-pagar-r-320-milhoes-nesta-quarta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "2026-10-28T03:00:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Mega-Sena 3076 acumula e prêmio vai a R$ 320 milhões; confira os números sorteados",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/27/mega-sena-concurso-3076-confira-os-numeros-sorteados.ghtml",
-      "date": "2026-10-28T00:04:26.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Dólar cai quase 1%, e Ibovespa recua após tombo eleitoral",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcW81N09vSURHdzdyclV3eWxGakV2M0ZZNmtoeFVIYUhfWjZPXzhqRE1hajRTX05wX3A3TEZ5X0lIYXU2QzFBS2JaOXJybngzR2dVaTRMblk4Qm5Ja0dJVWNfTkFJV01PVUtOYVI4MUd2RE04ZFlQNklPR242cU50OFJ4Qm9nTlNjWnR3QWRVUndQNHhTSWNQbTBib1hHYVJ2czdKWHg1TW1YcDk3VXdsOWgxMA?oc=5",
-      "date": "2026-10-27T21:51:00.000Z",
-      "source": "Agência Brasil"
-    },
-    {
-      "title": "FMI fecha acordo com a Argentina e pode liberar mais US$ 900 milhões ao país",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/27/acordo-fmi-argentina.ghtml",
-      "date": "2026-10-27T21:29:51.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "O que fazer no atual momento do mercado financeiro?",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORkVodjd1WlNfZm4wbzRlWEhBMnR4akppOXJtcmNkSGs3VDN5NFBPYlF0V29Dc1AyOWItU0ljdUJFNnk2dWtwdEdPSE5icVBPTTVrMTNxU3lsdzQ5T09Ub0xzTDBsNno2UGt5Y1BDT0h4Z2N4dHkybmlUc1pRMDlncldZS0lNamFqa1dn?oc=5",
-      "date": "2026-10-27T21:24:49.000Z",
-      "source": "Monitor Mercantil"
-    },
-    {
-      "title": "Após 'ressaca eleitoral', dólar recua a R$ 5,35 e Bolsa fecha em leve baixa",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOekxia1Jxd2FTbDQwa2xuM0VPNXlUWUtDUGI4clpxQTEzQnNNM05tMjRPRWpIRGJ3TW1ZNFd6TlZ4TG1zd0hpQlZ3MnpNUzJGYmVUb0w2M1R0RjVMMkhWNnNaYUh3X0FVdmwwblVQdXZ2UWJ5UEdRcFhPb3lyV2Vta1F0QkE3VTc3NmhVVlFSQmZsQno1TXBhZ3hGOGVURWkta1hMS3dsTzBDb1lhb2w1d0dfS3VPTGpaaXo5bEVCSUZDOXAyVEHSAdQBQVVfeXFMUGsxWHhmTUdvN29GMVVHY21Ya0NpeXg1NUptdkU1aHdQSFJOSlQ1Q0pMdHRuX1FzWWVKZDNvcWotMS1WSHRyXzFuY1NaUXVVMXRRQ3hidklMNDJNdkFNcTVSNk45LU1hd1VqbmVFRy1UNDRKWEluTWxqOGx0SlpEaDF3SFAxQllOMXZzV2JZcEFIUHRJNzNxM2V2c2pQUlU4WDlFTFBTQ04zQTFzakpmcG5WSzc3NTRkTEY5RF9rR3k2UmFYVzl0c3Q3eFYwbmU2RGh3WTM?oc=5",
-      "date": "2026-10-27T21:24:24.000Z",
-      "source": "O GLOBO"
-    },
-    {
-      "title": "Como Lula pode recuperar a confiança do mercado financeiro ainda neste mandato",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcVlZc3J0bGMxOTVUOHk5RmpYUFN2R1ZlcGZIVXFyRElCS3kwYXhxbVp4RFdFYUdOTFkzVmxMX1VaUk9fdWgyeXVYRk1VeWwwaW1Bb0VFcTBsX2FOYXJ4dVZqblZmLTI5UUkxTVZyUVJvb1JRdThOM0NWeWZNVHJ2VkxqVHI4eEloN0RUU2F0ZHNERnpybkcxSjg1eXRtcElTQTZiNl9BRFJLSF9VMG1NZmJDeWxYNWF3Vzg1bU5YdWRwVWJ1T19INXN4RWlwM3JSOFdZNk50T1Z0NF9hWWdSaQ?oc=5",
-      "date": "2026-10-27T21:19:46.000Z",
-      "source": "GZH"
-    },
-    {
-      "title": "Vitória de Lula e o mercado: impactos no dólar, Bolsa e juros",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZk9IWk0tMDVDWDRrVVhHWVhKckZyWUJjSUJ5cE91enBuRXJzTXp4U182bVd6MDJoNEZXbkVyb2w5SnE1OUhfc3NxX1FtMmF0SldtSWhZcS1JaV8yQ3lOYUd0eUZtTlRyaV9tSlA1UF9SaS1CWE5SMWhKekxON3YtUHZrZlVuUEItWDl4MGxLM05hZ3U0eEh0Z1ZLaW9wWDVrWGVSSFRWXy1iWk8yam55a3R5YmRhUV9wSkE?oc=5",
-      "date": "2026-10-27T19:06:00.000Z",
+      "title": "Ajuste fiscal e dívida pública: os desafios econômicos de Lula no novo mandato",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYm9JQWFwYlNDcEMzeElfbmYyS3lReGJ4NDdnRUpNaFQ1dGNTSXZVOVJhaG5XbTBDTUJUaGVlT09tZVJ3aGtSNlB4RVpSYjlDTTB1NEliallfZnJCTzJZSzdVQXZheE5NVmdzZFd6ckV0UzZxRWZaUjJxaDV5aE5ZQ0hLM2I3YTIzN2ZqTUpCdzFMTUdMMDRXYmxKMnFQY0JPNGJ1UWJlR2hZc2EzZ3l3UW9pZXNObTR6RjNIbDBDRG0?oc=5",
+      "date": "2026-10-29T04:30:00.000Z",
       "source": "Gazeta do Povo"
     },
     {
-      "title": "Queda da bolsa pós-eleição reflete especulação e perda de lucros privatistas, analisa economista",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb19MQVhCZHozX3RNRWxjRDhpRXMydXJvemRYSmNDRnJrNVQtOFpjRC1oQW5oWW53eVVhRHBWQnYybS1QR3UyQk5yN3hnSzkxTnlhLUR2RWJNVzktY2hsdGdyeHRVdnBuQUNuN0tRcmNFMy1JaHhLdGM1ME5VaFphZVZQSUV3empzWUtjQXBkZ1Q0Xy1jTldFOVdlLWdsLVgwYXNTVmVfWXdsOExvenZQeGVySzA0b3JqU05XdDB1U1FRVVFtVnBxcmFrN2ZxTzFWc3o3V1VR?oc=5",
-      "date": "2026-10-27T17:17:00.000Z",
-      "source": "Brasil de Fato"
-    },
-    {
-      "title": "Mercado financeiro apostava em Flavio, e reage com nervosismo à vitória de Lula",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS2FkaXllQkZtbVhkQmM5YVIyRHdfMmNJbWZxR2pXYUdhR21TSW5oeFZfWUtHVWFzOS05VVhYM2RXYTU3TVFyczZiYVBHclVkZmFXN2xnSW9vMWFiSG5qVXlMcVJfZ3VnYl9wTlJuZFVlbzBYOThqY2VrcGVzZHg0UTFpeEVpUVVReG55X0FpMXdjb0NlTjVxNkdyTHM1bHpwNGFEcHhiZUt6N3V0c2lIZzRTTkkwcUZTNnk5eXgzZDN4UzhpSzNkTHhEQWVPZTYxRVhnSW1HOUo?oc=5",
-      "date": "2026-10-27T16:18:27.000Z",
-      "source": "Correio Braziliense"
-    },
-    {
-      "title": "El Niño pode provocar perdas de R$ 33 bilhões na safra de soja do Brasil; entenda os riscos",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/27/el-nino-pode-reduzir-safra-de-soja-do-brasil-em-10percent-projeta-serasa.ghtml",
-      "date": "2026-10-27T15:57:25.000Z",
+      "title": "Como o PIX mudou o caminho do dinheiro no Brasil e por que isso incomoda Donald Trump?",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/29/como-o-pix-mudou-o-caminho-do-dinheiro-no-brasil-e-por-que-isso-incomoda-donald-trump.ghtml",
+      "date": "2026-10-29T03:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Entenda o que esperar do mercado financeiro após reeleição de Lula",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDA1YVVUZWplVXBjelhWQ3BuRGVsTmVuRGZzOWlZc2kwMjNmYzF5LVRodzdva0loak1iLWM4VC1UaE5hbngwN2ZJQVdEVjNLaUZzMXNpa0JIZ1djeFZ5STd0ZEh0RUpDQ25OUGczQlk2REY0SGlacFVyZERtQjJ0TGV6ZG52eWt6bC1FQVQ5bi02UzVnTnRJZ1ZtY25XVWU2UkRDZU13Vlo?oc=5",
-      "date": "2026-10-27T15:07:27.000Z",
-      "source": "CNN Brasil"
+      "title": "‘Todo mundo está ganhando': por que copiar os investimentos de outras pessoas pode sair caro",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/29/todo-mundo-esta-ganhando-por-que-copiar-os-investimentos-de-outras-pessoas-pode-sair-caro.ghtml",
+      "date": "2026-10-29T03:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Quando é o quinto dia útil de novembro de 2026? Veja data para pagamentos dos salários",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/quando-e-o-quinto-dia-util-de-novembro-de-2026.ghtml",
+      "date": "2026-10-29T03:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "ACD avisou! Fazenda sinaliza com \"ajustes fiscais\" após chilique do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWF6M05iMG1wb0Vmekp1SUc5MTVHTThlX28yZllLTVplNkdCZXM2eERkRzU2Qk1HT0owNXJSN3U3dThuZWVjMTVnX3JJbDdHaGdHYkhQakpETzV6UXBOXzdtQ0YwMzRyMjBKbGJWYWZ0QnJtakkzeW80dUNRVi1sSThRX2tidkhOUFJiclFvb3Y1eGNXaGtYQVlHa1IxcEtZMFRvWk9IaDVYOHBFRWUwcXkwWE5qcmpzOG5ZY3RSalVPdw?oc=5",
+      "date": "2026-10-28T21:38:08.000Z",
+      "source": "Auditoria Cidadã da Dívida"
+    },
+    {
+      "title": "Flávio Bolsonaro nos EUA preocupa menos investidores estrangeiros do que risco fiscal do Brasil",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSklSemEzY01ZSFZkNkxLQTZLX0VQZVFHUHBwWmtOeFMxY25nbGVQbk5WNXd4WEpTZGFVZ0dtcWVpaWpMQ2pCZXRDNXpqMzZDb1FZVnp0LW9BSEU5d2g0VkhZUHNQZEJ2dWhoMGstTmpEUG9SLUFnQjNDQkw2TVVLeERLZHZRLTNSWV80VmdsTnRva0tBRnNsdzNPaE5wUTBWd1VFUnpXcGNucHQwbXpiMERjeExCZUU1Qk5fMTgzbzFLazd3cnMw?oc=5",
+      "date": "2026-10-28T20:28:00.000Z",
+      "source": "NeoFeed"
+    },
+    {
+      "title": "Risco fiscal de Lula 4 divide economistas após queda da Bolsa",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVljc0d3dnV0YXJJUVp1by04MUw2ZXlsY2lHR1pMQWptUGhXSDR2SUVWMXI0dFdCQUtPZ0J2ZHlLMEg2Y1o3TWpCNEVfdlhmaVpUV2RXazIyWGVzTGVNNGpkTl9PT1lzZUlqdVBSYmM1cjdTWkwzY092M1dZRV9HWFhWcDZqVy1qZzVOV3A5dEp6Q1RlaHZGRG9sMF9rcGhLb0JhbUJ3dGRpdjQ3UmhTVjRNS0RuWmU0eUl0YllXR2x0Yms?oc=5",
+      "date": "2026-10-28T12:30:00.000Z",
+      "source": "UOL Economia"
     }
   ]
 }
