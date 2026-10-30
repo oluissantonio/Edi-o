@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:52:56.217Z",
+  "generatedAt": "2026-10-30T10:51:45.650Z",
   "indicators": {
     "ipca": {
       "month": 0.82,
@@ -16,137 +16,137 @@
       "ref": "2026-09-01"
     },
     "igpm": {
-      "month": 1.57,
-      "acc12": 3.3483781728321116,
-      "ref": "2026-09-01"
+      "month": 1.47,
+      "acc12": 5.2464866840352675,
+      "ref": "2026-10-01"
     },
     "dolar": {
-      "value": 5.342,
-      "change": 0.13871705469950193,
-      "ref": "2026-10-28",
+      "value": 5.3744,
+      "change": 0.6065144140771245,
+      "ref": "2026-10-29",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "Bolsas da Ásia fecham em baixa com balanços e juros no radar; Nikkei destoa",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVHYwY1BWMTdKV0VlWTQ5RXg0TGVOd3ViRHQxd2tYbXNfMDlCNl9maTdSaTVIODktVlJoU1RHR2I0ZUNUZ04tb2YtYzJlV0ZlNU5venl5ZFRlSXhFQnBrN3JZckhrLVdrcGp4eUpzTzNTWHhpZGprZFhDX3RKbUJidjdLdUlwSUtZakI4eVFsX1ZRTldqMG9aOEFtdndLVXhiNGt3Z0szaWdySjRmOWxFeWxGOS1vMmJIcGlGcUtLODMtUXdjNDN5azZ4T3RCU21TRGlj?oc=5",
-      "date": "2026-10-29T10:47:44.000Z",
-      "source": "Jornal do Comércio"
+      "title": "Ações chinesas têm maior queda mensal desde 2016 com onda de vendas no setor de IA",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjZOdVFiZXpjTUUzajloWmZyUERkcjQza2dLVjNEUmJkMEphNXlTaFEwdVd5VDRzT2RwXzN5dnlfcFd3TGZ1cGJnRWsycGlmSE5QYXhnajZSajdzb3ZObFBWRUJGbzdsRnZfelUtNHFMYk5CM3FQOVBqUE1wNlhWNzljNFcxNFp1OTdRbFI2ck5wMFJqZkJDM3VpWjJzMi1RbzA2QkJHU3daNzY3MjQ4SDZqeEtkRE9iM3VwZENn0gHDAUFVX3lxTE9fZlFhLS1jbmVscWZfcXF3eUhqbjlrU05Pams4cDJJS2tabGxETTlfZUM0RnpiQklRNXhYQlI2S0Rrb1ptNnZsZUFSaFZBdmdvdWgzNzE2ZUtRVUozcVRMMjc5YVpjOWxWS2g2bm5IOXNxSkxVSExONC15aXBzUVNyQ016NkRMcW9aVkx1VE5uZGV4N3lfOWY2dHFyaE9RWXU1SllIbmpEVE1Vak1lRlBVVEJ1cTVqQUhaYzlsUmdMdnJmOA?oc=5",
+      "date": "2026-10-30T10:36:09.000Z",
+      "source": "InfoMoney"
     },
     {
-      "title": "Economistas criticam usar corte de gastos para conter dívida pública",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVQtSXAtSjY1RWtUci1qRXhUUXdSTFFQV1VjYnYwZ252SWgzWUZ0NDRaelpHMG1tcGxKOFVBekJfNkpzb3dSY1QzMTM2aUVSZGV0LXJHbEtuMncwSUhqTm1Zd3VyQm9UcWg1Q2oxbTl0aTczV2Z1alozSVRWWmFyVV9Ga092LW5UaENac1d1MWZPd2Rvem43UEJqQVN5SHQyOHN6UnMwbkdVWUNnb1FhVzZuWi1XLUl4Ti1YNnotUDl5YkhZ?oc=5",
-      "date": "2026-10-29T10:36:00.000Z",
-      "source": "Agência Brasil"
-    },
-    {
-      "title": "Um fundo imobiliário, duas versões: o que falta para os FIIs 'falarem a língua' do investidor estrangeiro?",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcDNmd2x0cDdMejE5RC01ZGJjcGRBSHpWZUc1NGczZEsyaUtJckZlSFVZZ1dGeTBTaXBIcmFzV0NtZFg0Z1c0U3FFOXZrVlV2MVhvQ2J2R2ItY29URmZsdXlXSV9ncUgySkF0NUgtRGZNWDFoaGljUDZXVnFnaC1sdW5pdG1pcDk1dEFidGZGbXl3dHlxY3Fqa0hxZnlGV2piWXlsT2tEYWtrOVlDVU1FZTdCaG9ZcnFCSmJ5LUE4YWI4OEQtcTVhZ1BmTjN0SVF6UVE5MzE3aFJHbkFVS25hUmtqb3JLUVU?oc=5",
-      "date": "2026-10-29T10:30:00.000Z",
+      "title": "O cenário para a bolsa brasileira mudou; saiba como se preparar",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWhVYkJIR0tWaTNVWVlGcHpsd3R1LXJzYXRwQ2M5czFvN0lSdXNZVUJfZ0g2SUE4dFdNbmpsQnpHb3U2SzkzdVNlU0hHN1BvSlhhVC1mT21JQXNqY3NvWjFVNE5zbEtQdW1XdnZjdTBBRUVzaHMzUmQ2OXJHeTZnTVV6OVhSUW42alI3MWxORGtQbG5DRjMtTGxRcFFiLVY3RFZzSExlc2FRMGUyOWlkNnBR?oc=5",
+      "date": "2026-10-30T10:21:00.000Z",
       "source": "Seu Dinheiro"
     },
     {
-      "title": "Apesar da surpresa, cancelamento de leilão de LFTs é elogiado pelo mercado",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMFQ1c1gtQzRCdEQxNzZ1bEFLcDMwRnFTdmlqRzlNaENSWW5mZk92eFZ5NkUzNUtOVEduNVZmX2Fka1RoYjdlUjJxbm9rdDI0NDBQTldMdkVtVTExS3JmOWxhUTBnRDBfT0ZJeDhvQWlkMkY2a1VySWdBbzZoMEZEZ3h6Um9MSjJBdXMyU2lOSGI5M0NsWkRGcm9NZGh4UXl6OTNnMTJDdUptTDdYZkgyMzJvTEJZNDBZZDY5VlNXeU5MTDB6c2tyMXEyTm91ZjjSAd4BQVVfeXFMTmItOEhuM09Qd2dfN3haeS1jdWRrOTFXc3VTT2RUUUFFWnNjSk9HZlZndWdkVE92VXVGRS1uZGF0bG1zSERhVW93V1pqdW1sUFBIRENjTEJBd3FORHRYclRiZW5hWjhRVnZ3ZE1JV1BuZERzamg1cC1xaXo0YVNSSVMyVEcwaVpFLXZBTGVuX0MtMVJQcXdaeVoyTTFNOW1BcFdFUXZqd0NVdm0tN0FxelNWc1RXZ0tqQXZ3eGpPN3hXSHRIUld2V3RDODZ2ang2ZmRSOXNZMXRyVkh5STFB?oc=5",
-      "date": "2026-10-29T10:00:02.000Z",
-      "source": "Valor Econômico"
+      "title": "Mercado, ações e reações",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZS1FVUhxcGZSVm1ScHVFREVmWTFRdTdFQmxIUmFfOXZZZy12dXhyMDNrVXZERHVnWURENUhfeWJDZVU0dmY3VFJNMHdfaC12a0l1RXhwdzBTcE8xbjFOQjlfcHFtOWxLenVjTXBxVk9GM0tlUDA3Z2JtazdHRW1SVlFRUklUZTczNGxlLW5ITTdqUQ?oc=5",
+      "date": "2026-10-30T10:03:04.000Z",
+      "source": "Correio do Povo"
     },
     {
-      "title": "José Paulo Kupfer | Ajuste fiscal, sim, mas não o do mercado",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRW1MX08xLTA1Tm1fVlNaanYzOTB3WEpZWkVNRV9TWjdWTm5ZZnR4NEc4TnZTQTdXVmRWX2NMSnRCWnRzajEzcENzZUZzdjROSjkydWpjMHRqWDgybEhCa2VkUjBLVTRIUk9UWXZOY2FMTlZjbDRkZjYyVHJCdUItLQ?oc=5",
-      "date": "2026-10-29T09:01:43.000Z",
-      "source": "Poder360"
+      "title": "Mercado asiático fechou em baixa após resultados fracos do Google. Japão mantém taxa básica inalterada",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVRBRDdLZXR5dnpaRnRyVml3TFFQeDVYeEU4dVNGdlJocEJ6RTl6SjVLMEhDVGdfckxYTGs2enBwTFVxdFFpVDJhZGZwQS10UUxWdllUZmJnR2VmQ3VJWGpxT0hQTm9fRzc5VkNrdmpvNDFrUG1fOHJxT2lYdmstVDRISmp6dkFIVE5HS3o1UHFxMG1LVFNZMEdGSUpZclhwODFQSExFRTRFbHhRWm0tTnlvMU5LYy1LcVE4UWZJOUZxUThzYXd0b1E0ODRJUWVpOWhv?oc=5",
+      "date": "2026-10-30T09:57:35.000Z",
+      "source": "ADVFN"
     },
     {
-      "title": "Eleições nos EUA: carne bovina vira símbolo de inflação e guerra cultural na disputa pelo Congresso",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/29/eleicoes-nos-eua-carne-bovina-vira-simbolo-de-inflacao-e-guerra-cultural-na-disputa-pelo-congresso.ghtml",
-      "date": "2026-10-29T08:00:00.000Z",
+      "title": "Circuit Breaker: CNN Brasil estreia documentário sobre revolução do mercado",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWWhWWTB2VU1KVWZXQ2ZUcGVydjhmcXpwZ0dScUVycDlseGdsSUYwd0FabENsUEwxM3ZGWFlFZUlRSHVGVWNuMGZQOXJlUXBtSWdlX0pFMEdkendGd1hhczgwbGF5cDhuX1FwRG9iTmp2cTlBcDhsQXZrNGtBR3pFUWc1MnZnbzNzOU84b2xVRkVmdERTYkVodU52Ni1PZkc1NDdWQVU0WGs1MVQxSGRqWDRlWHgzaDh1anY4MkNYa3NPWGRXUVE?oc=5",
+      "date": "2026-10-30T09:53:15.000Z",
+      "source": "CNN Brasil"
+    },
+    {
+      "title": "Fora do Mapa da Fome, Brasil ainda tem 44,8 milhões de pessoas sem renda suficiente para manter alimentação saudável",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/fora-do-mapa-da-fome-brasil-ainda-tem-448-milhoes-sem-acesso-a-alimentacao-saudavel.ghtml",
+      "date": "2026-10-30T08:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Economia melhora, mas população empobrece: por que reformas geram insatisfação em países emergentes?",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/29/economia-melhora-mas-populacao-empobrece-por-que-reformas-geram-insatisfacao-em-paises-emergentes.ghtml",
-      "date": "2026-10-29T08:00:00.000Z",
+      "title": "Financiamento imobiliário mais caro? Bradesco, Itaú e Santander elevam taxas; Caixa não se manifesta",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/30/financiamento-imobiliario-taxas.ghtml",
+      "date": "2026-10-30T08:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Mercado financeiro já precificou a eleição? Veja o que esperar de ações, dólar e Tesouro hoje",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdlRHLXl0T01SVFBuUjBES1puZmVGOHlETjd4enVIZnFSUEFPY194bzdnZUtxb1gwUmlCYUljSWhkZmR2UklzNnJIbDFTckZOcUNmZ2FrOTVyci1pVDQzU1l1MTZQWUYtUHdJUXVYdE5XbEpKV1dBV1lDb3hzbjRsOC02WnJ0ZmRBbmtSRWdZX1dZZmNMcTlkUEpxUmFpOE5MS1ZfVnJKbk95M2JHcmxEX1pmQU5lWXQyX3V4eWxGdmFJVl9udFJVWVp4RnB5YzRKOXR6UEdLZEVYZmZZVFVETGoxbXlSWDctSEZkcVdxQQ?oc=5",
-      "date": "2026-10-29T07:37:11.000Z",
-      "source": "Estadão"
-    },
-    {
-      "title": "34 cidades do ES têm mais bois e vacas do que habitantes; veja os números por município",
-      "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/10/29/34-cidades-do-es-tem-mais-bois-e-vacas-do-que-habitantes-veja-os-numeros-por-municipio.ghtml",
-      "date": "2026-10-29T07:00:00.000Z",
+      "title": "'Não tinha como sobreviver': seca mata animais e deixa famílias sem renda em Sergipe",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/30/nao-tinha-como-sobreviver-seca-mata-animais-e-deixa-familias-sem-renda-em-sergipe.ghtml",
+      "date": "2026-10-30T07:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Pizzaria pede que clientes de esquerda não frequentem o local; veja o que diz a lei sobre recusar atendimento",
-      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/29/pizzaria-pede-que-clientes-de-esquerda-nao-frequentem-o-local-veja-o-que-diz-a-lei-sobre-recusar-atendimento.ghtml",
-      "date": "2026-10-29T06:00:01.000Z",
+      "title": "Governo questiona Meta sobre perfis derrubados no Instagram antes das eleições",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/governo-questiona-meta-sobre-perfis-derrubados-no-instagram-antes-das-eleicoes.ghtml",
+      "date": "2026-10-30T06:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Novembro terá três feriados; veja datas e possíveis emendas em 2026",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/novembro-tera-tres-feriados-veja-datas.ghtml",
-      "date": "2026-10-29T06:00:00.000Z",
+      "title": "Free flow: prazo para pagar pedágios atrasados sem multa está acabando; veja como regularizar",
+      "link": "https://g1.globo.com/carros/noticia/2026/10/30/free-flow-pedagio-atrasado-sem-multa.ghtml",
+      "date": "2026-10-30T06:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "LISTA: veja quais dos 10 carros mais vendidos do Brasil gastam menos combustível",
-      "link": "https://g1.globo.com/carros/noticia/2026/10/29/lista-veja-quais-dos-10-carros-mais-vendidos-do-brasil-gastam-menos-combustivel.ghtml",
-      "date": "2026-10-29T06:00:00.000Z",
+      "title": "Hackers roubam US$ 6,3 bilhões da Binance no maior ataque da história das criptomoedas",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/30/maior-plataforma-de-criptomoedas-do-mundo-suspende-saques-e-depositos-apos-possivel-ataque-hacker.ghtml",
+      "date": "2026-10-30T03:41:10.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Brasil deve R$ 11 trilhões e EUA, US$ 40 trilhões: por que as dívidas preocupam de formas diferentes?",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/29/brasil-e-eua-por-que-as-dividas-preocupam-de-formas-diferentes.ghtml",
-      "date": "2026-10-29T05:00:00.000Z",
+      "title": "DAY TRADE 30/10/2026 | Abertura de mercado e minicontratos",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMENSZWIwTnhSeGVWbjVFTV9Za3Q2YzQ5NDl6RnF6clhSZXkyWnMyUXlwMzBzdkc2MmpGcEs3ZnNwT2hiU09jMVZvSVozcVFuTnRBQ01UbGVmdTJaQzFOYWRzQmtYTWlON1Jma2h0M1JxWmtqSVg4R29hWUlRSWc5WWpqLVBYeHZFanQtc1RPS3QxVzlBY2wyNldpbURhNTI2S3A3dmkzTkdld2hLUEVtaDV6UQ?oc=5",
+      "date": "2026-10-30T03:39:57.000Z",
+      "source": "XP Investimentos"
+    },
+    {
+      "title": "Simples Nacional 2027: prazo para regularizar pendências termina nesta sexta; veja quem precisa agir",
+      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/30/simples-nacional-2027-prazo-para-regularizar-pendencias-termina-nesta-sexta-veja-quem-precisa-agir.ghtml",
+      "date": "2026-10-30T03:00:02.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Ajuste fiscal e dívida pública: os desafios econômicos de Lula no novo mandato",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYm9JQWFwYlNDcEMzeElfbmYyS3lReGJ4NDdnRUpNaFQ1dGNTSXZVOVJhaG5XbTBDTUJUaGVlT09tZVJ3aGtSNlB4RVpSYjlDTTB1NEliallfZnJCTzJZSzdVQXZheE5NVmdzZFd6ckV0UzZxRWZaUjJxaDV5aE5ZQ0hLM2I3YTIzN2ZqTUpCdzFMTUdMMDRXYmxKMnFQY0JPNGJ1UWJlR2hZc2EzZ3l3UW9pZXNObTR6RjNIbDBDRG0?oc=5",
-      "date": "2026-10-29T04:30:00.000Z",
-      "source": "Gazeta do Povo"
-    },
-    {
-      "title": "Como o PIX mudou o caminho do dinheiro no Brasil e por que isso incomoda Donald Trump?",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/29/como-o-pix-mudou-o-caminho-do-dinheiro-no-brasil-e-por-que-isso-incomoda-donald-trump.ghtml",
-      "date": "2026-10-29T03:00:00.000Z",
+      "title": "Finados: dia 2 de novembro é feriado? Dá para emendar? Entenda os direitos de quem trabalha",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/30/finados-dia-2-de-novembro-e-feriado-da-para-emendar-entenda-os-direitos-de-quem-trabalha.ghtml",
+      "date": "2026-10-30T03:00:01.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "‘Todo mundo está ganhando': por que copiar os investimentos de outras pessoas pode sair caro",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/29/todo-mundo-esta-ganhando-por-que-copiar-os-investimentos-de-outras-pessoas-pode-sair-caro.ghtml",
-      "date": "2026-10-29T03:00:00.000Z",
+      "title": "Honda NSX usado por Ayrton Senna vai a leilão e pode passar de R$ 5 milhões",
+      "link": "https://g1.globo.com/carros/noticia/2026/10/30/honda-nsx-senna.ghtml",
+      "date": "2026-10-30T03:00:01.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Quando é o quinto dia útil de novembro de 2026? Veja data para pagamentos dos salários",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/quando-e-o-quinto-dia-util-de-novembro-de-2026.ghtml",
-      "date": "2026-10-29T03:00:00.000Z",
+      "title": "Simples Nacional: empresas têm até esta sexta para escolher como pagar IBS e CBS; entenda",
+      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/30/simples-nacional-empresas-tem-ate-esta-sexta-para-escolher-como-pagar-ibs-e-cbs-entenda.ghtml",
+      "date": "2026-10-30T03:00:01.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "ACD avisou! Fazenda sinaliza com \"ajustes fiscais\" após chilique do mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWF6M05iMG1wb0Vmekp1SUc5MTVHTThlX28yZllLTVplNkdCZXM2eERkRzU2Qk1HT0owNXJSN3U3dThuZWVjMTVnX3JJbDdHaGdHYkhQakpETzV6UXBOXzdtQ0YwMzRyMjBKbGJWYWZ0QnJtakkzeW80dUNRVi1sSThRX2tidkhOUFJiclFvb3Y1eGNXaGtYQVlHa1IxcEtZMFRvWk9IaDVYOHBFRWUwcXkwWE5qcmpzOG5ZY3RSalVPdw?oc=5",
-      "date": "2026-10-28T21:38:08.000Z",
-      "source": "Auditoria Cidadã da Dívida"
+      "title": "Exclusivo: máfia do combustível adulterado movimenta R$ 46 bilhões no mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ1pUbjRNZ3paS1NJUi1FWUp1VlVhMGt4emRHa1B0UW5rZTBtUjNjZzk5XzI5Q0wzM2ZRS29SS0NtWDV4Q3dHTzRLeDBJWkhPTVNKWmd1YTk0NVZUMjh3U1BFY3BqMlVNZUt1QnJRTlZTd0NZMHhlSVdYZW9RLXJqeEdBSlNuTnA3SDJaVDRGdUVmWGFZcU42c2FlTC1Pd3ZrUnFFLWNtS2N5Nk5uRTREaW9wa2NDbGcwYU1US3NNMG4yOHN1anF2OWFMSUh4NHRq?oc=5",
+      "date": "2026-10-30T02:53:09.000Z",
+      "source": "R7"
     },
     {
-      "title": "Flávio Bolsonaro nos EUA preocupa menos investidores estrangeiros do que risco fiscal do Brasil",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSklSemEzY01ZSFZkNkxLQTZLX0VQZVFHUHBwWmtOeFMxY25nbGVQbk5WNXd4WEpTZGFVZ0dtcWVpaWpMQ2pCZXRDNXpqMzZDb1FZVnp0LW9BSEU5d2g0VkhZUHNQZEJ2dWhoMGstTmpEUG9SLUFnQjNDQkw2TVVLeERLZHZRLTNSWV80VmdsTnRva0tBRnNsdzNPaE5wUTBWd1VFUnpXcGNucHQwbXpiMERjeExCZUU1Qk5fMTgzbzFLazd3cnMw?oc=5",
-      "date": "2026-10-28T20:28:00.000Z",
-      "source": "NeoFeed"
+      "title": "Mercado regulado: R$ 57,18 tri no 3º trimestre",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdkxoSmdUY2lsSjIwZzBmRVp1NGlYemJKS2p0cXZROGhhYWtXb0M1LW1QV05TdTR1UjJvd21BRjlwUllPd3NkMmZBUTFjVTctaDJwQzJQcUQyRy1kVE5LeW1XUmJrVTA2alY0bDVncjdPLUpKc2xaV0V4ZEI2RF83MVJB?oc=5",
+      "date": "2026-10-30T01:56:00.000Z",
+      "source": "Monitor Mercantil"
     },
     {
-      "title": "Risco fiscal de Lula 4 divide economistas após queda da Bolsa",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVljc0d3dnV0YXJJUVp1by04MUw2ZXlsY2lHR1pMQWptUGhXSDR2SUVWMXI0dFdCQUtPZ0J2ZHlLMEg2Y1o3TWpCNEVfdlhmaVpUV2RXazIyWGVzTGVNNGpkTl9PT1lzZUlqdVBSYmM1cjdTWkwzY092M1dZRV9HWFhWcDZqVy1qZzVOV3A5dEp6Q1RlaHZGRG9sMF9rcGhLb0JhbUJ3dGRpdjQ3UmhTVjRNS0RuWmU0eUl0YllXR2x0Yms?oc=5",
-      "date": "2026-10-28T12:30:00.000Z",
+      "title": "Fechamento do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWndNa2NrbVIwUDN0X0o1blE1a3JqQ0dQNHFpRE40TEs1dUFqc0FfaEhmUHBxYmlsR3dCRnc2RnJEc1VoYjJIaUZ2b2prRWlST3BZamp5V0dWbGFzVmdMVDkwUlZmbnFnTnpXOWtFMDloX3J0cktjUUpIRGczbWktRG9FVmxQckhJT1AzQ0R0THp2Ql9vZ2J2aEM3ZGJyMjlBb3RJ?oc=5",
+      "date": "2026-10-29T21:35:00.000Z",
       "source": "UOL Economia"
+    },
+    {
+      "title": "Faria Lima espera dois caminhos para Lula: um ruim e outro muito ruim",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1ljTkwxOEVSWjUzWEJYaklvSjFhRWpIek1lb2ZRWldIdHFMNWszaktiUEl3VFoyUEFpdUc2LWNfNmZWdzRQQ2JkaUhMSFRva3NEYmV4M1otRnpEYXo3aFk2Mm5tY3Q2OW9KMjFTWU1ES2VuSVBMelg4cE1TNWF0SFgydlZLWmdrb2dZUmhCQzVnUDhvNklKYzdSMEJ6bzNmYVNnaENMbkdGLWFFUlRVTV9YNUpZazVwTFcweUJZUU1wU1NS0gHKAUFVX3lxTFBmalhZLTFMSXpmOVBOcnE2azFGYU43MC1xWTFOVkpfTFpyVFZjOFVxQ2o3cWZKdTRvdTU0VDRvTFlldlhsQ21HMGd2SUItaG1ZRC12bjBrZi1ObEZ5SEp5MXFZY0RqNlRVYllfYm1uSG5VVWU3aHdWUVpnV1daR3g0VW51WXE0Rnh5Y1drdmdFM3BzaEFabWVWZURjd1hhUkJ3eDB3aVZxS0ZXMDJhYzBjWE5BR0sxV3pNRnh4MjI3eTVLeE9iZkdQVGc?oc=5",
+      "date": "2026-10-29T20:48:59.000Z",
+      "source": "Estadão"
     }
   ]
 }
