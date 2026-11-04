@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T10:58:39.529Z",
+  "generatedAt": "2026-11-04T11:19:27.907Z",
   "indicators": {
     "ipca": {
       "month": 0.82,
@@ -21,126 +21,132 @@
       "ref": "2026-10-01"
     },
     "dolar": {
-      "value": 5.4212,
-      "change": 0.8707948794284046,
-      "ref": "2026-10-30",
+      "value": 5.4935,
+      "change": 1.3336530657419068,
+      "ref": "2026-11-03",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "DAY TRADE 03/11/2026 | Abertura de mercado e minicontratos",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc01GNjVIb2hNeXJtajVwSmRfRTdONlpzU2dwRkRmN0ZMMzBsdlBZeUtfTEN2X04tV1pETy15Z3ZsOTFCS1BOelZsQWJXb05faTRaaDNqdnRBUVZGTnJsNWhjUWFlbm9kNC1ySkVzUWFqRlVKdXd6OVBuUGFGWFJWbE9IdGluVWxxTXRNVnU1aVN1cDZJeDFGeXoxX3BYbGtUWElwb0Y3MUpJaWNYRHQ2RXdSbw?oc=5",
-      "date": "2026-11-03T10:46:26.000Z",
+      "title": "Midterms nos EUA: vitória democrata ameaça planos de Trump e pode afetar dólar e juros no Brasil",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/04/midterms-nos-eua-vitoria-democrata-ameaca-planos-de-trump-e-pode-afetar-dolar-e-juros-no-brasil.ghtml",
+      "date": "2026-11-04T11:02:43.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "O Brasil está longe de ser uma terra arrasada para os investidores estrangeiros, diz Brito, do UBS BB",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR0g3blhqcUZhZ0VDY2RmTGt5QVNNNGdmT3hHM2szandkLUN0RWd1ZUQ3YTBXUXpLU2NRbXRMMHRkMXJvdWQ0YzBScXNHUzgtNGRrUlQtVkZKNENqSHl0SExtTEpuc0lZdlU1b05mQVAtRTNuR25XT0JuV3hXTW82T0JYXzA0Tl81ejNiSk5Eb1AwRXZOTVYwVEFxSkdkYzRTbkktTVhUbjBuSVpxLXlGWVZrN0NEMmZ6TmxLejNBY0t4UUR5T2k1cnJlaHZkRE1kamJFZjFpYjg?oc=5",
+      "date": "2026-11-04T10:52:00.000Z",
+      "source": "NeoFeed"
+    },
+    {
+      "title": "DAY TRADE 04/11/2026 | Abertura de mercado e minicontratos",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXdKS2pJYU80R0FDWmxsdlplaGgwZVpnUGJDaXNWZThnQUQ3U2J3LUtSNVN3bW5UblhnZzBNbmszR205ay0xODNtVXdpRmt6RnltZVBvSVJUVy1zMzBlQ085cXJIVVVOTk5sLU5MNTN3N0g1T1JqM01zSWNkOUVlemNKOU9HYzRxNHJJLWpFSTFBN2lNMzZIZC1jVnlWZmxzV1U1cUlJckV5dUllNDVfQzVQVQ?oc=5",
+      "date": "2026-11-04T10:30:06.000Z",
       "source": "XP Investimentos"
     },
     {
-      "title": "Leilão de transmissão mantém deságios – mas alguns elevam cautela",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWJ0S2RHVXJ2eUVmRk91WUxUc0xFb1FvY2pUX0dQSnF5NktJY1AzcmFDTkhOMk9mTEJEbkhPcnZld2tpMnpKNzhCR3hyaFNVNXNiRWJzUW1tLVRHRVNVZ3F0bDZZWjJaTnVTVS1MRmRKdHhNUmNLR0oybm53MlljTUFITXNCRzVRMjNoc1diSE13Q0U?oc=5",
-      "date": "2026-11-03T09:30:16.000Z",
-      "source": "Brazil Journal"
+      "title": "Crédito privado assume espaço deixado pelos bancos no Agro",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUFyYVBxSkNnVHlZa0N1MU5BU3QtRkRBeHJFTmhiOF9QQVA1YVdfYUdBVkgxVzR0V1ViT2ItaTBGNXYwUy0yaGo3amlYTTZlRkVUOVl3Y2NYdU9oSzhfeHNDckxLUzA0MkFrTERUMk1WSDMwUXR5SnNOUFZma1ZfSTJFdVFVZHNXODBZZENSN09iXzc1eVhIUHFwNnZxaXlUeDRTVlROQmxVODN3Wnp1TUlYZmptdw?oc=5",
+      "date": "2026-11-04T10:00:00.000Z",
+      "source": "Capital Aberto"
     },
     {
-      "title": "Risco fiscal após reeleição de Lula ameaça ciclo de corte da taxa de juros",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmpMUU4tVzhoUFo3YlVkOHJ2UGNLV2FGaFpLcHRKYXdBNDE5S3g3cnQ3dFBYNVQ5UExwNUloYVNSSGpIVVc4b1laVXJsem14bFZZUzVZX3NHU2FtVjI5QlczN2FRUER6aE1kendGSXRoOWQ4T0FVTUszd25zemd1MG9oSWo?oc=5",
-      "date": "2026-11-03T08:30:00.000Z",
-      "source": "UOL Economia"
-    },
-    {
-      "title": "Ibovespa abre novembro após uma das piores semanas da história; veja o que pode mexer com o mercado",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPXzZUV2tWVUVpdGdsSFI2R0NCd0VibFVmZzg4cDIycUZLZ0Mwb0lnamdJYmxsTUk4c285R242cTVTbjU2UnAxckdmNXgzSThMQTVVMF91T0MxTTBuekdzMXFqWno3aHMtdDJSa002dTNWR0FjNDQtZXpHM2lrOUd4SWdFRGFYMXN5UE9qM2dWcTBlRkItMUFVMVM1akJWQUMwa1p6RFVFTDliYTdaN0Z6RVJyM2FPV18zSFVqMFdEeGsxdlAtc19zU210b29zRFRqUFRqdVZXQy1yV0lidFV6NTFjR2NVQ3ppcHJhX2ZB0gHzAUFVX3lxTE1lNmszMUZvMnJ0Z29tUEh5dmFRRWRaSklGUTJ6ZjdhcXhXNWctYmlITzBWOWhBWVRndlpWcVJ2ekphNzZGcUtQUlVqVEsxb2R5b1c1S2ZsVGxKQlB2cVh4NS1BcnJrRDdaNUNLT21oamowRGVTNUlTV1FXZ3hSRHpnTUpWbWs4MmQ2SV9YRmk4dHdjT3BkZ2JoTUIyY3ZCUkZNQkZfOVZuSUhybnRNWV9JdGZxdTdDaGR0SmloVUdGaHJTLUg3bWFsM0VQdnhpckVEYnd2RHh6OExPVnBiYVZhOUlJZGRSUF8tbktUNE80TUQ3bw?oc=5",
-      "date": "2026-11-03T07:30:00.000Z",
+      "title": "Selic: mercado muda projeções e vê decisão do Copom como teste de credibilidade do BC",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQU9yeTZCVUs1Wjd2S3ZaZXZUN3RoVmZOMm1Jd0FnVFhLUVBkNHplM0RpblRsWWMyS0I1VTVTX09BT0JoOFVUY3dqWG5pVm1mYXoyMU8wVzZYbTd1MG1jUzdrX1VSMThTQjR5TFJ5amdIU0ttUlNFRWQ3dkdmZVJuZnlkZlRnZ1R4aDJDeW1IaDVHS2xWTlFhdE9Oam1jaGMxb1c4ZVFmbjJBTnNBRWpiQm5kamRfOHpvU3FmeG9lcVpEQVF5VXZkMkx4eW54N081SVFSZXo1aG84b3fSAeABQVVfeXFMTzNuVlVHV2drMTdSQWpEelV5bVJtb2t5S3VSNHNwTzdyT05LYUFwelhlQlZWaEtZeHJ4bWp5MWVTeHZac0dXeFRRanhlMWtYSFZDUndKdzdTbVI1b2FHc0VPRTJ0aFR1VklpX3NnXzlQTEpnd0ViSm1FR3gzTExaS0NwNjR2dExvXzVXcmVTSFFlcGF4MFN2bnV0QXpJUnc5ZDg0LWM4eGZyLTR3dzRubTZFUFNReWZfZW52eUJtZFF1TGJhZEtJcVFsUVRIaGJROFAxdnBrbHJZcmVQYjl4VEI?oc=5",
+      "date": "2026-11-04T08:30:00.000Z",
       "source": "Estadão"
     },
     {
-      "title": "Andre Serafim, Diretor de Seguros e Mercado Financeiro da Intel, é palestrante confirmado no CQCS Inovação 2026",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRllTa3pJMnIzVk96d0VERlRYSHdGSmJPQTh5MFF1WEdmazZQeGtUendjbzJpaTI0blRtZktqNFlyUmdVSHZyYzFKeldBX0dUYld0QjBvS1dGMXRKbHlwMS1KVF90OVNnNXppenNfd0Y5alVid213LUoyYmNuYnlfanh3Sk5FVWduNmZ6ejBmR2Z2VjZFZUpaMWVXMmRRcFhsWnpNM0E5QTZJVl96TVVsOXVDV2EzSnBGRUwzMElBNjhkVFY1amp3WHh6VVF3bFlPZjFVTg?oc=5",
-      "date": "2026-11-03T05:15:52.000Z",
-      "source": "CQCS"
+      "title": "BC define hoje novo patamar dos juros básicos em meio a incertezas fiscais",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3V3R0cyTUM0WE93b053QVZOdHJQRmVpaU84MHUyNEVIX05yZWNLN3hTVkJUQ0FVQ2UwM1BqWlpjZDF4amVrYmRLdWl4bjljOHlNal94M1huQlBrc1lHT3FldVRmRGl3WV9qZGxyWmxHRUdkbUIzbE9HXzVraElnbjEwVEcyS1ViZGtvTg?oc=5",
+      "date": "2026-11-04T08:30:00.000Z",
+      "source": "UOL Economia"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 46 milhões nesta terça-feira; g1 transmite ao vivo",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/03/mega-sena-pode-pagar-r-46-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "2026-11-03T03:00:01.000Z",
+      "title": "VÍDEO: Avicultor usa maçarico para aquecer pintinhos após queda de energia: 'Não morreu nenhum'",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/04/video-avicultor-usa-macarico-para-aquecer-pintinhos-apos-queda-de-energia-nao-morreu-nenhum.ghtml",
+      "date": "2026-11-04T08:20:09.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Simples Nacional: prazo para cancelar opções de IBS e CBS começa nesta terça",
-      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/11/03/simples-nacional-prazo-para-cancelar-opcoes-de-ibs-e-cbs.ghtml",
-      "date": "2026-11-03T03:00:00.000Z",
+      "title": "RAM 2500 tem recall no Brasil por falha que pode afetar os freios e os controles de estabilidade e tração",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/04/ram-2500-tem-recall-no-brasil-por-falha-que-pode-afetar-os-freios-e-os-controles-de-estabilidade-e-tracao.ghtml",
+      "date": "2026-11-04T07:27:42.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Quais são os próximos feriados de 2026? Veja os três que restam",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/03/quais-sao-os-proximos-feriados-de-2026.ghtml",
-      "date": "2026-11-03T03:00:00.000Z",
+      "title": "Paraguai: entenda a crise que colocou banco sob suspeita e levou à renúncia do presidente do BC",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/04/paraguai-crise-banco-renuncia-presidente-do-bc.ghtml",
+      "date": "2026-11-04T07:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Gleisi Hoffmann acusa mercado financeiro de autoritarismo e critica reação a Lula",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMl9zSFpYS1BfeEM5WXMyUUlsNE95NUpZWVE3N1puODVFYTRLaFNlWDRvZlVJWW9VdTAyaVNQVXNuQjJVRlB4S3d3TlE0eU1EZ0VlSUtEb3NsTHR2SmZha2ZRZTVycmtlUmREaE5HazV0V3NPZkloY003Szg4SHNQUXo2MTFSX2MzLTBCWHh4dXo4U1JGYWVVcnVYSzBXbVVtTFA1NUhmV3ozTGRNOWNtUWRxVldLSjg?oc=5",
-      "date": "2026-11-03T02:00:00.000Z",
-      "source": "Vero Notícias"
-    },
-    {
-      "title": "Veja motivos que fazem conta de luz no Brasil ser mais cara do que a de outros países com o mesmo perfil de geração de energia",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/veja-motivos-que-fazem-conta-de-luz-no-brasil-ser-mais-cara-do-que-a-de-outros-paises-com-o-mesmo-perfil-de-geracao-de-energia.ghtml",
-      "date": "2026-11-03T00:44:15.000Z",
+      "title": "Cidade do ES tem 327 galinhas e perus para cada morador; média do estado é de cinco; veja todos os municípios",
+      "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/11/04/cidade-do-es-tem-327-galinhas-e-perus-para-cada-morador-media-do-estado-e-de-cinco-veja-todos-os-municipios.ghtml",
+      "date": "2026-11-04T07:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Aliados de Lula fazem ofensiva contra pressão do mercado financeiro às vésperas do Copom",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa0U2WS1Bb0tlNTZCd0lUeFlLVHdhbEpOTXo4MlFNQVFMekZ0ZmJuektWUmNrZ1JsS3VZWEZZT2dib1lURWg1ZXd6MTB2dWE3RjVnTzQ0NU81Unp4eF9TbXhKNEdBMDFjWFYwMWRmckRQeXhhUGRiRk5IX2RZUVJJbGRzamgzM3RGWFJfVzUxY1pXTDl1alM0cFlrOWxSYTRrSEltcThzS0lMMkd6NDNEb3RFS1FhNFVX?oc=5",
-      "date": "2026-11-03T00:26:59.000Z",
-      "source": "O Potiguar"
-    },
-    {
-      "title": "Mercado financeiro tem ‘DNA do autoritarismo’, diz Gleisi Hoffmann",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamN4b2tMck9qQXBZVy1fZi1hZUlvQ29EeTZRMV93Tk1kU3NJY2VHbUFiWlZ5V2RFV2pKWXhEdXpWM2xnYzdTS2Vhc01RMXE4TFU4ZnlteXdYelFWYzRSMUtITHdtZjhuXzcxZGxlVkNiNXE2QUtqeXlWVkRpQVJ4R3Iwa2lqWXE1aFRWZW5OdzlUU0NnNzdJZUNIRkwtNV9UM2ZvaVJ1bEJlcEJ1d0VtaTVyaVZOZE9ISEow0gHKAUFVX3lxTE5YakVBU1hBZ2FpeWZ5OWM3a1pJdkV1dXRfaXhla195WDVfX2ZBUzg4SHFEaFFyZWdaQ25jdlhFajFkcUR6eHBGeDdDTmZfN2xXVU4zMHpoRUs1bzZKbW8zcFQ0RWVKR1ppY0JzU0FtLWlZQzJrVWFBSy05U3hLNUdBay1sWFNxeTdNWXJqN1ZmVE1vRE1tTkxDSlBzLUpESkZjalhJYTZvRjg2dE1oVWJJRm1vYUNVX2dJelFaT1hXNUh0R1VMZDJOYlE?oc=5",
-      "date": "2026-11-02T21:32:44.000Z",
-      "source": "Valor Econômico"
-    },
-    {
-      "title": "Mercado financeiro tem o DNA do autoritarismo, diz Gleisi Hoffmann",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbWJocjhySE5GVUpaV3hQYmxJcUNuMXRrYVdaSTNteXRWekxqdzNfdlJleGN4eURjSnh6WlE0TVFnbnlCRE12TmtNNksxLVlxME1TY0w0VjFlZzRDRzhsTXJaLXVKNUdScVM1VGFDbGVaVzRnZmxPVzdKNFFwZ1NQLVE4UXpaakhXX3ExZ29Mc3Y5X3FHZ3NJOVNfSW1tZC00aGZWaXBrYw?oc=5",
-      "date": "2026-11-02T20:52:18.000Z",
-      "source": "CNN Brasil"
-    },
-    {
-      "title": "ICMS sobre os combustíveis: veja quanto será o aumento na gasolina, gás de cozinha e diesel a partir de 1° de fevereiro de 2027 em SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/02/icms-sobre-os-combustiveis-veja-quanto-sera-o-aumento-na-gasolina-gas-de-cozinha-e-diesel-a-partir-de-1-de-fevereiro-de-2027-em-sp.ghtml",
-      "date": "2026-11-02T17:06:19.000Z",
+      "title": "Midterms: apostas para as eleições já movimentam mais de R$ 8 bilhões nos EUA; dá para confiar nas previsões?",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/04/midterms-mercados-de-previsao.ghtml",
+      "date": "2026-11-04T06:00:01.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Vale-tíquete: máquinas terão de aceitar todos os cartões a partir de 7 de novembro, diz Ministério do Trabalho",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/02/vale-tiquete-maquinas-terao-de-aceitar-todos-os-cartoes-a-partir-de-7-de-novembro-diz-ministerio-do-trabalho.ghtml",
-      "date": "2026-11-02T16:32:08.000Z",
+      "title": "Calendário de novembro 2026: veja datas de pagamento do INSS, Bolsa Família, pé-de-meia e mais",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/04/calendario-de-novembro-2026.ghtml",
+      "date": "2026-11-04T03:00:02.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "IA consegue criar vírus que se espalha por conta própria em eletrodomésticos",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/virus-ia.ghtml",
-      "date": "2026-11-02T16:00:14.000Z",
+      "title": "Mega da Virada 2026: sorteio acontece no dia 1º de janeiro novamente; apostas estão abertas",
+      "link": "https://g1.globo.com/loterias/noticia/2026/11/04/mega-da-virada-2026-sorteio-acontece-no-dia-1o-de-janeiro.ghtml",
+      "date": "2026-11-04T03:00:01.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Mercado Bitcoin sofre ataque e suspende saques dias após roubo bilionário na Binance",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/mercado-bitcoin-incidente-seguranca.ghtml",
-      "date": "2026-11-02T15:07:21.000Z",
+      "title": "Com mercado dividido após reeleição de Lula, BC decide nesta quarta entre novo corte ou manutenção da taxa de juros",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/04/com-mercado-dividido-apos-reeleicao-de-lula-bc-decide-nesta-quarta-entre-novo-corte-ou-manutencao-da-taxa-de-juros.ghtml",
+      "date": "2026-11-04T03:00:01.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Saiba como é o KC-390, maior avião produzido na América Latina e que será comprado pela Grécia",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/02/saiba-como-e-o-kc-390-maior-aviao-produzido-na-america-latina-e-que-sera-comprado-pela-grecia.ghtml",
-      "date": "2026-11-02T14:03:41.000Z",
+      "title": "Selic: por que o Banco Central pode parar de cortar juros após a reeleição de Lula?",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/04/selic-por-que-o-banco-central-pode-parar-de-cortar-juros-apos-a-reeleicao-de-lula.ghtml",
+      "date": "2026-11-04T03:00:01.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Compras agrícolas da China nos EUA vão ao menor nível em 7 anos apesar de acordo comercial",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/02/compras-agricolas-china-eua.ghtml",
-      "date": "2026-11-02T13:47:08.000Z",
-      "source": "g1 Economia"
+      "title": "Processo de autorização no Banco Central: desafios regulatórios e o mercado de ativos virtuais",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObThfRDVnejhzTFpRY0h1ektLMjVUVGdyMEdIcWV0T2NCUS1Sc1NDVjAxYi1PLTNHZHFkT05KY0NzUzAtMlBVVU9YMGE1c1A2RENZckJxbHhncFJZdmZzLUVFTWpTU0I0SWYyekd1eFRPNF9qMXJqak5sZ0hQSzBVcnRKaVZYOXRmTnJ0bl9Ic2RnNWpkMk5RVUVNVWd3ZXFMRERfNDRtOWN6Z2VnUGlOMndB?oc=5",
+      "date": "2026-11-03T23:08:40.000Z",
+      "source": "Insper"
+    },
+    {
+      "title": "Judiciário e mercado financeiro se unem para modernizar gestão de precatórios",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXdzWUg3QTBDclFrTXUyM1lranRIU0NidTR6R1M1MXBZRTVpNUNEenlYRmxGcXZaYWlac1JweV9JdGVJa2hBN0ZsY2dSLXR1SDduNWRUN0tDeUFwTzFoTGdCUnJwYUx2QXNtSUcwX09oOVRwUFo0RWtCOHUyakpydEw0bnFZanJHZ0xsa2MxdWxjVHdSY3pON1plRDVIMW5nbHdR?oc=5",
+      "date": "2026-11-03T22:42:39.000Z",
+      "source": "Portal CNJ"
+    },
+    {
+      "title": "Copom deve manter Selic em 13,75% em novembro diante de pressão fiscal e inflação persistente",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcE1IOFJ6enpwbzBhbHc3QXI0RWRpRDdubFBSeURfV21mMk5LdFl2aVMySVZPTXhHenpyVUcxZWFhWFE2SkJZMWhHcDVua3Z4QnM3UVk5SWxzYTRCbGs0X1lDTUkzbjFHeEVENlJqYTE2TzRkZjZYR1ZRX2l5cTV0MUdySG1FOEVfRzVndjc0X3ZfT2lic3Y4QmI3endpV05vclpSMWlOamhOM2JzTXdCM3ZlaWxqN2VlWndTdmJXYzlKLTc4X0RzT1BKTDNFZmlKTUZpVVlQQ0haNVBHa0U4ZlFDdDVpSUdrbW5RamhNYnc1Mmh1SDV0M2tiY3c?oc=5",
+      "date": "2026-11-03T22:20:00.000Z",
+      "source": "Portal do Agronegócio"
+    },
+    {
+      "title": "DAQUI A POUCO, AO VIVO! Quem define os rumos da economia brasileira: O governo eleito ou o mercado financeiro?",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXF1ckptY3Z2cTBwOW54cXpoXzRBOWpmX3FvM0VPMFJjY2YxNTF6cURsRG9UOVloY1pXSjdKdEVrSWhGckgxU01VTW5FUm5HaWtSRldYdVNMVjBTTHFXTzF4ZkZJNTdtWEpKdXVmUnNmdE5zU3dxbWJhUWhGNC1OQkZ5WlVselNkM0xBd0xTMHhmMWwwMTRaUHhqdDhZWi1yZUprWXc2ZXRhaGhCNDk0MnRoajhKODBzdC01VWkwZ2RCZVZHTy1kcmp1cVhscm03QW1GMEp5SnQ3ZWlsYWp6ZQ?oc=5",
+      "date": "2026-11-03T18:48:08.000Z",
+      "source": "Auditoria Cidadã da Dívida"
+    },
+    {
+      "title": "Mercado financeiro eleva estimativas de inflação e Selic para 2026",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORW95b2U2S2c3cmVXS2ZWMk1YVTBXeHRUN1RmN1VxRFJhS1RsbWZuWTJxOU5IXzhnQzIzRC05MHV2eUJfOTF4cGlFYjFnVWg2cFNOa3Awbk4tNjVCYy1LRmFpd09YYm10WGVkcjhBVVpjemgxT3dWVk5SYVg5bVlVLWNEbGN0U2xJSVNqMXI3di16YkE0NzRTUll3bW9VLTE5UDRrX2JOTjNEdmx2TC16dGRvbERfV0xiaWxhbGxzSzRfc2FucTlMdjI3Znd4VUFoNVRXVXlQdXdVaXc?oc=5",
+      "date": "2026-11-03T13:39:00.000Z",
+      "source": "Agência Brasil"
     }
   ]
 }
