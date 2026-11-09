@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T10:48:42.094Z",
+  "generatedAt": "2026-11-09T11:02:06.674Z",
   "indicators": {
     "ipca": {
       "month": 0.82,
@@ -29,117 +29,123 @@
   },
   "news": [
     {
-      "title": "Como investir no exterior está se tornando mais fácil",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUxIWnQwZjZjQ2c4SmJJVU9ZYXRLZ3pYWWJ0d3lBRUFibTdhcld4eXhVVkVLYV9FeFRWT2dBMU83NHZVekVOSUlUZmE4aWpsWGpDLUlHbjFLTExOQmo0cDJCN290cDZyZ0xGV2hacUNkVVF4V3RfNnJMcnc0MXpkSkhab1gtSTQ?oc=5",
-      "date": "2026-11-08T10:02:02.000Z",
-      "source": "Exame"
-    },
-    {
-      "title": "Fintech Makasí criada por curitibano atua em 23 estados",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFhlTG9MYlNBVnUyclAzZ0lkQTV1bTN4OWp0STlkRFE0OXFrUGtjUlJWNFFuamNmbGVIdUxFR19jTjIzQlk2Z0kta3UtbXI1Mm1CT2VfSVRreGh4UnhBS01QV19yekVKQlp3bVN0TWp4cU43TDdKZi02OHpzYngxOVFvRWk?oc=5",
-      "date": "2026-11-08T08:05:50.000Z",
-      "source": "Acia Araçatuba"
-    },
-    {
-      "title": "Brasil pode perder seu maior comprador de soja? Entenda os planos da China e a disputa com os EUA",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/brasil-pode-perder-seu-maior-comprador-de-soja-entenda-os-planos-da-china-e-a-disputa-com-os-eua.ghtml",
-      "date": "2026-11-08T08:00:01.000Z",
+      "title": "Ações da Nvidia despencam após investigação sobre suspeita de espionagem envolvendo CEO",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/09/acoes-da-nvidia-despencam-apos-investigacao-sobre-suspeita-de-espionagem-envolvendo-ceo.ghtml",
+      "date": "2026-11-09T10:52:58.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor em Cambridge defende ajuste fiscal 'suave'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/08/meu-medo-e-o-governo-lula-buscar-atalhos-e-brigar-com-o-mercado-por-que-professor-em-cambridge-defende-ajuste-fiscal-suave.ghtml",
-      "date": "2026-11-08T08:00:00.000Z",
-      "source": "g1 Economia"
+      "title": "Crise no Paraguai acende alerta na economia brasileira: entenda os riscos para bancos, empresas e investidores",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQkRJMWxpa1BJbEExdXM3clM0STVOTGpHSUJCckVPX3Z0eVl6d29zeVBrelQ5NHF1ajhIZzJ0dW15bjlFUVJ3U3RGWURyQW1wamlKb1VxcFppemdqRVJjd0NXTWc3REs5ak5uUHNXcVFpWnhMX0twc1JGU1RYVjBMM2lHWS1YcXhOM205ZmIySTFlNlBFMFFhOFlhQWt6MkJscVhTWW1CMW82b3h5LUxXeG9YLVI5N2lLT3drOFlmWTMwbHBjWEtyTC1nTDdSd19GclM3MDVrUHpSUUE?oc=5",
+      "date": "2026-11-09T10:40:47.000Z",
+      "source": "www.feebpr.org.br"
     },
     {
-      "title": "Galinhas usando óculos? Acessório previne canibalismo e brigas em galinheiros",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/08/galinhas-usando-oculos-acessorio-previne-canibalismo-e-brigas-em-galinheiros.ghtml",
-      "date": "2026-11-08T07:00:01.000Z",
-      "source": "g1 Economia"
+      "title": "Crédito no agronegócio: Fidena oferece gestão terceirizada e planeja operação no Paraguai",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOWpJWVdONzZVX1pOVHhqR2F5eVd6X3NwZ1ZPUm9XckZZUmgybnB1c0dhM1BRbGpuM1RUSTRneWFFUEpDQlpiV2p3SFgtUmd6Z29HV241WEpmZUtST3BZa01JLVJPVEtkU21HTVRYUTFPTGM0MERJLVR0SS1meWJlMk94NHlicUZSS21mSWZyaVd2LUgxOXlEUkc2UE05dlMwVEM4cDY1WFJ3RzM4Wk10TlBKVm5Ya19lNW0yTGJUMTU0NlkyaUVSUDVfVUxyOUVQbDRINVdGMWUwbzk1RjZVaUVxaU1aR0YtT0ZvZGk3d25CWGx0VnRr?oc=5",
+      "date": "2026-11-09T10:30:00.000Z",
+      "source": "Portal do Agronegócio"
     },
     {
-      "title": "Renault Kwid 2027 muda visual, mas custa até R$ 91 mil; vale mais que um seminovo? Veja teste",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/08/renault-kwid-2027-veja-teste.ghtml",
-      "date": "2026-11-08T07:00:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Como uma falsa entrevista de emprego levou ao roubo de R$ 34 bilhões em criptomoedas; veja iscas usadas por hackers",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/08/roubo-bilionario-criptomoedas-golpe.ghtml",
-      "date": "2026-11-08T06:00:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Dólar sobe para R$ 5,51, enquanto Ibovespa avança 1,39% e recupera perdas",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFVuRGo0V1g4LXUtcU5Zd283V0hFbFhtMXNJb013cEdWdy04ZkdQQmZUblhmSjZQRWVLRWlfQU9NRThPX3RuYUNxQjJqSnV2bEdTQWdZRkxqZ05odWNINVVJa2tNZlpzMFJFVzVtb3M2dXNUYlNRenhueUZJd2RUUy0zd1ZQWnR6eUdMZmVGT3pGc2NKQmFpenFJV2x5dw?oc=5",
-      "date": "2026-11-08T05:47:47.000Z",
-      "source": "Diário da Guanabara"
-    },
-    {
-      "title": "Ele transformou malabarismo com limões em negócio de R$ 2 milhões, quebrou e recomeçou",
-      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/08/malabarismo-produtos-circo.ghtml",
-      "date": "2026-11-08T05:00:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Mercado prevê estagflação em 2027 e cenário econômico similar ao governo Dilma",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDZzb2U2V243Vl9aZEdDNG1DWW9YQkxwbGZmcGhvOEpEQlI3UWZFUTd0SXBodHBJQkxRcW1sX1NmRTZ4S2tLZm9KRVJwNmNUelItSkxZcDRScUZiZWx1a2lEQmEtVktXQlV1SUN2TXNDejk3TWE2YUFJc1VSNW5KUFZZb3pVMGg1Q1JNQmFxZ2hPejlEUld6SENuVm9GZXdNckFCVW1VdkR3OGJob2lrQQ?oc=5",
-      "date": "2026-11-08T04:33:00.000Z",
-      "source": "Gazeta do Povo"
-    },
-    {
-      "title": "CNJ e operadoras do mercado financeiro vão criar sistema para rastrear precatórios após caso Master",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOXFjXzRzcDJjRFZVeWowaXBCd3hmbmNWLTFOLXMwNTdmOXhmNVNWQ2h5aGxaS2V1UnJvS0lDS09CVVgtWGhxV1pITnJyQkhPd0FvYk5YeDdIbGRLMUxjVjhnTnl1TzhfcFpFQUhGX2tQTFpxbmxSd19RSHdaNW0wei1KclI3ZmQ5QWZxTmNXRmVFMG1vSUthZ25oZzdlQ1Z1aWhRakxTb1RyZXphSFoyNFA1UUZLczZ5WWNVVGZXNUg5TklwS1dfR2lSX0JzMXlqT0FZYTZNOXdXQ2lf?oc=5",
-      "date": "2026-11-08T03:35:01.000Z",
+      "title": "“Muita gente acreditou que dava para fazer um ano em um mês”, diz gestor sobre queda dos fundos",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM2NhLXVNbXA5RXNRc1RWaXk0aDd3SjBWOVJONXpBaE9rYVlFM3VPNDVjYnJRbEw4SnN0RlNMdTYwOEQzZ2QzNXZjYldnb3hGVk5aR2tCRm9MX0xWREdlVDhsNjE5cTdiT09Nc0JIdGVsY2JVSVJqVnNYdUNPUklUWmFkcnhaZkQ1NUpuTkl4WXZPRGxGb2s1VXl5Xzh1dnoxMGNOY3FnTkd0LUIzZWtIUU9GN3JxMGN6alYyRnEwdVc1ZHVPWS1GY0pWekpPdWxvLUlWWFVQRHo0QzZkTmZlMVJYZ9IB6AFBVV95cUxPbjllNVpOYUo1MXVxTzdiVUFIXzR6X28tZ2FMZFh6NGd2QlhzS3J0U0FCbG1IcFFmRGFJSzczSXdTNnUybF9QNVV4RVBCSUFoaklOQXhVM2NZVmV6dERMYW93dEZ5c2JNQ2xmV0R3ZHI3R2Z4SmN5blk3RUdFeXNaM3hCOHYwNzF1cWtmV3lyYndjU3F6a042M0FyNVBaZ2lHeGVCeVFhTXNqbXJmRTV3YWJGVTZNOGhiQktmQW5uQXlVRGNvUnU0U1ZmLTZtZExzbk5RTVh1RGRPaGVBcF9qNEZET01aU0ta?oc=5",
+      "date": "2026-11-09T10:29:32.000Z",
       "source": "Estadão"
     },
     {
-      "title": "Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/08/ajuste-nas-contas-publicas-o-que-esta-na-mesa-de-lula-e-o-que-esta-fora-do-radar-do-presidente.ghtml",
-      "date": "2026-11-08T03:00:00.000Z",
+      "title": "Como estouro de bolha da IA pode revelar os nossos segredos mais bem guardados",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/09/como-estouro-de-bolha-da-ia-pode-revelar-os-nossos-segredos-mais-bem-guardados.ghtml",
+      "date": "2026-11-09T10:28:54.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Mega-Sena 3083 pode pagar R$ 60 milhões neste domingo; g1 transmite ao vivo",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/08/mega-sena-3083-pode-pagar-r-60-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
-      "date": "2026-11-08T03:00:00.000Z",
+      "title": "Lula viajou e levou com ele as expectativas do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQy1ZZERoeDRwM2ZEV0loZTNCRjRHQS10QkhkV0pLOTlwdVBXTnlMWXc4TU52VWJub3NNNm0yV0lfbEwya0xLdHFZRzJ2NnBTREJHcXFLTUhqXzU2S1I0eEFiUnE2YVdmSUpIdlF3ZnhxeVQtQnNvTGdTTy1lRnJBUk9HelRWTWs1d2xfNTlySnd2TG1DSlhocF9sRXlnczdEX29uU1UtcUJya1g0c2RLRTVoQThDWnQ3ajIxUWVlMk1iNmNnVTNteFUxWnd4UVdzNFJjdThMeUhaWlpOc04yMTV3Q20ydw?oc=5",
+      "date": "2026-11-09T09:00:02.000Z",
+      "source": "Diário do Nordeste"
+    },
+    {
+      "title": "Inflação no Brasil e EUA e ata do Copom direcionam o mercado nesta semana",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2RQR0VBZzM1MXZwZHNaVm00cjdvVzVwZ3J4MldVM0kwRW9nZUN0WWF4SWo2NVlrX0E2NGtudDVSLXdWWWRsNGFSUFJWa2ZKWnJGRHlSRU1DeVZOVEZ5MjJCcW1HS3JTT1F3dDhBcm93a21jR0xIcENHWDdoUkgzY3ZmVFotcS1LU2hDZzVidnpyTGpENTdoSFItLXpnMnM1SlY3M003TQ?oc=5",
+      "date": "2026-11-09T08:30:00.000Z",
+      "source": "UOL Economia"
+    },
+    {
+      "title": "'Já tirei R$ 5 mil no mês': como funciona o trabalho de vender imagens de tarefas domésticas para IA e quais são os riscos",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/09/como-funciona-o-trabalho-de-vender-imagens-de-tarefas-domesticas-para-ia.ghtml",
+      "date": "2026-11-09T08:00:01.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Mercado pressiona Lula por ajuste fiscal enquanto economista propõe redução dos juros",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWEzZmpCTHphb296RDZlcGIwMWdmdUxlalpQNVJKblc0Mkw1R0I4WTNScG04SHBWWVlBYjRQWVI2SGRkSHhXa2prbHhkWXo3Z2JUYjdNYjNVUjYyOEN4Y1NJNTJiYjJLQzRYNVhMbUpCakNkXzZidlFqQjFfb0ViUTdQTG9tVTFjQzVXZGR1eVRqTkxnQjU2dEZySE5VNzZ1d01uZnFuYVhaWkJUZXpvb2NhWVJhRFZ2TmdERw?oc=5",
-      "date": "2026-11-08T02:30:00.000Z",
-      "source": "Vero Notícias"
+      "title": "ESG ao longo do tempo: marcos e transformações",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGhhT0s1aGN0ZDYxZGpaN052eUR4RVBBUEZEbmlzSFQ1ZkUxUDNyaWRhYmczZ21jYmp6UDdNNWxRcVpwXzlVM1Zrbmo1d2tNZzFwLXpDT3BiWnlvTUZBd192ZXIyRHFBMUUzbm9XTk92NVRHNDBrTmlfUG5ZYXdLN1BVejhORFlscmNqanZ6YlYxZkhGRnNfWkhqcW1OWG5ZbnZKUHlVamN6QQ?oc=5",
+      "date": "2026-11-09T06:36:27.000Z",
+      "source": "JOTA Info"
     },
     {
-      "title": "Opinião - Josué Gomes da Silva: Interdição ao debate sobre os juros tem de acabar",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2lsTUoyYnI1YW9LVzR3Nlp5eUVsN0tUdGU3NnVvREtLYm55SUNZS1ZhcmxDRmtoZEI0SEluX2lsYk56RFdsZFQwWXgxLVdBSnA5aFVYeUZzXzhWeHFib3hRaG5Ec0o4eklCT0h1aFZ6bmxIY3pUVnJaVkVtZmpHRW9zY2ZHX1JDcHRNUGVremJYbGt0T0FBMTV4bG1mN1VPVjFz?oc=5",
-      "date": "2026-11-08T01:00:00.000Z",
-      "source": "Folha de S.Paulo"
-    },
-    {
-      "title": "“Não levaremos o povo pobre a nenhum sacrifício como quer o mercado”, afirma Lula",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQmtwdVI3U0RGcS1TMUpJdHozVXV1amgwbnJQa2Vjck54LWpIQUFab24zMDB3cjNTWWN4cUZ1SGpkR1R6VlVMaWpXY09sZmxKRDJHa2Iwbk1EN0pGaFVJdVVHdG1acFh5ZTJybEt3djI3Zm1WZjZzTnRHb3RxVjI3ZHRtbHRJM3E0OU9YZ2dJNjNaXy1nV3RsVXR3YTBGMWdRWU5KTjlRUHc?oc=5",
-      "date": "2026-11-08T00:06:42.000Z",
-      "source": "Hora do Povo"
-    },
-    {
-      "title": "Lula escanteia Boulos e Hoffmann após ataques ao mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbVN6RjlHenVybHQtaFNFanRJWS1yczFkWWNkM2xwLTJrUVlOSXpUZ2haX2N6RGRBMlhlWGhScy1jOHZCOU92akF6N183aUVMZTdNTXlIcDhkVWpfUGdSMzVURTVNeU5GUE0wR3JxNHF4ZkRrMkVXTFlJSHpGTnhGYUpfdGNacjJrck5ET3d4ME5tdUJVVjlYemVuMFlBdDJFdzhLTlF1LVNYVmRhbjNzM18zUHlBUms?oc=5",
-      "date": "2026-11-07T18:45:19.000Z",
-      "source": "Blog do Gustavo Negreiros"
-    },
-    {
-      "title": "'Imposto do pecado' não é invenção brasileira: álcool e tabaco são taxados nos 38 países da OCDE, grupo de nações ricas",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/07/imposto-do-pecado-nao-e-invencao-brasileira-alcool-e-tabaco-sao-taxados-nos-38-paises-da-ocde-grupo-de-nacoes-ricas.ghtml",
-      "date": "2026-11-07T15:13:08.000Z",
+      "title": "O que a guerra no Oriente Médio e as mudanças climáticas têm a ver com o preço do hambúrguer?",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/09/o-que-a-guerra-no-oriente-medio-e-as-mudancas-climaticas-tem-a-ver-com-o-preco-do-hamburguer.ghtml",
+      "date": "2026-11-09T06:00:40.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "BC paraguaio diz que devolveu dinheiro de 1,2 milhão de correntistas do banco Ueno",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/07/bc-paraguaio-diz-que-devolveu-dinheiro-de-12-milhao-de-correntistas-do-banco-ueno.ghtml",
-      "date": "2026-11-07T14:00:04.000Z",
+      "title": "Chefe ruim e falta de crescimento fazem profissional pedir demissão em 2027, diz estudo",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/09/chefe-ruim-e-falta-de-crescimento-estudo.ghtml",
+      "date": "2026-11-09T06:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "O presidente Luiz Inácio Lula da Silva fez na noite deste domingo, 8, seu primeiro pronunciamento ao país desde sua reeleição em 25 de outubro. Em meio à preocupação do mercado financeiro com os fundamentos da economia para o quarto mandato do p",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HTjNlTWtwY3VHbERzNzNNakJ5dXNJNVBlcWk1S0NoMi1RazVDMHluVDUzdWl0QkcwclpTWVc5dXQzc3owb0xkNzNxM1Z5QlU5a2c?oc=5",
+      "date": "2026-11-09T05:58:29.000Z",
+      "source": "Instagram"
+    },
+    {
+      "title": "‘Imposto do pecado’: taxistas, autistas e PCDs não pagam taxa em carro zero km; veja categorias isentas",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/09/imposto-do-pecado-taxistas-autistas-pcds-nao-pagam.ghtml",
+      "date": "2026-11-09T05:00:00.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Ajuste fiscal: o diagnóstico de organismos internacionais e o desafio de Lula 4",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/09/ajuste-fiscal-o-diagnostico-de-organismos-internacionais-e-o-desafio-de-lula-4.ghtml",
+      "date": "2026-11-09T03:00:01.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Quando cai o 13º salário em 2026? Veja prazos, valores e quem tem direito",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/09/quando-cai-o-13o-salario.ghtml",
+      "date": "2026-11-09T03:00:01.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Responsabilidade fiscal, dívida e queda dos juros: os recados de Lula para a economia em pronunciamento na TV",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZ1BYNG1KcThNWU1zdm0wbV9Udkg5S2ZZdWRWUU1CZmpMaHdSYmdQWlJiQklWNUxqSVMzUEVOTUg5OGh4c2dhekx0WURYMDFQTEpaQVFQMklwbzFUcDVXOHBIekVBcXdWVzMydFYyRG1BazRYNExhZG14ek1EZTdKRzNseXh3VWJrVHh5UmpIcG5UcTI4UmtkcVdKdDZBVVpQcnFWVFRtSko2ZVcwaVlkeTJDQ2RtLTh1VXU4ODNFMk50N0VtSl9YMGN2YlpQYUQtMHR4YzlwY3V2cnd5cC1lTTQtUmdUSVZYdjZjd1JaTE11RENhQkdESlVQSXRaZzBpYlhXdDZlbDfSAYgCQVVfeXFMT2dQWDRtSnE4TVlNc3ZtMG1fVHZIOUtmWXVkVlFNQmZqTGh3UmJnUFpSYkJJVjVMaklTM1BFTk1IOThoeHNnYXpMdFlEWDAxUExKWkFRUDJJcG8xVHA1VzhwSHpFQXF3VlczMnRWMkRtQWs0WDRMYWRteHpNRGU3SkczbHl4d1Via1R4eVJqSHBuVHEyOFJrZHFXSnQ2QVVaUHJxVlRUbUpKNmVXMGlZZHkyQ0NkbS04dVV1ODgzRTJOdDdFbUpfWDBjdmJaUGFELTB0eGM5cGN1dnJ3eXAtZU00LVJnVElWWHY2Y3dSWkxNdURDYUJHREpVUEl0WmcwaWJYV3Q2ZWw3?oc=5",
+      "date": "2026-11-09T03:00:01.000Z",
+      "source": "O GLOBO"
+    },
+    {
+      "title": "Discurso de Lula à Nação pode impactar os mercados nesta segunda-feira? Saiba o que esperar",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzBVdmp3aVd5Sm53bmFaeTgwTV9pTkk3cjlJRW04V3dTajF6X0JhTUNtZFp3QllXZTJmeC1VbTVROTRsMlZZRHN0YkNDTENsMXJ6bDdnSW5XNXVMclpiR3NGUXdsdWxjOU16Z0FNRFBxUVduOFByR2R2WG80am1aaFU4czNaNklxSkYwY1duT1FNZ1otdzh5aS04S09uVC1OUWpSTzhOQS0yU2xHaHlUOUpGTlhoZGZDTEYtVWF5bl9la0QyQkxDamZYRdIB0AFBVV95cUxONnI4bUt3Sk1hRHVhZGNrcGhLZklxcl8yb0lHOWw5UHhEQ1pWam4zSVF6S0RyNS1VTHdiX2dJNGw1aUI0dnJfd25Jc3R0X0x6UURFcm9FMW1HWmE3MHBuSXA1dFg4T2xveFQ1ZUZLbUlfVXNrODVSRlZRdzZRNkR4QXJTdk1WTUhETlBLczBDWWJMb3dhVG5fTE5oLW41NkdGTUF0Sng2ZEQ1MVBoVGZmZ0ZFM0c4VzRNR2d2OUZubFVsVjJ0ZmpIcHdWYUpnZ3dW?oc=5",
+      "date": "2026-11-09T00:34:29.000Z",
+      "source": "InvestNews"
+    },
+    {
+      "title": "Investidores de 60 anos ou mais crescem 358% na B3 nos últimos dez anos",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWWNTMzh5dzB2VFFJTUpzUTVMVzQ1OUVVTHM5MVlnWGY4MXpCRVN2MTdvaVJETzBXcUNtdVJ1WG95RW8wblF1cWFjUjZKQWMzZ2hrYUJhektIc2Q1a1h2SkRFa3dRWWVTNnJNUnhoVVdLTHcwRVNqN1BQMWoyM0trUmxsTDJwVDA1UTlhTXgzQXRzSHZJWk9OTl9YcFRZeS0xQngtT1FwRzJLVU1Caml3MTRYMF8wZVgydkRCU1ZxY3h0SC0tUFd6MQ?oc=5",
+      "date": "2026-11-08T23:29:37.000Z",
+      "source": "CNN Brasil"
+    },
+    {
+      "title": "Trufa branca é vendida por mais de R$ 600 mil em leilão na Itália",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/trufa-branca-e-vendida-por-mais-de-r-600-mil-em-leilao-na-italia.ghtml",
+      "date": "2026-11-08T17:23:02.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Mega-Sena 3083: aposta simples de Goiânia leva quase R$ 60 milhões; confira os números sorteados",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/08/mega-sena-3083-confira-os-numeros-sorteados.ghtml",
+      "date": "2026-11-08T14:00:55.000Z",
       "source": "g1 Economia"
     }
   ]
