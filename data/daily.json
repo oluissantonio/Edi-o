@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T10:56:57.752Z",
+  "generatedAt": "2026-11-11T11:04:21.494Z",
   "indicators": {
     "ipca": {
       "month": 0.82,
@@ -21,132 +21,132 @@
       "ref": "2026-10-01"
     },
     "dolar": {
-      "value": 5.5013,
-      "change": 0.7176726899910151,
-      "ref": "2026-11-06",
+      "value": 5.584,
+      "change": 1.2584774961012568,
+      "ref": "2026-11-10",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "Mensagem do Presidente brasileiro procurou acalmar a inquietação do mercado financeiro, que reagiu negativamente à vitória do mandatário progressista com uma queda acentuada da Bolsa de São Paulo.",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTDFISmIyd2ZiZnd2RzRYNmhLRnFOdWJ0djVaNUF0Z3ZtNDR6dFJTcVJOV3FET0ExLTdHVmNGTVpnUWgxaU5QWWxscWNrdzRkNnN1VnBBb0l4Q21vQlNROXEwYjR4cG1pRHpzRFB1SUFzcDRka2YxZWpKb3ZxeTBRajI1ZkRoSldYS3FLU19pdWVkNEFleVFDWnk0MFVxTy1XZjkta294bUxjQTlrMTlRTTUtbVZBWkdCT0V3bFhXeVZxSGZ0bG5Yb0xYODNvaWFxOW96RlV2N3h6Z3VsU0F0bk5waTQ4Sm5pNE9sag?oc=5",
-      "date": "2026-11-10T10:45:16.000Z",
-      "source": "Facebook"
-    },
-    {
-      "title": "DAY TRADE 10/11/2026 | Abertura de mercado e minicontratos",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGpzRmpFaEdnSVVtdHp3TDNxR1RnTmx6dDZXM0xEdEY0TkJOOFVJaUhqLUtzN1hqVXc3V21zbDlBQ3ZnMFFxRV93a0xsZnZZR0ZWNUxUVXlrWnR5Uy1rWmpVczNycHo4S1R3VG9ON1VzbjJ0QXpjdkRiWEROWU1SNjRSSTVrR01tM0JjemJqY2tDQTZnWmNZU3JCLS1xNVpXNVdGR0tBSEd1amtBeXB4OW1fUQ?oc=5",
-      "date": "2026-11-10T10:44:36.000Z",
-      "source": "XP Investimentos"
-    },
-    {
-      "title": "Por que infidelidade do chefe da Nvidia com suposta espiã da China preocupa EUA e o setor de IA",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/10/por-que-infidelidade-do-chefe-da-nvidia-com-suposta-espia-da-china-preocupa-eua-e-o-setor-de-ia.ghtml",
-      "date": "2026-11-10T10:44:10.000Z",
+      "title": "Suposta espiã chinesa que teve caso com CEO da Nvidia entrou em Taiwan com passaporte de Hong Kong",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/suposta-espia-chinesa-que-teve-caso-com-ceo-da-nvidia-entrou-em-taiwan-com-passaporte-de-hong-kong.ghtml",
+      "date": "2026-11-11T10:53:27.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "OPINIÃO ✍ | MARCOS DE VASCONCELLOS | O mercado financeiro e o noticiário passaram a semana discutindo se a proposta do economista André Lara Resende para reduzir os juros acabaria com o Brasil ou nos salvaria do crescimento da dívida. Pelo to",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nZ3FHQmpDaWlrNTRwdS1jaVdjWkJmdFNXak9zZUZVUWNjZmdfbVV4VGN3T0MxVjlBUm9yNDlzdG9EVy1vbF9jYVhLOXZDVDh2Q2RWQjZn?oc=5",
-      "date": "2026-11-10T09:21:23.000Z",
-      "source": "Instagram"
+      "title": "Não elegemos nem Thatcher, nem Kirchner: a avaliação de André Esteves sobre a reação dos mercados às eleições",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUJ3Q0J2Q1AydUpKdUpucHY4UnF0RGJMZUp1a0xiM29YNERmc0hFYmJYd3UxMUs1Q1NMdENMcU1TR2RxODNaQVJYQWV1eGZnamxGUTNlZXZBVmNQanNGazZhM0JQT2lEZEpBYVFsSHFmemg2X0tFVndhampXNE0tSzVtcXhzektIeTZsYnZsWGpNa0ZFQnNnNU1NRTc4amVhcFBVX2VMbi15cVBoQXRYTU1wU2FXOFhtd0hNWVZENndoTHl1SEVzN2xiQkt1TWRxQktSVFVoTVNJc1lIVHhXTnI4WXM?oc=5",
+      "date": "2026-11-11T10:13:37.000Z",
+      "source": "Seu Dinheiro"
     },
     {
-      "title": "Saiba quais indicadores e balanços saem nesta 3ª feira",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbS1Dajdtand1SHFxLW0xOEFaaGNZd21vNjJNZ0NBMzRCai1fblpNaEwwUUwyZl8zRk05TWNkRnNzYU12Sk9yb1JCbW4ybzhUOVRwQUZtRW8wd2hMczRZQzZvZ0ZhWHdzcUpDc0w1ZVBPalY3ZmpkS0c5bG1GYy1leU9MN3RjTFg0NjNnUzFObmF1dzhqam5TOWZMQ0czd0g1Mm9J?oc=5",
-      "date": "2026-11-10T09:04:27.000Z",
+      "title": "Pacote fiscal de Lula, Banco do Brasil, Galípolo e mais destaques desta quarta-feira",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1VVUkY4OUNCaWZrSHU2eUY2Z2I1dTRVMEN0TFZUejA5WGdSa00zUW1mYUF1dnRReldyM2RzRUpqdHNVZVcteWVLazhTOE5VUlpTdXduMC0xeW5GTHBLOEZQOF9ReGpWQkR6cUtfV1RIZkRXanBnYTVLU0MwcW5LTTdwbnV6enRtNG9ISnpnV2xPV3diYkFSREVaZ9IBoAFBVV95cUxOYWlVS1plY3NfR2RlSWZEb3F1bzRGSEl5SjJBS1ZOTEFvNnpHdVVEUmRya1JXZVN5S2xyTzJTYjRaOHQxdmZjTEsxSk9XTHp1cmMwa04xQmYwRDNBdEM0VF9vM1BWam1ldkdVU2tfZ0hMdThlQWJiX2kxbEF2cEp2OVljRjZkOURwNWhGNmFtWjVyRGJGbTNjYVNKU094bXdw?oc=5",
+      "date": "2026-11-11T09:02:34.000Z",
+      "source": "InfoMoney"
+    },
+    {
+      "title": "Mercado financeiro pede um só sinal, mas Lula mantém o silêncio",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQandrMEhLMF8tVXVsOFp0dnBVNkc0TVV1STZVUFh2X3JFUEFwcjl3WC1KenhJY01CUzl0TGlDUTV1N2hZUzl2a1dqZDdzSEpsLUROWDVMWVFkcFVhcVBmazF3VlJVSkd1N1ZXczJDZzVXZHFHWmg5X3dGYmlYdWQ1UVZZbTRwa2F4TFZIbkRVZUIzTl8weFJLR0lLa3RHOFlDVlhjQzBWREhnOWRwWjAzUkJDZ2J6M2hDbGM3OXJGdkk5TVhhcl9oZ1AtTUtZeEdmbXlaSlBNSEdKaUFBdnlFcmNR?oc=5",
+      "date": "2026-11-11T09:00:00.000Z",
+      "source": "Diário do Nordeste"
+    },
+    {
+      "title": "George Santoro | O Brasil deve incentivar investimentos, não só operações financeiras",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjJXRmd0T3dZT2owbWtIOGtHd2V4YmxFWVFqOWNEUno4V2M3OUtZaEZUNUMzTmpPVmF6VS1zRTlrTVlQd3U0LTVWLVNCai1RYWg4QUdxNk1oRlpEc3E1Yi1QLVJjZTRVR1ZVMUlaVDQySzJMV09lMHdOYi1DRkNUZm5pYXZkejRnNFhSNFF1VG5hMEg4QXA4d3hWdzlSZ1BhaHpUUGVxdw?oc=5",
+      "date": "2026-11-11T08:53:45.000Z",
       "source": "Poder360"
     },
     {
-      "title": "Incerteza com política fiscal e cenário externo pressionam bolsa brasileira, que ainda se recupera de queda após a eleição",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPTWJkMEREemtuOWZGOHZ4R1ZxWFN5N0pTZTd0bk5hcmR2QTQ4SVpqdHFoY3Z1SF9DdTFXSWZjeFprSy1nZ2VkZDZZNTFFRjltM0s0VEx2ZDdGUWhEU21Hel9OcFp2N1VPdXBEVVZ3SDl5eVZ1YXRYeng2SFlKR01uWnVkdFVjTVhvck9MRmtsY0NyckVrZ3ZMSVVLZlFNX19wT19JOVFFYVgzZVk5M0ctZFdfQml3WnlScDJCSDlzUjgxQWJ5VjJWbG5sNHlpZV9rTnZjd2dRVlZqLXh5dUl6OVBkVXhISUYwVmtfSmhYUW9QTEl6RDRxY25uY29JZVNGWnZDZ0dYRjNfWk5oVWhFSFB3a3RkbGg1N2RsSFhITmRjTzF6MVFDU2c4UGNLMnNySlVB?oc=5",
-      "date": "2026-11-10T07:07:45.000Z",
-      "source": "GZH"
+      "title": "O presidente do BC (Banco Central), Gabriel Galípolo, afirmou nesta terça-feira (10) que o fato de o Brasil emitir quase toda a sua dívida pública em reais não elimina os riscos para quem financia o governo nem garante juros menores. \"Toda vez que você tiv",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrSXVpMDdkTW9QX2VpX0lNWUtmVlU3SURmeXNxWk1YTjV1OUVGbGI1Qm1Qa2dMU1dyV21LODlHRVlXXzNRZkZubUNDVmxubldnRnc?oc=5",
+      "date": "2026-11-11T08:37:00.000Z",
+      "source": "Instagram"
     },
     {
-      "title": "De populismo a chantagem, reação da Faria Lima ao 2º turno vira debate nas redes",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1dFTUl0Z1ZPU3VQdTZXTjdRNklmTnZYZVZzYnNscXU5UXd5bGFDZEoxTThFV3dBUU9uNC10SG96bTlWTEJRVXBjMTdUMmdzQUFsdXFrbldQUGxRNXlHU1M5VTg1SVFUMjQ4ODNpdm12ajdMLWFaYnpuc29JYWVlYkZNQmhVVEJIRVZNQXdVeUlYYUU5Zkh4WUIxUnFuYjdiR2VUSWUtRHdLMy1obFhrS3U5bUlfWXJCeFBPYkw3cFN4bWVJd0hqY3pYZw?oc=5",
-      "date": "2026-11-10T07:00:00.000Z",
-      "source": "Folha de S.Paulo"
-    },
-    {
-      "title": "Mel de aroeira é estudado por potencial contra bactéria ligada a gastrite, úlceras e câncer de estômago",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/10/mel-de-aroeira-e-estudado-por-potencial-contra-bacteria-ligada-a-gastrite-ulceras-e-cancer-de-estomago.ghtml",
-      "date": "2026-11-10T06:00:01.000Z",
+      "title": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos; entenda o paradoxo",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/11/brasil-nunca-produziu-tanta-carne-bovina-mas-brasileiro-come-cada-vez-menos-entenda-o-paradoxo.ghtml",
+      "date": "2026-11-11T08:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "China supera US$ 1 trilhão em superávit com impulso da IA",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/10/china-supera-us-1-trilhao-em-superavit-com-impulso-da-ia.ghtml",
-      "date": "2026-11-10T03:59:30.000Z",
+      "title": "Férias em 2027: veja como emendar feriados e ganhar até sete dias extras de descanso",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/11/ferias-em-2027-veja-como-emendar-feriados-e-ganhar-ate-sete-dias-extras-de-descanso.ghtml",
+      "date": "2026-11-11T06:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "O futuro da economia brasileira no quarto mandato de Lula - O Assunto #1842",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/10/o-futuro-da-economia-brasileira-no-quarto-mandato-de-lula-o-assunto-1842.ghtml",
-      "date": "2026-11-10T03:30:01.000Z",
+      "title": "13º salário caiu na conta: pagar dívidas, guardar ou gastar? Veja como decidir",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/11/o-que-fazer-com-o-13o-salario.ghtml",
+      "date": "2026-11-11T06:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Gás do Povo: quem recebe o voucher de novembro e como consultar pelo CPF",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/10/gas-do-povo-quem-recebe-o-voucher-de-novembro-e-como-consultar-pelo-cpf.ghtml",
-      "date": "2026-11-10T03:00:01.000Z",
+      "title": "Free flow: qual o prazo para pagar sem multa? Como consultar as tarifas? Veja perguntas e respostas",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/11/free-flow-whatsapp.ghtml",
+      "date": "2026-11-11T03:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Reforma tributária muda regras para renda com aluguel; veja como fica para pessoas físicas e jurídicas",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/10/reforma-tributaria-muda-regras-para-renda-com-aluguel-veja-como-fica-para-pessoas-fisicas-e-juridicas.ghtml",
-      "date": "2026-11-10T03:00:01.000Z",
+      "title": "Quanto custa matar a saudade do Brasil? Comidas típicas são até 179% mais caras no exterior",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/11/quanto-custa-matar-a-saudade-do-brasil-comidas-tipicas-sao-ate-179percent-mais-caras-no-exterior.ghtml",
+      "date": "2026-11-11T03:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Vale-refeição e alimentação: decisão da Justiça não muda regra que beneficiou trabalhadores; entenda",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/10/vale-refeicao-e-alimentacao-decisao-da-justica-nao-muda-regra-que-beneficiou-trabalhadores-entenda.ghtml",
-      "date": "2026-11-10T03:00:00.000Z",
+      "title": "Open Energy promete conta de luz mais baixa para quem compartilhar informações; saiba como vai funcionar",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/11/open-energy-promete-conta-de-luz-mais-baixa-para-quem-compartilhar-informacoes-saiba-como-vai-funcionar.ghtml",
+      "date": "2026-11-11T03:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 3,5 milhões nesta terça-feira; g1 transmite ao vivo",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/10/mega-sena-pode-pagar-r-35-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "2026-11-10T03:00:00.000Z",
+      "title": "Como o caso do CEO da Nvidia com suposta espiã chinesa impacta o setor de IA",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/como-o-caso-do-ceo-da-nvidia-com-suposta-espia-chinesa-impacta-o-setor-de-ia.ghtml",
+      "date": "2026-11-11T03:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Área técnica da Aneel propõe detalhar na conta de luz horários de maior e menor consumo; entenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/10/area-tecnica-da-aneel-propoe-detalhar-na-conta-de-luz-horarios-de-maior-e-menor-consumo-entenda.ghtml",
-      "date": "2026-11-10T03:00:00.000Z",
+      "title": "Governo articula medida de ajuste nas contas que muda cálculo dos pisos da saúde e da educação; entenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/11/governo-articula-medida-de-ajuste-nas-contas-que-muda-calculo-dos-pisos-da-saude-e-da-educacao-entenda.ghtml",
+      "date": "2026-11-11T03:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Governo prorroga desoneração da gasolina e do etanol por mais 30 dias",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/09/governo-prorroga-deseneracao-da-gasolina-e-do-etanol-por-mais-30-dias.ghtml",
-      "date": "2026-11-10T01:34:09.000Z",
+      "title": "O que é o 11.11? Entenda a data e como funcionam os descontos",
+      "link": "https://g1.globo.com/guia/guia-de-compras/o-que-e-o-1111-entenda-a-data-e-como-funcionam-os-descontos.ghtml",
+      "date": "2026-11-11T03:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Discurso de Lula sobre ajuste fiscal frustra economistas e mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc1Q0MDhSYXdBTTFFdF9xNEVTbVd3a29ic25tWVZDVzEyRU4yS0dsUE9pczJVRXZ0OVNTZDNOWndzOHcxZjZvT2dCcjRUSG82SkxmcXRZZml0ekRQWkRIQ0dTaHVrajg5MUIweDdLczRjQlBNaFB1bzNoTmVvNDRqdDdKQXctTE1uc2J6ZXpMekIydmZvNExERkFwVUhtWTBWVm92ZDBkaENvdVU0STB3YkVYUU0wZVZHTGo4TA?oc=5",
-      "date": "2026-11-10T00:52:00.000Z",
-      "source": "Gazeta do Povo"
+      "title": "Fechamento do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakEwSFlTVWctcVJTVnVtLVo4TnVZRXA2dW9ONzZfZHZiRDNJU2g5Umk5Q1VaUHp2V0VJTG00TG9sdldTODgycVFUYlQzVVpLeE11YVppbEZuMEtGX2psNzBVRXpjSmRINjFJWlExSGRPTXFxUTZDM2xObW9HMXBYcTBGVmhCRkVrYXFCMmF6TWVYaHNvWnhsTU9RdFhjaW9veTVJ?oc=5",
+      "date": "2026-11-10T21:34:00.000Z",
+      "source": "UOL Economia"
     },
     {
-      "title": "Mercado financeiro eleva projeção da Selic para 13,75% em 2026",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSEc0eTFmeTV6dVNkdmE2N1c1VWd1WVNfZGRUVGFlckdGMlhBQ0JhVFFrRE9nWmwtS1I3a0FVY2NzOWFLbjJrUUJKZ3hKbzkySk56Q0NyakFlcEVVWV9uem1yQi1WZW8tM09wai1tYUctQ3VvLV9OSWs3d3RralVXTzQ3bHJUcVpTQ0hpY1FFTnBhaWJBSzR1Xw?oc=5",
-      "date": "2026-11-09T23:33:37.000Z",
-      "source": "Monitor Mercantil"
+      "title": "Circuit Breaker: os bastidores da transformação do mercado financeiro brasileiro",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSlRJUVJvdWtTY0RnRkx0ck5ORVpLeHF3SnJOc081ZnZUN3B0a3ZLWTZ6T0FkdVpjZ1QzeUwtTVpoazhVSWt1WW1pS2U4cHBZRnpNSUIxbzlwLXlxMkdSZEFnVUtjSHBybFcxUUxndVZJaFVrYnlBQmozbjZNT0ZSRkl6UDFBUThmbDFsTzB2djhhenMzbHMtVjdZYlBqMEJ3TjQ4MTRMSTQtVjd3ZHFid2NMMFZiRllNWU1wdkp3aGtTZE5Z?oc=5",
+      "date": "2026-11-10T19:52:21.000Z",
+      "source": "NeoFeed"
     },
     {
-      "title": "Bolsa sobe 2,22% e registra maior alta diária desde outubro",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM21uZWNDLUN3WnZSUFdYS3F0OUpGM0tpVFluVFhBUW1OampQRU9Gdzdsc21kSjhSd011NVUxcWdENDlCR05Qd21nTVcyeFF0dFQtRGMwNzc1Sk9QTkQ4WHcyaDNMRnd3S2xkcjBReFFLWkhCZ2dXSmxZaVZZb2RMVTlYc0FTRF9HV0F6LUNsYS1oZkozV2N6Y0FWM0Z0NEo3RGc4NnJ0V0lRUzc4YVhraUNfVVdwZw?oc=5",
-      "date": "2026-11-09T22:38:00.000Z",
+      "title": "Qual é o tamanho do erro das projeções do mercado financeiro?",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3lBYk1hcEhxSHQtZGdRdmJTeDFBdHN1UUFONFloeS1ZTDdiZzVqR1VaNy01YnFIWVRTWml1clVWelBHS25lSmkyd1BfLWtFbXNPX09pdWczckZBSEJVdk1TcHQxY0xjdS1EelIwNGVsYkR5RHU0NlBJT29JTFVvZ0kzN19MaDJBeDRVeFBrQm95Mk9qazFZWlZxMG1QY3JMYU5vOGRGdWtfWTBOM2dNM28tRmoyQl91RlZEcEFXS2hFLWFmRHN5aHdLUQ?oc=5",
+      "date": "2026-11-10T17:13:00.000Z",
+      "source": "Brasil de Fato"
+    },
+    {
+      "title": "Movimentos sociais denunciam proposta do mercado de corte de gastos",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVRhX3ZodVF4ZVZ6SVk5Vkx3d0hWTk5aYkdkYjRJdFJnMGw5MnRwSkVuRFg0UkdpT0c2ODR5UlVOMzItRzlnWmxnSzBtbzJtV1Q4Ukx6bDZEazRZWGNXN21WZklsd3VvdnBDcEE3cEZrUHFjZ2syN0Y1YTBMQ2ZsS1B4QVNPUFhaeG1xS0NjVUlEYV9lWjBpdDF0RHpzdENydWxKbVFyeW90OHJlbC0wSUc2a3V2VjZZaFoxaGdVM0JYZnM?oc=5",
+      "date": "2026-11-10T17:10:00.000Z",
       "source": "Agência Brasil"
     },
     {
-      "title": "UFPI divulga programação do 2º Simpósio Sala de Ações, que discutirá aplicações e desafios da Inteligência Artificial no mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUlUwWGQwS1hsUzBoLXlGTU5DSDRrSmUwNzNFT2FEd0NDcy1IZUJSMFJmNXl5R1g1a09uck05WWhUQ2VaeVFUZ2c3RTdCUnhQVDlzekJCVFFNSklzS29NQmtDNGt3ampzU1kxczZBVl9LUml6TmliNGhySUdQVnZJX3pGQUpCbmk2Z25xbFo0ZV9fVHNtc1U5NWxQSmVBbG0zMVBCdkRpeWd3dkNJcldlUEUydlBlY3ZPclNpNlMwemVTdTlsVF9MMTJGYWI2Q1M2b3RqT192bVpobkZmTjR4U1VBOXNUeWdUc284M3A1NmNOaXJVT0VkRENLUDRnUlc1ZEdoNm9ZNlUyRkRyYnc?oc=5",
-      "date": "2026-11-09T17:27:00.000Z",
-      "source": "UFPI"
+      "title": "Atenções do mercado financeiro estão voltadas para a digestão da ata do BC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY09QS3Q4TklaVkhlRFBGaTlHQVpMOF9iaUtiOEhDMlU4X3dsbThucjY5VW5wZmc1ZFZPQ0JiMWxGRlpQNzZyQ3dMQTZPTlc4Tm05ZGhsbHFIQkxyc3N1UjlpSzh5WENfN2x5YjVudWdESDl1S2FyNzhUWFpMX1NYaHRlZ0JZN1Q0VWMxckMwODJRdHZuWW9VdU5hOG14azNEOTQ5T3FJVmx1WUU?oc=5",
+      "date": "2026-11-10T14:11:10.000Z",
+      "source": "Monitor Mercantil"
     }
   ]
 }
