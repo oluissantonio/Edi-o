@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T17:04:42.974Z",
+  "generatedAt": "2026-11-16T20:24:52.463Z",
   "indicators": {
     "ipca": {
       "month": 0.14,
@@ -21,132 +21,72 @@
       "ref": "2026-10-01"
     },
     "dolar": {
-      "value": 5.6518,
-      "change": 0.6679372317118722,
-      "ref": "2026-11-13",
+      "value": 5.7324,
+      "change": 1.4260943416256848,
+      "ref": "2026-11-16",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "Ajuste fiscal: Alckmin afirma que projeto do governo 'vai na direção correta' e diz esperar votação na Câmara nesta semana",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/15/ajuste-fiscal-alckmin-afirma-que-projeto-do-governo-vai-na-direcao-correta-e-diz-esperar-votacao-na-camara-nesta-semana.ghtml",
-      "date": "2026-11-15T15:23:09.000Z",
+      "title": "Apple é investigada no Cade por barrar PIX por aproximação no iPhone; entenda a disputa",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/apple-e-investigada-no-cade-por-barrar-pix-por-aproximacao-no-iphone-entenda-a-disputa.ghtml",
+      "date": "2026-11-16T19:45:44.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Canadá anuncia até R$ 2,2 bilhões para fundo de proteção de florestas liderado pelo Brasil",
-      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/15/canada-fundo-de-protecao-de-florestas-brasil.ghtml",
-      "date": "2026-11-15T15:06:28.000Z",
+      "title": "Alemanha se despede da Adidas em último jogo após 77 anos de parceria; Nike assume em 2027",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/nike-adidas-alemanha-futebol-parceria.ghtml",
+      "date": "2026-11-16T19:33:20.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Tendências 16/11/2026 | das principais ações da Bolsa",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVNSckk1bzNJcHZZUGt2Y3o4Wkhpc1dxRzlZTW1EWTlxWEVUNU1BcW1VUDI3Vlk2MHg5ei1oZTVQMlZaMzVENGp0dFJ2TlZtY0M4SkRpa211bk4tb2hodmJGOHI5S2lNTVlkeENWUG9ZLXJfZUxTNTBXNW5YQTN1T20wa3RMTVA3UDVybEd6Y3B4ZHZDTWwxOGY2VC03cTJjSmxXbzJoeXBnTGhC?oc=5",
-      "date": "2026-11-15T14:24:40.000Z",
-      "source": "XP Investimentos"
-    },
-    {
-      "title": "Estudantes alertam para riscos à educação pública com o PLP do ajuste fiscal",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWN3SS10Tk1BOWFuajBvX0hKdmpNT0UweF9iVllWaTdmZTJCalBSeGRfZnNTTnZUbW9yOTZDQmFJX2RkX3VtaVVfN0REYXMxNUg0ekl1QXNrZVJMQTNGdGJINkxZUmRrTjNRNkNLc0lJYmxoN0RmTXRtdHFCa1FjdW9uOEsxa0hiaDJYcE5PNWlKY0EzUGxwSmtfSWlZVk9wV3Z6aVR3M0twQjJILWQ4YUZB?oc=5",
-      "date": "2026-11-15T14:14:00.000Z",
-      "source": "vermelho.org.br"
-    },
-    {
-      "title": "Mega-Sena 3086: prêmio acumula e vai a R$ 34 milhões; confira os números sorteados",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-confira-os-numeros-sorteados.ghtml",
-      "date": "2026-11-15T14:05:58.000Z",
+      "title": "Califórnia processa OpenAI por ataques cibernéticos realizados por IA contra a Hugging Face e outras empresas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/opne-ai-ataque-california.ghtml",
+      "date": "2026-11-16T18:47:59.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Contra juros altos e ajuste fiscal, estudantes marcam ato em frente à ‘Baleia da Faria Lima’",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTXFMSmpnRXpmSWlvQ0lVbS1FM1U3SW9vdkx6UUxlMVBHUUlYaF90SUJORlA2eUl4cXpMaWxWTUlsc2xzMXQ0SGhQVWpnS0RNcUZPRXhlaHBUVW9sazlMLVozVnZBa3FBRzB1UFZhQ3NWYkRkWHotekx1WlY?oc=5",
-      "date": "2026-11-15T13:52:58.000Z",
-      "source": "ICL Notícias"
-    },
-    {
-      "title": "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/15/15-de-novembro-e-feriado-de-que-por-que-historiadores-acreditam-que-a-monarquia-sofreu-um-golpe.ghtml",
-      "date": "2026-11-15T13:24:39.000Z",
+      "title": "Fachin indica a colegas que deve dar prioridade para julgamento sobre escala 5x2",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/16/fachin-indica-a-colegas-que-deve-dar-prioridade-para-julgamento-sobre-escala-5x2.ghtml",
+      "date": "2026-11-16T18:36:43.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "O risco que não cabe na planilha",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHIyM1lpNkp1Ql81YTRGRGpIek9oa082THl4VG5ZbmU1TUF3dUY1dTY4cVJ0Ynl6WFFpSllQazVEbkgzZTVPZFJSQWNJVHdscEp5NVJzRmNmU19IN3l5X1FFMnNzMjZmOTVUZGRXSEFoTnhpUW1aLU41S3NSZHg4WWFzbU9Zay0wUVR4OFpZNlpMMERrYy1sSEtCU2Z5QdIBngFBVV95cUxNVHIyM1lpNkp1Ql81YTRGRGpIek9oa082THl4VG5ZbmU1TUF3dUY1dTY4cVJ0Ynl6WFFpSllQazVEbkgzZTVPZFJSQWNJVHdscEp5NVJzRmNmU19IN3l5X1FFMnNzMjZmOTVUZGRXSEFoTnhpUW1aLU41S3NSZHg4WWFzbU9Zay0wUVR4OFpZNlpMMERrYy1sSEtCU2Z5QQ?oc=5",
-      "date": "2026-11-15T10:30:00.000Z",
-      "source": "Pipeline"
-    },
-    {
-      "title": "Hackers invadem subsidiária dos Correios da França e expõem dados de 22 milhões",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/15/hackers-invadem-subsidiaria-dos-correios-da-franca-e-expoem-dados-de-22-milhoes.ghtml",
-      "date": "2026-11-15T10:21:11.000Z",
+      "title": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias até julho de 2026, diz Comsefaz",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml",
+      "date": "2026-11-16T17:02:30.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Discurso de Lula deixa dúvidas sobre ajuste fiscal; veja como o mercado financeiro pode reagir",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZEVzaGY0Y0NFRHJxUlhEcWNFZzRmZWM3X3hDSnJuRk1jUzlrbnB0NFI5NW9WUldDdHYwQjlNS3NqVkJTX1lESF9mcjVqd0xEVUpvekh0bTBDcGg3YUNERVl2ZEU5eTZiendNSU53MDVhZTJFZ2hOMnduQm9qRkFiWnhkRFFYc1N6SzA4eDZKNFg3WWRtOTlsTnpUR1FFUkNOSWxaY2t6UVE0SGotSEJMbGNnZ1RLQlE5YzU1RHRfVGx3V0VUb3NwQ2NWYi1YNlRyQ01pTXB6NE94MzN0X05qSC04WW5DeXpnMjZmRktOUnFTZw?oc=5",
-      "date": "2026-11-15T09:14:32.000Z",
-      "source": "Estadão"
-    },
-    {
-      "title": "Agiotas e bookmakers da Faria Lima querem impedir o Brasil de produzir e crescer",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTBGVnZ3Z3NRU0FQdlFJTUFPNkVjLXd6SVJXZk1RQ3ZSa2VwZlJGaTdYQXdmRUZVTGRZTlY0RE1QSThsWElxN3JMN2FzWWFpSlVCb01ZSldlNHJ0YU1CbGMyMEpONzRVdm8tODVXNVp6ZWFLUnk1OFlWOFJfZzBIXzJwNDlVR2F5Y3I1XzJEcWhsNHZyZjQ4OFpYZXRKMm5qODZOaFBMd0liTmM?oc=5",
-      "date": "2026-11-15T09:08:38.000Z",
-      "source": "Hora do Povo"
-    },
-    {
-      "title": "Prévia do PIB, atas do BC dos EUA e balanço da Nvidia movimentam a semana",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb21HNURpWG5aU09EWVpkQTQwbFNVVEpPVW1fd1p3OHRSYkZaSlUwQ0NOeloyN003ZlFacFZ2MmxLZGZkckcya2Rkc2JRd0hWeTFUdlluUS1UbTdURTNJLU1HSkNWSDFPRkdLUUlVVDl4amFvTnl3eld6dnY5Y3BpanY4eTEyLWh3WHJPaWNqRUZadS1RNTl3MFRSUTNVaERSdjgxbjNxRGM?oc=5",
-      "date": "2026-11-15T08:30:00.000Z",
-      "source": "UOL Economia"
-    },
-    {
-      "title": "Bancos sem apps e ‘agentes de IA traders’: como a tecnologia vai mudar o mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaGxrbnpwZFZLVkhiNXRscVF1VDhEVGNvdXUwRVZUUy13d25VZ0ZiMWJzNUluTEJJUU5YYmtRbmZnTVVfZldQblNUTnYtdGZCd0pjOGRPOVY3VUJGOFlLdlQxUS16c2ZzX3lBQXZvTWNVT0I0TVJpMEpPUkVBbEJvVWl0VUp1aUFpY2xMTHJraS1Sa3hTaHhuYlQ0clRRUC1Ta0toNkdUN2JRbi1vSUplcHdqSjV3LU1WeDdLbGFZSXUtSjE2NUNvOTlMV0VuYThna0NNYVNCMEFBeXdWaUxFUUdxLVJDel9WVlNB?oc=5",
-      "date": "2026-11-15T08:17:16.000Z",
-      "source": "Estadão"
-    },
-    {
-      "title": "Hidratação nos chifres, 'damas de companhia' e dieta especial: o g1 acompanhou a rotina da vaca mais cara do mundo",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/15/o-g1-acompanhou-a-rotina-da-vaca-mais-cara-do-mundo.ghtml",
-      "date": "2026-11-15T08:00:00.000Z",
+      "title": "Falha em foguete destrói 40 satélites da Amazon que seriam usados em serviço rival da Starlink",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/falha-em-foguete-destroi-40-satelites-da-amazon-que-seriam-usados-em-servico-rival-da-starlink.ghtml",
+      "date": "2026-11-16T15:31:47.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Palha de café e farelos viram fertilizante natural em apenas nove dias e ajudam a enriquecer o solo",
-      "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/11/15/palha-de-cafe-e-farelos-viram-fertilizante-natural-em-apenas-nove-dias-e-ajudam-a-enriquecer-o-solo.ghtml",
-      "date": "2026-11-15T07:00:01.000Z",
+      "title": "Receita apreende R$ 581 milhões em operação de combate ao tráfico de drogas e ao contrabando",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/receita-federal-apreende-r-581-milhoes-em-operacao-de-combate-ao-trafico-de-drogas-e-ao-contrabando.ghtml",
+      "date": "2026-11-16T14:24:50.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou?",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/15/ele-gastou-r-275-mil-em-labubus-e-fez-ate-dentes-inspirados-nos-bonecos-mas-e-agora-que-a-febre-passou.ghtml",
-      "date": "2026-11-15T06:00:01.000Z",
+      "title": "Feriado 20 de novembro: veja o que é comemorado na data e por que é feriado nacional",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/16/feriado-20-de-novembro-veja-o-que-e-comemorado-na-data-e-por-que-e-feriado-nacional.ghtml",
+      "date": "2026-11-16T13:22:33.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Quais países estão na mira do Brasil para desenvolver cadeias de minerais críticos e terras raras?",
-      "link": "https://g1.globo.com/inovacao/noticia/2026/11/15/quais-paises-estao-na-mira-do-brasil-para-desenvolver-cadeias-de-minerais-criticos-e-terras-raras.ghtml",
-      "date": "2026-11-15T06:00:00.000Z",
+      "title": "Musk e nomes de peso da tecnologia defendem volta de Jensen Huang à Nvidia",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/musk-e-nomes-de-peso-da-tecnologia-defendem-volta-de-ex-ceo-da-nvidia.ghtml",
+      "date": "2026-11-16T13:18:54.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "O executivo que foi grosseiro com motorista e perdeu vaga em multinacional: o 'teste de gentileza' que o Duolingo aplica para altos cargos",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/15/o-executivo-que-foi-grosseiro-com-motorista-e-perdeu-vaga-em-multinacional-o-teste-de-gentileza-que-o-duolingo-aplica-para-altos-cargos.ghtml",
-      "date": "2026-11-15T05:00:00.000Z",
+      "title": "Depois do ajuste fiscal, equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/16/depois-do-ajuste-fiscal-equipe-economica-vai-propor-medidas-para-reduzir-o-crescimento-das-despesas-obrigatorias.ghtml",
+      "date": "2026-11-16T12:57:38.000Z",
       "source": "g1 Economia"
-    },
-    {
-      "title": "Mercado financeiro prevê juros de dois dígitos até 2030 no País",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWWk5aVJnY0xqWDVWbWhDS2RIQ1FIRDhvZXdJanlNNC00M1hCR3A4aW91U3pXdDR2SEFZUDV0R2F4bW9PSm0xR3k1REd5VFlCcl9UT0ZLcEgzWnFUUzdXV2tVTldHWFpxdFZxa25JejByWmxuZUstYkZ1eWlGenJVblJMb2poWVFFckZRUGxrNGNFZ9IBlwFBVV95cUxQaHZIM2VoZFdRZEJPSTl6MWFuS3BBQ3h6emFaOHR2cExkcFNIdGMtNnlPLUVNSVA3UEUzZXh2QmhmRGRBMVFaT1dqMnNraHE3TmlWc0dZVG11RUM1X0Q0Q00yUnA2bHV1aTJjejMwUEhKUVRucWRHdXdHaXQ3RU1ZMmxZdlFudjdVRThoVUZlOGI3RzJHb0JJ?oc=5",
-      "date": "2026-11-15T01:06:24.000Z",
-      "source": "Jornal O Sul"
-    },
-    {
-      "title": "Estudo da CNI revela mercado de R$ 90,7 bilhões em economia circular",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbFk2S1U0UlFUbXJTcm9DLWlRR1gzVS01ZjktRWxwdUQwOUtGbDZ2N0hVYTdXT0RQWXlDQkkzYkNCWkQ1WUlXbHFYSUlWdGQ1LWttX2tVaHl0SEItci1Idkp4RWRacnJZaFRKTkR1d2M1Q3Q2eVhFaEpMZDF5YnJLY2o2U0hUWGlUZU5ZeDNVUEJIdEY0X3o4dTdQR3plLV83Wjk2eTQ2Z1dmem9GV0l4MGV1LXN5cXk0elQ2bWVmbGp0YWdPZ0xzWjZjQmV2TjZD?oc=5",
-      "date": "2026-11-14T18:46:11.000Z",
-      "source": "Agência de Notícias da Indústria"
     }
   ]
 }
