@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:24:52.463Z",
+  "generatedAt": "2026-11-17T19:09:53.446Z",
   "indicators": {
     "ipca": {
       "month": 0.14,
@@ -21,72 +21,132 @@
       "ref": "2026-10-01"
     },
     "dolar": {
-      "value": 5.7324,
-      "change": 1.4260943416256848,
-      "ref": "2026-11-16",
+      "value": 5.7851,
+      "change": 0.9193357058125696,
+      "ref": "2026-11-17",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "Apple é investigada no Cade por barrar PIX por aproximação no iPhone; entenda a disputa",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/apple-e-investigada-no-cade-por-barrar-pix-por-aproximacao-no-iphone-entenda-a-disputa.ghtml",
-      "date": "2026-11-16T19:45:44.000Z",
+      "title": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
+      "date": "2026-11-17T18:32:53.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Alemanha se despede da Adidas em último jogo após 77 anos de parceria; Nike assume em 2027",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/nike-adidas-alemanha-futebol-parceria.ghtml",
-      "date": "2026-11-16T19:33:20.000Z",
+      "title": "STJ suspende decisão que impedia cobrança de taxa da Uber para motoristas em todo o país",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/stj-cobranca-taxa-uber-motoristas.ghtml",
+      "date": "2026-11-17T17:56:37.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Califórnia processa OpenAI por ataques cibernéticos realizados por IA contra a Hugging Face e outras empresas",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/opne-ai-ataque-california.ghtml",
-      "date": "2026-11-16T18:47:59.000Z",
+      "title": "Em meio à polêmica do reajuste, Lula diz que não será refém do mercado",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWtUbC1LR3BhbW5nSjJSLXhENTZySnE5dDdfXzdWUFlvV2xieGVnTzFhV0lZR3llLWRaUlM3M1ZSMUMweXpOQzViRHQ1S3Q5NE04eWhoYUxLU0gyMEFiazZHQWRsWURGOXlPN1lnMHNQUTY1NEozb2JBeTlXTVFxS0U4V3pYaUlkeTRub3MtSFc0MHFqSWhfLWNSQ0FsR3U2TzctUGJ5SEV2SVVnYXdsMzZwRUV6NTFEV25n?oc=5",
+      "date": "2026-11-17T17:33:15.000Z",
+      "source": "Congresso em Foco"
+    },
+    {
+      "title": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml",
+      "date": "2026-11-17T17:24:06.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Fachin indica a colegas que deve dar prioridade para julgamento sobre escala 5x2",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/16/fachin-indica-a-colegas-que-deve-dar-prioridade-para-julgamento-sobre-escala-5x2.ghtml",
-      "date": "2026-11-16T18:36:43.000Z",
+      "title": "ENAC: mais de 7,6 mil candidatos farão novo exame nacional obrigatório para concursos de cartórios",
+      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/exame-nacional-cartorios-quarta-edicao-prova-novembro.ghtml",
+      "date": "2026-11-17T17:21:39.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias até julho de 2026, diz Comsefaz",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml",
-      "date": "2026-11-16T17:02:30.000Z",
+      "title": "Ministro da Fazenda diz que pacote fiscal é só o 'primeiro passo' e prega ajuste gradual 'sem negacionismo' para baixar juros",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml",
+      "date": "2026-11-17T17:10:51.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Falha em foguete destrói 40 satélites da Amazon que seriam usados em serviço rival da Starlink",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/falha-em-foguete-destroi-40-satelites-da-amazon-que-seriam-usados-em-servico-rival-da-starlink.ghtml",
-      "date": "2026-11-16T15:31:47.000Z",
+      "title": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e quer reduzir tributo sobre a folha de pagamentos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml",
+      "date": "2026-11-17T16:53:38.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Receita apreende R$ 581 milhões em operação de combate ao tráfico de drogas e ao contrabando",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/receita-federal-apreende-r-581-milhoes-em-operacao-de-combate-ao-trafico-de-drogas-e-ao-contrabando.ghtml",
-      "date": "2026-11-16T14:24:50.000Z",
+      "title": "Ex-CEO da Nvidia pede desculpas por erros e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ex-ceo-nvidia-diz-que-aceitaria-voltar-ao-cargo.ghtml",
+      "date": "2026-11-17T16:45:04.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Feriado 20 de novembro: veja o que é comemorado na data e por que é feriado nacional",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/16/feriado-20-de-novembro-veja-o-que-e-comemorado-na-data-e-por-que-e-feriado-nacional.ghtml",
-      "date": "2026-11-16T13:22:33.000Z",
+      "title": "Reforma tributária: apuração 'assistida', a declaração pré-preenchida das empresas, será liberada nesta semana, diz Receita",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/reforma-tributaria-apuracao-assistida-a-declaracao-pre-preenchida-das-empresas-sera-liberada-nesta-semana-diz-receita.ghtml",
+      "date": "2026-11-17T16:33:11.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Musk e nomes de peso da tecnologia defendem volta de Jensen Huang à Nvidia",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/musk-e-nomes-de-peso-da-tecnologia-defendem-volta-de-ex-ceo-da-nvidia.ghtml",
-      "date": "2026-11-16T13:18:54.000Z",
+      "title": "China ameaça retaliar contra EUA por restrições a chips de IA que também afetam o Brasil",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/china-ameaca-retaliar-contra-eua-por-restricoes-a-chips-de-ia-que-tambem-afetam-o-brasil.ghtml",
+      "date": "2026-11-17T16:05:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Depois do ajuste fiscal, equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/16/depois-do-ajuste-fiscal-equipe-economica-vai-propor-medidas-para-reduzir-o-crescimento-das-despesas-obrigatorias.ghtml",
-      "date": "2026-11-16T12:57:38.000Z",
+      "title": "Pane da Microsoft atinge mercado financeiro e compromete rotinas de bancos e instituições",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc3k2N21jeURvSTl2Ykp3ZmUxY3dnT250YVd0TnEyQ29pMzItaWkyNzBTXzlyZ1kxVUlGV0FBcTQ2eng5ekU2UDBod3BMLTFueU5aU1dhVmFEblJEUzZKNGRZVkQzNVlXRkVSY1J2SnprV09SMFZjTHZGMlFUQ1R5aXY5TWNRLTAwNlJpWWJRR2h6TDdNaE9oTFc0VE0yN1NDZGtXSFRuNU5obFVlNjlCejhCc2pqUmhyZjUydDV6em1pRGJ6MnVvQzJpNjBSTFZodU5uTHZNcmdoMkNkZVJETGIzVmk1TE55Wkh3YQ?oc=5",
+      "date": "2026-11-17T15:38:41.000Z",
+      "source": "Estadão"
+    },
+    {
+      "title": "Com medidas do governo, Saúde pode deixar de receber R$ 9 bilhões em 2027 e ter alta limitada até 2030; organizações sociais reagem",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/com-medidas-do-governo-saude-pode-deixar-de-receber-r-9-bilhoes-em-2027-e-ter-alta-limitada-ate-2030-organizacoes-sociais-reagem.ghtml",
+      "date": "2026-11-17T15:25:28.000Z",
       "source": "g1 Economia"
+    },
+    {
+      "title": "CTB participa de mobilização contra juros altos e pressão do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWi1vMWFJN0MxY3N3U3ZIYTlZSHhNX1FkaDJOc0VLcXZQVmdrdjdEN1dHY2ZkMTlKTElNXzlxc2FsbTlVdFBaLVIxQ1hwZEZNZC1qbVR2WWtkWXExMHl5S180eTM4MVIwbVpkTDdGbWx6bUJnSTREUExWU0NNbG9lWVlINlRiWFYwcW1yRmlybmVYb1lMVnRBSUJ4UmNzUF9xbjl1cG5CNEFZQjFuVTl3cTNzMlo?oc=5",
+      "date": "2026-11-17T15:00:00.000Z",
+      "source": "CTB - Central dos Trabalhadores e Trabalhadoras do Brasil"
+    },
+    {
+      "title": "Ajuste fiscal no Brasil e balanço da Nvidia pautam o mercado financeiro nesta terça-feira",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWVlTExrYmxnWjRVZ0V0SEM4eXV1emRfTWpyaHh5YVJtcGZDQUNqS0FnVkhRbFQ2SGRNMFRXYk5saHMxVFNSSjh2cTY3WWxISjF5S0ZCY1hQckp4bWNOUHo5MFNiLTZQTHN4dE93ZUMtQ1kxMTJ6VTQyTXR6cnVUZGdCRHdkRkotYTVwQ3l4Mm0zdHh3N1JVTXZ2aHozODY5ZDgwUElfVl96MzR1Y3l2M3RPUlRaT1YyU2dKMA?oc=5",
+      "date": "2026-11-17T14:52:50.000Z",
+      "source": "Brasil Inovador"
+    },
+    {
+      "title": "Mercado financeiro quer que a população viva na miséria, diz Lula",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlppaEgzcGRGUWZqTzI0N2M1QnJxMUV5Z1BmVDQweW9OYzlqOGdpQkNEMVNpTHI5U2UwR2h5OXNIcExKZ0UtZDljanlodEdnWEhFVURVemVjMHJhVEN1TWgyaFktTEdXOHBmZWl6d3d4T3FQZm9VN0RFNy1FSmpST0x0MnRvSjN1RzBMWWlRUWUzV0FyeFE?oc=5",
+      "date": "2026-11-17T14:45:33.000Z",
+      "source": "Hora do Povo"
+    },
+    {
+      "title": "Terça-feira, 17/11/2026 - Notícias sobre o mercado financeiro, com Álvaro Bandeira",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWUtMbjgtXzh3ajZZVEpQQW5fRmVVa3duSFlPUWkxbnJ1a09aemtTZG96YWR6Sm1rUldFYmxJeHdudThsVnVRb1Q4MG9JVEJMZXR0Z25OdDFEQlNJMkJwN2VzcVFWZFZpSmtlb0l6Q2E5ZXNYZl9XLTJzcmh0UkNwUnBxbVhiVUQ4MEhOMm91bVktN2VKRUlrQ25XbzBMN0R2Q0xoekd5MWY0S2pTN3pDdWRGdFdJTVFWUmhmaDNUR2lIbVEycXBGZnZBTmVyMTQ?oc=5",
+      "date": "2026-11-17T14:38:00.000Z",
+      "source": "Jornal do Brasil"
+    },
+    {
+      "title": "AMM alerta sobre risco de colapso financeiro nos municípios mineiros",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjJZNFAyLUpnSl82OE94V01TY01rc0dfNnh4N3JUNG9XUzlxMnpzVS1GcndSMVZNc3JaenY1ZnZaVnpRb3JaeXBHZlRYRVZ2N0xrZGd2MzhBazdubXVob3p2YTFTQjNfakkyUzZ5MjdqVy1mTzRoS3YxMFZFbGd4WHBxWUhTT19aczhsektJT0ZzQUtzaGoxelpsekFXSEc2bjJiVQ?oc=5",
+      "date": "2026-11-17T14:06:25.000Z",
+      "source": "AMM | Associação Mineira de Municípios"
+    },
+    {
+      "title": "Senado vota destaques que podem mudar texto do ajuste fiscal em dia de protestos de estudantes contra pressão do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPd2VzRkN5NXBZYy1oUjNBYUZFOFRtY1hjSDdMZEdxOFN3Vzk0b1N2c1p6dkwtUmV1bVpsdm5BTG9Lb1FtanZhZDQ1LVozT3Zfek9sSVNMRnJtT0xXYzdxZ2dPa21rYmhmLV8wSVJFSjQydU9MbFh4MmctNXE4RUx2Y3RqczhiVTZoWVgwWUNRcjZiQXpKQVp2QWV4alhJUGF2blIzN3gyRzIxR1N1akZJZVpOdnpmM2lKOFFZYVppMkNiQlo3UkZiZ2g0OVBTLUVGZmNpY0trODA1M09CWGRfdnhWSlRROTBVdFZlVFdGY2xNRGRCZ2RXNWwwTGNsTTFNTVY1OFJB?oc=5",
+      "date": "2026-11-17T13:40:00.000Z",
+      "source": "Brasil de Fato"
+    },
+    {
+      "title": "\"Não posso virar refém do mercado financeiro\", diz Lula",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjlIN3NhRHZiTnBMUXF6V1lHUklmb2ZQVzFNVWp6RXZkTUl1TURlYUlfckZWcGVKQUloMmV4NFFNSXJQQUxBUDFNZEoyUkNZelJVX25KbnlvZzBwU1laTnNuVXNSQW1DQ0tEZ21KY0NsRVFFTE5jUWVSR0FoZE5ZTy13SXpaSkJISGE0ZnB1Nm9aUHVRY2hkNUt5U2s?oc=5",
+      "date": "2026-11-17T12:03:55.000Z",
+      "source": "SBT News"
+    },
+    {
+      "title": "Alckmin critica pressão do mercado financeiro: ‘Não há razão para essas oscilações’",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56VktKSUs3WDJTa2o0NXRTWjUza0VSb0RXY0FHdTBON1lScGJuODZlcUJPazJvcHVvM3BweGtkbWxaSVN4clk4SFI2Mkx4YTZIZjlwWUdFejhMWEdoU3NCeXhqeDZkZ3hHT2xhZ1NpeDc0WmpBQ190b0Jaaw?oc=5",
+      "date": "2026-11-17T09:07:25.000Z",
+      "source": "ICL Notícias"
     }
   ]
 }
