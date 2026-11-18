@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T19:09:53.446Z",
+  "generatedAt": "2026-11-18T18:49:44.563Z",
   "indicators": {
     "ipca": {
       "month": 0.14,
@@ -21,132 +21,132 @@
       "ref": "2026-10-01"
     },
     "dolar": {
-      "value": 5.7851,
-      "change": 0.9193357058125696,
-      "ref": "2026-11-17",
+      "value": 5.8102,
+      "change": 0.43387322604622436,
+      "ref": "2026-11-18",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
-      "date": "2026-11-17T18:32:53.000Z",
+      "title": "Toyota Tacoma feita na Argentina será vendida no Brasil",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-tacoma-feita-na-argentina-sera-vendida-no-brasil.ghtml",
+      "date": "2026-11-18T18:32:32.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "STJ suspende decisão que impedia cobrança de taxa da Uber para motoristas em todo o país",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/stj-cobranca-taxa-uber-motoristas.ghtml",
-      "date": "2026-11-17T17:56:37.000Z",
+      "title": "Tributária: alíquota de 11,3% para imposto federal valerá só em 2027 e, segundo Receita, pode subir ou descer depois; entenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml",
+      "date": "2026-11-18T18:28:42.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Em meio à polêmica do reajuste, Lula diz que não será refém do mercado",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWtUbC1LR3BhbW5nSjJSLXhENTZySnE5dDdfXzdWUFlvV2xieGVnTzFhV0lZR3llLWRaUlM3M1ZSMUMweXpOQzViRHQ1S3Q5NE04eWhoYUxLU0gyMEFiazZHQWRsWURGOXlPN1lnMHNQUTY1NEozb2JBeTlXTVFxS0U4V3pYaUlkeTRub3MtSFc0MHFqSWhfLWNSQ0FsR3U2TzctUGJ5SEV2SVVnYXdsMzZwRUV6NTFEV25n?oc=5",
-      "date": "2026-11-17T17:33:15.000Z",
-      "source": "Congresso em Foco"
-    },
-    {
-      "title": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml",
-      "date": "2026-11-17T17:24:06.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "ENAC: mais de 7,6 mil candidatos farão novo exame nacional obrigatório para concursos de cartórios",
-      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/exame-nacional-cartorios-quarta-edicao-prova-novembro.ghtml",
-      "date": "2026-11-17T17:21:39.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Ministro da Fazenda diz que pacote fiscal é só o 'primeiro passo' e prega ajuste gradual 'sem negacionismo' para baixar juros",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml",
-      "date": "2026-11-17T17:10:51.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e quer reduzir tributo sobre a folha de pagamentos",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml",
-      "date": "2026-11-17T16:53:38.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Ex-CEO da Nvidia pede desculpas por erros e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ex-ceo-nvidia-diz-que-aceitaria-voltar-ao-cargo.ghtml",
-      "date": "2026-11-17T16:45:04.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Reforma tributária: apuração 'assistida', a declaração pré-preenchida das empresas, será liberada nesta semana, diz Receita",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/17/reforma-tributaria-apuracao-assistida-a-declaracao-pre-preenchida-das-empresas-sera-liberada-nesta-semana-diz-receita.ghtml",
-      "date": "2026-11-17T16:33:11.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "China ameaça retaliar contra EUA por restrições a chips de IA que também afetam o Brasil",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/china-ameaca-retaliar-contra-eua-por-restricoes-a-chips-de-ia-que-tambem-afetam-o-brasil.ghtml",
-      "date": "2026-11-17T16:05:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Pane da Microsoft atinge mercado financeiro e compromete rotinas de bancos e instituições",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc3k2N21jeURvSTl2Ykp3ZmUxY3dnT250YVd0TnEyQ29pMzItaWkyNzBTXzlyZ1kxVUlGV0FBcTQ2eng5ekU2UDBod3BMLTFueU5aU1dhVmFEblJEUzZKNGRZVkQzNVlXRkVSY1J2SnprV09SMFZjTHZGMlFUQ1R5aXY5TWNRLTAwNlJpWWJRR2h6TDdNaE9oTFc0VE0yN1NDZGtXSFRuNU5obFVlNjlCejhCc2pqUmhyZjUydDV6em1pRGJ6MnVvQzJpNjBSTFZodU5uTHZNcmdoMkNkZVJETGIzVmk1TE55Wkh3YQ?oc=5",
-      "date": "2026-11-17T15:38:41.000Z",
-      "source": "Estadão"
-    },
-    {
-      "title": "Com medidas do governo, Saúde pode deixar de receber R$ 9 bilhões em 2027 e ter alta limitada até 2030; organizações sociais reagem",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/17/com-medidas-do-governo-saude-pode-deixar-de-receber-r-9-bilhoes-em-2027-e-ter-alta-limitada-ate-2030-organizacoes-sociais-reagem.ghtml",
-      "date": "2026-11-17T15:25:28.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "CTB participa de mobilização contra juros altos e pressão do mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWi1vMWFJN0MxY3N3U3ZIYTlZSHhNX1FkaDJOc0VLcXZQVmdrdjdEN1dHY2ZkMTlKTElNXzlxc2FsbTlVdFBaLVIxQ1hwZEZNZC1qbVR2WWtkWXExMHl5S180eTM4MVIwbVpkTDdGbWx6bUJnSTREUExWU0NNbG9lWVlINlRiWFYwcW1yRmlybmVYb1lMVnRBSUJ4UmNzUF9xbjl1cG5CNEFZQjFuVTl3cTNzMlo?oc=5",
-      "date": "2026-11-17T15:00:00.000Z",
+      "title": "CTB participa de ato na Faria Lima contra juros altos e pressão do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaG16ZTVuWi0xX0pmN0gxajFURl9oek5mbThTQzVscUFxOEh0Z2lsblhZTzVvWFotd21Ra3J2eVFxdHUtR0o3VTBrR2V1VGJlYTFMMWZzdjlleGNIdlJ2blMzR2xyRnctQ0tjeEM3bF9FNjJGbU9Ya0E1MjFJRENMbzJrYzFKZkdOQW9JVjhlTlFEOVpqOVdUMG9TemtFd21qX1A2Vkk4ZWs0YndodWptX3VXNHU2V0ZBb3oxdw?oc=5",
+      "date": "2026-11-18T18:16:00.000Z",
       "source": "CTB - Central dos Trabalhadores e Trabalhadoras do Brasil"
     },
     {
-      "title": "Ajuste fiscal no Brasil e balanço da Nvidia pautam o mercado financeiro nesta terça-feira",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWVlTExrYmxnWjRVZ0V0SEM4eXV1emRfTWpyaHh5YVJtcGZDQUNqS0FnVkhRbFQ2SGRNMFRXYk5saHMxVFNSSjh2cTY3WWxISjF5S0ZCY1hQckp4bWNOUHo5MFNiLTZQTHN4dE93ZUMtQ1kxMTJ6VTQyTXR6cnVUZGdCRHdkRkotYTVwQ3l4Mm0zdHh3N1JVTXZ2aHozODY5ZDgwUElfVl96MzR1Y3l2M3RPUlRaT1YyU2dKMA?oc=5",
-      "date": "2026-11-17T14:52:50.000Z",
-      "source": "Brasil Inovador"
+      "title": "Onde investir com o ajuste fiscal de Lula? Felipe Miranda explica! O especialista em finanças pessoais e fundador da Dylan Wealth conta quais podem ser as melhores aplicações caso o governo do PT realmente aperte os cintos.⁣ ⁣ 📚 Gostou do vídeo? Qu",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96Sjk2M1luSFJ6VVVjNGNMeE9HZG9oUlk2NF9kcHNVNlFYbXAyNjN5NDh0YzdkNVp5T2FsNFZlYnFKRTl1aDBsclZ2alVqMy00cG82Z2JR?oc=5",
+      "date": "2026-11-18T18:10:22.000Z",
+      "source": "Instagram"
     },
     {
-      "title": "Mercado financeiro quer que a população viva na miséria, diz Lula",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlppaEgzcGRGUWZqTzI0N2M1QnJxMUV5Z1BmVDQweW9OYzlqOGdpQkNEMVNpTHI5U2UwR2h5OXNIcExKZ0UtZDljanlodEdnWEhFVURVemVjMHJhVEN1TWgyaFktTEdXOHBmZWl6d3d4T3FQZm9VN0RFNy1FSmpST0x0MnRvSjN1RzBMWWlRUWUzV0FyeFE?oc=5",
-      "date": "2026-11-17T14:45:33.000Z",
-      "source": "Hora do Povo"
+      "title": "Mercado de capitais movimentou R$ 71,4 bilhões em outubro, aponta Anbima",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTEFCeDdldFNaMGM4M0ZqOGhCRFdPLWwtaWQ4QlJJQjhaQmZnVmhOZ1hralpDUV93LW9qRWtNd0ZFVDhIUVBTemN0RjI3UklZbm93UjdoRWw0Vk95LUFBUkNFRXd5aFFqdVNaZlpJTzJOX2hOODVLSHRpMzlNOFB5V0ROaVBjWjYxcFVrZ25yZW1SX2Q2UTBXck1wZWtIMG5BY0EwM09OOTE4RzRzWWpiZ2xFbnlOdEV0ODNSYVBXSWU1TkVBQWxnUA?oc=5",
+      "date": "2026-11-18T17:51:17.000Z",
+      "source": "UOL Economia"
     },
     {
-      "title": "Terça-feira, 17/11/2026 - Notícias sobre o mercado financeiro, com Álvaro Bandeira",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWUtMbjgtXzh3ajZZVEpQQW5fRmVVa3duSFlPUWkxbnJ1a09aemtTZG96YWR6Sm1rUldFYmxJeHdudThsVnVRb1Q4MG9JVEJMZXR0Z25OdDFEQlNJMkJwN2VzcVFWZFZpSmtlb0l6Q2E5ZXNYZl9XLTJzcmh0UkNwUnBxbVhiVUQ4MEhOMm91bVktN2VKRUlrQ25XbzBMN0R2Q0xoekd5MWY0S2pTN3pDdWRGdFdJTVFWUmhmaDNUR2lIbVEycXBGZnZBTmVyMTQ?oc=5",
-      "date": "2026-11-17T14:38:00.000Z",
+      "title": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
+      "link": "https://g1.globo.com/inovacao/noticia/2026/11/18/quem-sao-os-sete-jovens-fundadores-da-anthropic-que-estao-prestes-a-se-tornarem-multibilionarios.ghtml",
+      "date": "2026-11-18T17:24:59.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Paulo Gala: Sob fogo cruzado",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZUDhRT043SGczSVVrM0FYei1LclVkaGp6T3ZpWGppSUFmVG5fNzE0NWVyckZHeG1UUm0wd2JIQnRjZWEzbHVsQUhPZ2Q0ZVIxNDdFaEN5a29mRE16RWl3WVh3cnhSN2wz?oc=5",
+      "date": "2026-11-18T17:17:00.000Z",
+      "source": "CartaCapital"
+    },
+    {
+      "title": "IPO da Anthropic: veja como investir na criadora do Claude por meio de BDRs no Brasil",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/anthropic-ipo-bolsa-como-investir-bdrs-brasil.ghtml",
+      "date": "2026-11-18T17:08:39.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Vazamento de documentos expõe relações do Deutsche Bank com Epstein, Trump e oligarcas russos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/vazamento-de-documentos-expoe-relacoes-do-deutsche-bank-com-epstein-trump-e-oligarcas-russos.ghtml",
+      "date": "2026-11-18T16:30:56.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Mercado não pode pautar o governo: Brasil precisa de investimento",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2didE84c1V3RUluR0RmUVhjTnNBTnpRSjBIdjR1VW5temFMWVdSSFdpS1YzSmRuaWxFNWFEUWRfRzdhbzQzUjBPT1I4NXZKb3RJRjBFZ2FCcWdrYWluQjFLU2R1QldzaF9oWnlzVjR6bGoyUHR2aVY5ZlFnNVhXSG9USGlIOXVDOGhpQ1hfWkk?oc=5",
+      "date": "2026-11-18T16:16:22.000Z",
+      "source": "CONTEE"
+    },
+    {
+      "title": "Durigan descarta recessão, mas vê crescimento em 'patamar menor' em 2027; ministro diz acreditar em aprovação de ajuste fiscal",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/durigan-ve-economia-deve-crescer-em-patamar-menor-em-2027-descarta-recessao-e-diz-acreditar-em-aprovacao-de-pacote-fiscal.ghtml",
+      "date": "2026-11-18T16:11:29.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Toyota do Brasil apresenta a Corolla Deck; picape tem motor híbrido flex e chega em maio de 2027",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-mostra-novo-produto.ghtml",
+      "date": "2026-11-18T14:12:02.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Dólar hoje supera R$ 5,80 e pressiona o real com pacote fiscal, leilões do Banco Central e juros dos EUA no radar",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPX25nSXdKSjdyR1U3MWUwX3duY0Y1czFQTzZRb2JjVGtBVnBoaFgxUnk5cUFHNS1kOE9TWm5pb3RBSnRSX0pGSlF5Smc5Z0dkNXZKcEJScFJrY1hZRHBKY3M5dEhkSDN4Y0ZLMU1sa1BSeEJhb0lScnJCdVJoMm4yYlVLamVubVp1WlZoUS1pQzRrSTdsdUwzS3JsbXlmSW9LUXZLM2VWcHZQQXJ0OGk5MVJ6cC1NY2ZUSHFVMlNvdW9xMzFhSldHWlh2X0l6MFV1RGdlWjhLc1ptb2ktTDE2X0Y1OW53cWpWbnhXYU5XT192ZXNiTTBiakJ0Wi1mUFpOcUVfUjdMX19tV1dMa010RHlCbHlrZw?oc=5",
+      "date": "2026-11-18T14:05:00.000Z",
+      "source": "Portal do Agronegócio"
+    },
+    {
+      "title": "Quarta-feira, 18/11/2026 - Notícias sobre o mercado financeiro, com Álvaro Bandeira",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZzROZi1OU1VhVk8yMzdYOHhEQ29YVmZnVlFxVzVtcHN3aEg1RllXWDdsOVlMSkFCRHBSSEZNRXdlbjlfM2xjaklfWGJDRnhGMmxDVzI1NXZxNDMtYjFVaGhuVEJPYlFTdFBwWjdWNnpnZWY0M2xkeklGY1VZVXdaWjllWUtDSUVHUzZDWkZhZE9sR2x2dldyYW9NeE1mN1pBdGZQaFg5cFgxNWxZTUFvY1ZEMmRPUkZsMlBXa3p4cU5LRWs2RHdkN0Q2VUFueEJ1?oc=5",
+      "date": "2026-11-18T14:05:00.000Z",
       "source": "Jornal do Brasil"
     },
     {
-      "title": "AMM alerta sobre risco de colapso financeiro nos municípios mineiros",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjJZNFAyLUpnSl82OE94V01TY01rc0dfNnh4N3JUNG9XUzlxMnpzVS1GcndSMVZNc3JaenY1ZnZaVnpRb3JaeXBHZlRYRVZ2N0xrZGd2MzhBazdubXVob3p2YTFTQjNfakkyUzZ5MjdqVy1mTzRoS3YxMFZFbGd4WHBxWUhTT19aczhsektJT0ZzQUtzaGoxelpsekFXSEc2bjJiVQ?oc=5",
-      "date": "2026-11-17T14:06:25.000Z",
-      "source": "AMM | Associação Mineira de Municípios"
+      "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
+      "date": "2026-11-18T14:00:43.000Z",
+      "source": "g1 Economia"
     },
     {
-      "title": "Senado vota destaques que podem mudar texto do ajuste fiscal em dia de protestos de estudantes contra pressão do mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPd2VzRkN5NXBZYy1oUjNBYUZFOFRtY1hjSDdMZEdxOFN3Vzk0b1N2c1p6dkwtUmV1bVpsdm5BTG9Lb1FtanZhZDQ1LVozT3Zfek9sSVNMRnJtT0xXYzdxZ2dPa21rYmhmLV8wSVJFSjQydU9MbFh4MmctNXE4RUx2Y3RqczhiVTZoWVgwWUNRcjZiQXpKQVp2QWV4alhJUGF2blIzN3gyRzIxR1N1akZJZVpOdnpmM2lKOFFZYVppMkNiQlo3UkZiZ2g0OVBTLUVGZmNpY0trODA1M09CWGRfdnhWSlRROTBVdFZlVFdGY2xNRGRCZ2RXNWwwTGNsTTFNTVY1OFJB?oc=5",
-      "date": "2026-11-17T13:40:00.000Z",
-      "source": "Brasil de Fato"
+      "title": "Empresas planejam investir em 2027, mas juros altos e incertezas ameaçam projetos",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmZMWFJjdEkxMmx2ampnQnlvV2F1T1VPV3JmLXlmQkxiRlpUM0JlLUJjRUtHdzNBUEJuc25lRmppXzJKczNYcVlKb3JIS3BfVHJpZFhXNDBaLVl5b0c5R19VVzZkcVU1MzgweHF1aTdvQ21nWmw3V05lem5vY1NJc2d3STlyS1ZPS2FzRHJJTmN1bk1lVERNbnJlcU9VQUx5Y1hrc3hRUEJVZjRpVVdMeDhzWENFd0xieGw1WGRQOW5GWEVLMnlLS3ln?oc=5",
+      "date": "2026-11-18T13:05:10.000Z",
+      "source": "JOTA Info"
     },
     {
-      "title": "\"Não posso virar refém do mercado financeiro\", diz Lula",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjlIN3NhRHZiTnBMUXF6V1lHUklmb2ZQVzFNVWp6RXZkTUl1TURlYUlfckZWcGVKQUloMmV4NFFNSXJQQUxBUDFNZEoyUkNZelJVX25KbnlvZzBwU1laTnNuVXNSQW1DQ0tEZ21KY0NsRVFFTE5jUWVSR0FoZE5ZTy13SXpaSkJISGE0ZnB1Nm9aUHVRY2hkNUt5U2s?oc=5",
-      "date": "2026-11-17T12:03:55.000Z",
-      "source": "SBT News"
+      "title": "Pretos e pardos ganham menos, são maioria entre trabalhadores desocupados e entre vítimas de homicídio, mostra IBGE",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/desigualdades-sociais-cor-raca-ibge.ghtml",
+      "date": "2026-11-18T13:00:00.000Z",
+      "source": "g1 Economia"
     },
     {
-      "title": "Alckmin critica pressão do mercado financeiro: ‘Não há razão para essas oscilações’",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56VktKSUs3WDJTa2o0NXRTWjUza0VSb0RXY0FHdTBON1lScGJuODZlcUJPazJvcHVvM3BweGtkbWxaSVN4clk4SFI2Mkx4YTZIZjlwWUdFejhMWEdoU3NCeXhqeDZkZ3hHT2xhZ1NpeDc0WmpBQ190b0Jaaw?oc=5",
-      "date": "2026-11-17T09:07:25.000Z",
-      "source": "ICL Notícias"
+      "title": "Um ano depois, fraude do Banco Master deixou prejuízo de R$ 76 bilhões",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/um-ano-depois-fraude-do-banco-master-deixou-prejuizo-de-r-76-bilhoes.ghtml",
+      "date": "2026-11-18T12:42:37.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "BC divulga Fluxo cambial mensal",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xa3FJNzRzTTBtQmo3QVJXRGZVMDVlSUpPQU4zb1pteW9yQ0JEdHE0TlZSbVFaeUVfcXN2LVEtM1hlcWlyUElBcGl5YnBIVFRiYXlqekFaWVE5SS1m?oc=5",
+      "date": "2026-11-18T12:37:03.000Z",
+      "source": "Banco Central do Brasil"
+    },
+    {
+      "title": "Bancos brasileiros avançam no mercado financeiro dos EUA, o mais concorrido do mundo",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDdvMGh4VGtEWWxkcUt2X2p6S2EyU01PbXhGTS03RHJXZkJRZko0SGNVc3dVaE1xRFdsQUhYUjVDSDA5OWFicElfSnhmdHRhZFh2dmRLYUN5RExINS1RcmhyVEV3bVRXdEp3MzhUamlBLWdYcGh1cjkybWtFaERUeTlsdF9kemtfRFVqMHAtWkdXSWRQRTd0NXVuc05EV05tVTUyYXEya0hCbEJvc3hWSjdtaXpIQmRVSjFscXpn?oc=5",
+      "date": "2026-11-18T09:00:00.000Z",
+      "source": "DComercio"
     }
   ]
 }
