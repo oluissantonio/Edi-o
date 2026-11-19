@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:49:44.563Z",
+  "generatedAt": "2026-11-19T18:58:24.612Z",
   "indicators": {
     "ipca": {
       "month": 0.14,
@@ -21,131 +21,131 @@
       "ref": "2026-10-01"
     },
     "dolar": {
-      "value": 5.8102,
-      "change": 0.43387322604622436,
-      "ref": "2026-11-18",
+      "value": 5.8889,
+      "change": 1.3545144745447582,
+      "ref": "2026-11-19",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "Toyota Tacoma feita na Argentina será vendida no Brasil",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-tacoma-feita-na-argentina-sera-vendida-no-brasil.ghtml",
-      "date": "2026-11-18T18:32:32.000Z",
+      "title": "Trump comprou até US$ 265 mil em ações da Nvidia enquanto governo avaliava regras para chips",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/trump-acoes-nvidia.ghtml",
+      "date": "2026-11-19T18:34:26.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Tributária: alíquota de 11,3% para imposto federal valerá só em 2027 e, segundo Receita, pode subir ou descer depois; entenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml",
-      "date": "2026-11-18T18:28:42.000Z",
+      "title": "Elon Musk, Elizabeth Holmes e a fabricação de valor no mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnJzUVBpcVBVbDZXWWVac1ViRVZ6WEtzdFJOTzFBcHY3R3NuaXFQckNjbEZpMTVHeEd0U1ZzaHlOamRIdjFqTnBiNExLZkNkNEZMM2o3R3pmaC14NDJxUFdMemhyVHY1WTRROXo1ZXJSWjVqV25QMmZVU2lQNDZKMmxOR3VrLTRpY2lWQ0NpMWx5UXJPanp5ak1nRDZMMlgwdE1F?oc=5",
+      "date": "2026-11-19T18:16:23.000Z",
+      "source": "Diplomatique"
+    },
+    {
+      "title": "Visa, Mastercard e JPMorgan dizem que fornecedores foram alvo de ataque cibernético",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/19/instituicoes-financeiras-ataque-cibernetico.ghtml",
+      "date": "2026-11-19T18:15:51.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "CTB participa de ato na Faria Lima contra juros altos e pressão do mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaG16ZTVuWi0xX0pmN0gxajFURl9oek5mbThTQzVscUFxOEh0Z2lsblhZTzVvWFotd21Ra3J2eVFxdHUtR0o3VTBrR2V1VGJlYTFMMWZzdjlleGNIdlJ2blMzR2xyRnctQ0tjeEM3bF9FNjJGbU9Ya0E1MjFJRENMbzJrYzFKZkdOQW9JVjhlTlFEOVpqOVdUMG9TemtFd21qX1A2Vkk4ZWs0YndodWptX3VXNHU2V0ZBb3oxdw?oc=5",
-      "date": "2026-11-18T18:16:00.000Z",
-      "source": "CTB - Central dos Trabalhadores e Trabalhadoras do Brasil"
-    },
-    {
-      "title": "Onde investir com o ajuste fiscal de Lula? Felipe Miranda explica! O especialista em finanças pessoais e fundador da Dylan Wealth conta quais podem ser as melhores aplicações caso o governo do PT realmente aperte os cintos.⁣ ⁣ 📚 Gostou do vídeo? Qu",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96Sjk2M1luSFJ6VVVjNGNMeE9HZG9oUlk2NF9kcHNVNlFYbXAyNjN5NDh0YzdkNVp5T2FsNFZlYnFKRTl1aDBsclZ2alVqMy00cG82Z2JR?oc=5",
-      "date": "2026-11-18T18:10:22.000Z",
-      "source": "Instagram"
-    },
-    {
-      "title": "Mercado de capitais movimentou R$ 71,4 bilhões em outubro, aponta Anbima",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTEFCeDdldFNaMGM4M0ZqOGhCRFdPLWwtaWQ4QlJJQjhaQmZnVmhOZ1hralpDUV93LW9qRWtNd0ZFVDhIUVBTemN0RjI3UklZbm93UjdoRWw0Vk95LUFBUkNFRXd5aFFqdVNaZlpJTzJOX2hOODVLSHRpMzlNOFB5V0ROaVBjWjYxcFVrZ25yZW1SX2Q2UTBXck1wZWtIMG5BY0EwM09OOTE4RzRzWWpiZ2xFbnlOdEV0ODNSYVBXSWU1TkVBQWxnUA?oc=5",
-      "date": "2026-11-18T17:51:17.000Z",
-      "source": "UOL Economia"
-    },
-    {
-      "title": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
-      "link": "https://g1.globo.com/inovacao/noticia/2026/11/18/quem-sao-os-sete-jovens-fundadores-da-anthropic-que-estao-prestes-a-se-tornarem-multibilionarios.ghtml",
-      "date": "2026-11-18T17:24:59.000Z",
+      "title": "iFood sofre ataque hacker que expõe dados de clientes, entregadores e representantes de restaurantes",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/ifood-sofre-invasao-que-expoe-dados-de-clientes-entregadores-e-representantes-de-restaurantes.ghtml",
+      "date": "2026-11-19T18:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Paulo Gala: Sob fogo cruzado",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZUDhRT043SGczSVVrM0FYei1LclVkaGp6T3ZpWGppSUFmVG5fNzE0NWVyckZHeG1UUm0wd2JIQnRjZWEzbHVsQUhPZ2Q0ZVIxNDdFaEN5a29mRE16RWl3WVh3cnhSN2wz?oc=5",
-      "date": "2026-11-18T17:17:00.000Z",
-      "source": "CartaCapital"
-    },
-    {
-      "title": "IPO da Anthropic: veja como investir na criadora do Claude por meio de BDRs no Brasil",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/anthropic-ipo-bolsa-como-investir-bdrs-brasil.ghtml",
-      "date": "2026-11-18T17:08:39.000Z",
+      "title": "Anthropic entra para grupo das empresas mais valiosas do mundo; veja ranking",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-valor-de-mercado.ghtml",
+      "date": "2026-11-19T17:16:05.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Vazamento de documentos expõe relações do Deutsche Bank com Epstein, Trump e oligarcas russos",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/vazamento-de-documentos-expoe-relacoes-do-deutsche-bank-com-epstein-trump-e-oligarcas-russos.ghtml",
-      "date": "2026-11-18T16:30:56.000Z",
+      "title": "Pacientes com câncer jogam cinzas em comissário europeu em protesto contra agrotóxicos; VÍDEO",
+      "link": "https://g1.globo.com/saude/noticia/2026/11/19/manifestantes-jogam-cinzas-em-comissario-europeu-em-protesto-contra-agrotoxicos-video.ghtml",
+      "date": "2026-11-19T17:11:29.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Mercado não pode pautar o governo: Brasil precisa de investimento",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2didE84c1V3RUluR0RmUVhjTnNBTnpRSjBIdjR1VW5temFMWVdSSFdpS1YzSmRuaWxFNWFEUWRfRzdhbzQzUjBPT1I4NXZKb3RJRjBFZ2FCcWdrYWluQjFLU2R1QldzaF9oWnlzVjR6bGoyUHR2aVY5ZlFnNVhXSG9USGlIOXVDOGhpQ1hfWkk?oc=5",
-      "date": "2026-11-18T16:16:22.000Z",
-      "source": "CONTEE"
-    },
-    {
-      "title": "Durigan descarta recessão, mas vê crescimento em 'patamar menor' em 2027; ministro diz acreditar em aprovação de ajuste fiscal",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/durigan-ve-economia-deve-crescer-em-patamar-menor-em-2027-descarta-recessao-e-diz-acreditar-em-aprovacao-de-pacote-fiscal.ghtml",
-      "date": "2026-11-18T16:11:29.000Z",
+      "title": "Anthropic abre a US$ 111,50 por ação, alta de 34,3%; valor da empresa chega a US$ 2 trilhões",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/acoes-anthropic-nasdaq.ghtml",
+      "date": "2026-11-19T16:51:36.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Toyota do Brasil apresenta a Corolla Deck; picape tem motor híbrido flex e chega em maio de 2027",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-mostra-novo-produto.ghtml",
-      "date": "2026-11-18T14:12:02.000Z",
+      "title": "IFI alerta que 'bondades' de Lula na eleição apertam máquina pública e pede ajuste 'profundo'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/orgao-do-senado-alerta-que-bondades-de-lula-nas-eleicoes-apertam-maquina-publica-e-pede-ajuste-fiscal-profundo.ghtml",
+      "date": "2026-11-19T16:37:06.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Dólar hoje supera R$ 5,80 e pressiona o real com pacote fiscal, leilões do Banco Central e juros dos EUA no radar",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPX25nSXdKSjdyR1U3MWUwX3duY0Y1czFQTzZRb2JjVGtBVnBoaFgxUnk5cUFHNS1kOE9TWm5pb3RBSnRSX0pGSlF5Smc5Z0dkNXZKcEJScFJrY1hZRHBKY3M5dEhkSDN4Y0ZLMU1sa1BSeEJhb0lScnJCdVJoMm4yYlVLamVubVp1WlZoUS1pQzRrSTdsdUwzS3JsbXlmSW9LUXZLM2VWcHZQQXJ0OGk5MVJ6cC1NY2ZUSHFVMlNvdW9xMzFhSldHWlh2X0l6MFV1RGdlWjhLc1ptb2ktTDE2X0Y1OW53cWpWbnhXYU5XT192ZXNiTTBiakJ0Wi1mUFpOcUVfUjdMX19tV1dMa010RHlCbHlrZw?oc=5",
-      "date": "2026-11-18T14:05:00.000Z",
-      "source": "Portal do Agronegócio"
+      "title": "Lula critica especulação do mercado financeiro e nega pressa para definir ministros",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW1SeHowRlE2VThqSFBOdDQ1S0FnblRmR1Z3NnBzSWd2VElfWWV3blRsdWhnbEVGUUJmOW1wYzRnZXM0d2F4TGVmZXB5QjBOZFBld2MwZUZ4d3pHV290YzZZU0p5NW5NS2hha1dxNjBTU3NOTzlsQ1l2SXJmckt5R2VLLVdFd3VsRk5zQlA3SUN2NE84dDkyRV9iWHFPQzVZU042QTVTY3I4QTVQVWZITmZWNXhCV0h1S1E?oc=5",
+      "date": "2026-11-19T16:23:19.000Z",
+      "source": "Vero Notícias"
     },
     {
-      "title": "Quarta-feira, 18/11/2026 - Notícias sobre o mercado financeiro, com Álvaro Bandeira",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZzROZi1OU1VhVk8yMzdYOHhEQ29YVmZnVlFxVzVtcHN3aEg1RllXWDdsOVlMSkFCRHBSSEZNRXdlbjlfM2xjaklfWGJDRnhGMmxDVzI1NXZxNDMtYjFVaGhuVEJPYlFTdFBwWjdWNnpnZWY0M2xkeklGY1VZVXdaWjllWUtDSUVHUzZDWkZhZE9sR2x2dldyYW9NeE1mN1pBdGZQaFg5cFgxNWxZTUFvY1ZEMmRPUkZsMlBXa3p4cU5LRWs2RHdkN0Q2VUFueEJ1?oc=5",
-      "date": "2026-11-18T14:05:00.000Z",
+      "title": "Ministro afirma que pacote fiscal dará segurança ao mercado, mas admite possíveis novas medidas para cumprir metas",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/19/moreti-fiscal-mercado.ghtml",
+      "date": "2026-11-19T16:05:13.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Anthropic: fortunas de fundadores disparam e somam R$ 817,5 bilhões com estreia na bolsa; veja ranking",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-fortunas-de-fundadores-disparam-apos-estreia-na-bolsa-veja-ranking.ghtml",
+      "date": "2026-11-19T16:02:12.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Anthropic estreia na Nasdaq com IPO recorde de US$ 81 bilhões e testa apetite de investidores por IA",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-estreia-na-nasdaq-investidores.ghtml",
+      "date": "2026-11-19T15:51:37.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Agentes de IA negociando entre si ainda devem demorar, avaliam executivos",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcE1RdjMzT3ZmakJhUEJGcXktMkU0S3VSVVlTXy1sR1JsSElLVkxYQVJHaFJwNWJ2VFVsLW42TVUxWEJocFJUZmNfRzJJUnpIVmk5ZndCNEItTHRiWmtvdDFaVFQxVnFfUzVNX3RrTTFZckxfRHVadlhoQXFNeE1SNGFGWWkzbDdZbFN1aFRvOUhoZGNBUnVJZmRnQUtTb3JnLVV6cnlR?oc=5",
+      "date": "2026-11-19T15:44:51.000Z",
+      "source": "Finsiders Brasil"
+    },
+    {
+      "title": "Lula critica aliados e mercado financeiro por “confusão” sobre ajuste fiscal",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUxCSTJWak95ekVHcm5iNVVPbzZWZGNCc3JDR0UzeTZiLWtFOWtDOUhFQUx0cFI5QWtCR09RRHpsbmNLS0VEUW05ZzJnMHRjN1lnTUNnQ292a1FxZndqeWl3X1pJRlpYdWFQU3lGTDl0NjdzNHRuU3JLNGlFVHh2a21LRU1kb0RnN1loRUR6YnBLWEQ0Um5HU2NTXzF5cDZVUnhCSjJtRzU?oc=5",
+      "date": "2026-11-19T15:28:00.000Z",
+      "source": "Gazeta do Povo"
+    },
+    {
+      "title": "Acesso aos investimentos avança entre jovens e eleva desafio da educação financeira",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUURCLUhoS1N5STN1eGJVbmZPUUcwQTBoQVlqbnUyT0laMF9idXF1N2JxRFd0QUZWR0NDZnRobzVKMTQ1MG1IYmQ3NjY1UThUZDVvQ0wyOVlfb3E2NV9tNk9pVzJWdkp3NmtDeTJDR3dNNE9Hbjhrck4tN3pmU2p4ZjBRa0JydlAxWG9BYWg4Mk1lWURyaFBUeVJncVhKNWg4c2pmYVdCODR6dkROU0VMTGpTQmpnTEZrNmc?oc=5",
+      "date": "2026-11-19T14:54:17.000Z",
+      "source": "MundoCoop"
+    },
+    {
+      "title": "Yolanda Fordelone: O futuro do mercado financeiro está além dos investimentos?",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjI2ZjF3X0RMdkEtQy1qRWJxNzYyWU9HS3hjMWpsN0QzZXdOTm1jTjFhWUxHWmF6VFlKOUFCSzJTT1BvZEtJZDFSRGxFcFp3Y0pjQmNHRFUxX180SWx6SzZJQzkxX1FscmRfVTFEQW12RDRuU2RrLVdNQ2lKdS1aa1pscGN4S0ZXbWxlUm9LYTFNaUIxb3oxSkI3T1RZcDJvTl9HYTFVdHcyN1F0TjhoTnZsdw?oc=5",
+      "date": "2026-11-19T13:40:24.000Z",
+      "source": "Bora Investir"
+    },
+    {
+      "title": "A volatilidade dos mercados e a segurança da Previ: Previ Futuro",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMjZLdXExQ2pmbm1Ga2Nlc1ZqS1dYOFBUVnVuRGRyWDdJN0liYUY2eW9FR2RpcXpBZ1hXY3ZwNWtGQ3FsR3k4MTU0TC1vakpQMTNzNWtQaUc2bkpQeDR2dVhZXzVuOFg0SEFHYlZCRTBBNC16bnMzUUhMaWY2bWpyMXE3MlNZZUt2cEl5aUQ5QjNOVU1uMGpiemVVMElSaHBhcHFaNjcxcmd4Y2xXRGRVcW9CaDdGM3JNbU5yc0dkYlRjNHNOMmFOdmsyZw?oc=5",
+      "date": "2026-11-19T13:30:37.000Z",
+      "source": "Previ"
+    },
+    {
+      "title": "Quinta-feira, 19/11/2026 - Notícias sobre o mercado financeiro, com Álvaro Bandeira",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXl3c0JndE10MTB5aEdvSjRPbHFGSkpaSlpxdlRTOTI5YTRxRXlCZGdGM2hBY2xyUE5BdXRSMmJzRTVTNjJrWloxc1hPemxINjNreUY2UFJMRE5aemF5cnRuWGV3MlFKbVVQbk1RWlpTSkpfSlM2blZSVE96MjBSSzVpd1kzczg4bzlBME13al9JZHVXQ3ZLV1NrOXZZenJSNEZoV01QR0lUbU5VZUNKM0JTTWNOUnh5RlM3ODVlRTFLMjVNY2tyMUJadWwyNk1F?oc=5",
+      "date": "2026-11-19T13:00:00.000Z",
       "source": "Jornal do Brasil"
     },
     {
-      "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
-      "date": "2026-11-18T14:00:43.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Empresas planejam investir em 2027, mas juros altos e incertezas ameaçam projetos",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmZMWFJjdEkxMmx2ampnQnlvV2F1T1VPV3JmLXlmQkxiRlpUM0JlLUJjRUtHdzNBUEJuc25lRmppXzJKczNYcVlKb3JIS3BfVHJpZFhXNDBaLVl5b0c5R19VVzZkcVU1MzgweHF1aTdvQ21nWmw3V05lem5vY1NJc2d3STlyS1ZPS2FzRHJJTmN1bk1lVERNbnJlcU9VQUx5Y1hrc3hRUEJVZjRpVVdMeDhzWENFd0xieGw1WGRQOW5GWEVLMnlLS3ln?oc=5",
-      "date": "2026-11-18T13:05:10.000Z",
-      "source": "JOTA Info"
-    },
-    {
-      "title": "Pretos e pardos ganham menos, são maioria entre trabalhadores desocupados e entre vítimas de homicídio, mostra IBGE",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/desigualdades-sociais-cor-raca-ibge.ghtml",
-      "date": "2026-11-18T13:00:00.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Um ano depois, fraude do Banco Master deixou prejuízo de R$ 76 bilhões",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/um-ano-depois-fraude-do-banco-master-deixou-prejuizo-de-r-76-bilhoes.ghtml",
-      "date": "2026-11-18T12:42:37.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "BC divulga Fluxo cambial mensal",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xa3FJNzRzTTBtQmo3QVJXRGZVMDVlSUpPQU4zb1pteW9yQ0JEdHE0TlZSbVFaeUVfcXN2LVEtM1hlcWlyUElBcGl5YnBIVFRiYXlqekFaWVE5SS1m?oc=5",
-      "date": "2026-11-18T12:37:03.000Z",
+      "title": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC)",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sTVdUT19yYktzclE1QW81VU92NXFuRTNjZjlfZEtLUk45akJJcHVCMEVCYUp0X05tVzRyZVVhQmotMFJnRE40Nk5NVHdvbjRUaERZUEplclo5aU1m?oc=5",
+      "date": "2026-11-19T12:47:12.000Z",
       "source": "Banco Central do Brasil"
     },
     {
-      "title": "Bancos brasileiros avançam no mercado financeiro dos EUA, o mais concorrido do mundo",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDdvMGh4VGtEWWxkcUt2X2p6S2EyU01PbXhGTS03RHJXZkJRZko0SGNVc3dVaE1xRFdsQUhYUjVDSDA5OWFicElfSnhmdHRhZFh2dmRLYUN5RExINS1RcmhyVEV3bVRXdEp3MzhUamlBLWdYcGh1cjkybWtFaERUeTlsdF9kemtfRFVqMHAtWkdXSWRQRTd0NXVuc05EV05tVTUyYXEya0hCbEJvc3hWSjdtaXpIQmRVSjFscXpn?oc=5",
-      "date": "2026-11-18T09:00:00.000Z",
+      "title": "IPO da Anthropic: a polêmica da IA no mercado financeiro e como isso afeta o Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0RPMll0SlJzTTRxcFcxSTZIVnYzWWN5dnFEbXAtb2h2TzFnWkN0U21RNEVrTzg4dnhvbEd0eTUwOXFHVXVzekl5RjduNjVNZklzdEhRdmZTcndsSlU1SmloRzJXUm4yMkxGWUlYVVVuMjBSWnVlU3hpdmFfSHU1QU1CTzZOUl9TMFhFUDNTUTNWaW1wLUdTVHg4X0FhUXNkTnRXQXNRRkIxRENLWTFXSHNPTjVwWTJraUZ6MnlzV0tqQQ?oc=5",
+      "date": "2026-11-19T09:00:00.000Z",
       "source": "DComercio"
     }
   ]
