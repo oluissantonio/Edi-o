@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:47:36.245Z",
+  "generatedAt": "2026-11-23T22:01:32.609Z",
   "indicators": {
     "ipca": {
       "month": 0.14,
@@ -21,132 +21,132 @@
       "ref": "2026-10-01"
     },
     "dolar": {
-      "value": 5.8889,
-      "change": 1.3545144745447582,
-      "ref": "2026-11-19",
+      "value": 5.9708,
+      "change": 1.390752092920581,
+      "ref": "2026-11-23",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "Combater o mercado, apoiar o governo -",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ydmdkaGJnZ1l5dVlMTXdpWmFDQTZXMHEtbVN2amp0c1dITFNmOHhsb2ZkZ05UcDVaLVdHTXcxZnY4YTA4MWxSMy15dUhlbVE?oc=5",
-      "date": "2026-11-22T14:26:41.000Z",
-      "source": "A Terra e Redonda"
+      "title": "Fechamento do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc01PS2Vnb0U1MUN0eEJuenB1THh0VG9KX1A5SkpObE1adDRURUEwZUF4MXVybEgta3k3UjNUaGVUdjBkSFFRODdNMTg2Vy1tWnpwRlhJUTdCTV9EdUVSZ2NTR3dPLW5UQzRRVFoxYTVfTzVkTHdRS3NaWGFEZVJiNThJZU51NUwxeUNPMzY2RkRmX1AyaENURTJWV0xTMEM2MzNN?oc=5",
+      "date": "2026-11-23T21:35:00.000Z",
+      "source": "UOL Economia"
     },
     {
-      "title": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
-      "date": "2026-11-22T14:05:01.000Z",
+      "title": "Nvidia recupera US$ 953 bilhões em um dia com volta de CEO, valor maior que o de toda a B3",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-recupera-us-953-bilhoes-em-um-dia-com-volta-de-ceo-valor-maior-que-o-de-toda-a-b3.ghtml",
+      "date": "2026-11-23T21:21:39.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Lula rebate mercado financeiro, defende ajuste fiscal e garante que não haverá cortes em programas sociais",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWVEtSzJFdHIxdXg0TFhyZnZwUGZyY3lCZTV0MGpFUml1TTNUcFZfeThIQi1pZGpITS1JV1NFajVWNm5KYk9nY05Ob2VuOTQ3WXQxbUVJdm1zODZwQ2FpZDBSMXFETXhhajdBeFE4emtVcFlRRmswZF9XaHYzTWdFcWNWZVBaaUVQTDNMSWdCVGVyUld2UnRCTUtNUUhIdmlEWm5DcUNIZm5lenNUWHpLT3hrRkxMTWNXMzFzMHNHS0kwTHQ3SWJpVl9YaktrcXN1ZzZYb0NWR3RVQQ?oc=5",
-      "date": "2026-11-22T12:37:34.000Z",
-      "source": "Blog do Alberto Alves"
+      "title": "Lula defende ajuste fiscal em live, critica o mercado financeiro e anuncia ministério voltado aos idosos",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa05ZdjUzM3JpcFhPdDRIZWYxWHJlZEpMbWE1NlBtTUZPZzRMakFKN3FvTmVOd0FVOGh0OUJyVlE2OXZvSzlIbzI3WFRValN5Wmw1R1ROdXF0OVB4UUFSaXBzeG9OQ2hhWVdqU2tLTVp2SlNOc3ZHa2EzTUxRN1lhenVGNXZROWNCRXJhWjRCZUlzSUptU1BIMFppOVZKWEl3ZjMzMXYtTl9VX2tqUU5KR203c2NtRWNHN2I0R1lzYmFrY2hjdnRNVW1ZOXEwN2lROF9xR1NtWQ?oc=5",
+      "date": "2026-11-23T20:45:34.000Z",
+      "source": "cachorraotv.com.br"
     },
     {
-      "title": "Banco Central amplia acesso de cooperativas de crédito ao mercado aberto e moderniza operações do sistema Selic",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU09UMzE4TGY3OTRvSWlveEI4NDA3STlpOHhJejZzTllnTjN3eDRIbVY0Q0licDNCV0VsdmhSMDgzWlRyNDQ2bVJfaHdCaDdBZkNUV096MHYtYWw5SlhZalVtZW1fVDBiZlN3M0RZaWp5Q0JuOXJLbzM0TEFxYlRjWjdXVWxfMzRhM0VkdjlSZmdLMVRtRnpMbHhiRGdjckh2VnEwS1RwM2dKcV93dnNDRTFENE5xVFN4YzBHS0NBOE12VkVNa29PSnNSb1NqV0EwNThsQXh1WUJfNjFVbWJ4SURYaThKZFBN?oc=5",
-      "date": "2026-11-22T12:30:31.000Z",
-      "source": "Jornal Grande Bahia"
-    },
-    {
-      "title": "Não quer esperar pelos dividendos? Conheça sistema que identificou oportunidades de renda extra de até R$ 3.410 por semana, em média",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOcEwxYWZLVmVfOWpfenVNZV9GWER2ZlRqcWxhX3pEZWZYNF9vcFFGNFR1bnVMWkJZazRKbE5helBjUkZqQVdSWE1kVXlPOVhGWV9TRnBGUFk0MU9PVlAzd0d5a0pHQlptQVBpV0s3ak1mVEJpakh1ZWpEWjh2TDJhU0NhM2YxS0I3MEx2X2xIVTQ4azYzUTBEc0hwR2NPZldFZE5pNkwtbzJZNXN4SWZxdWp3N0NUTl9WZm5fQmx4NHcyNDNHQTY2SGJXS1dWYnR3OXhfOTF0Y21RNHFKR3dYNm5Vb0k0M3MzMHlhMFV2QTZKbU8xbjUzSldaTE9vV3lhZ0JvX2t5cktHMElLbGlNZVE0TQ?oc=5",
-      "date": "2026-11-22T12:00:00.000Z",
-      "source": "Seu Dinheiro"
-    },
-    {
-      "title": "Lula Defende Ajuste Fiscal e Critica Mercado Financeiro",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHBKa0gyX09TVzJ4T0I4WW1rV25SVjI2dkJ3TFFNaGhDR1dlb1VoQVoyYjlGTXQ0anpSdkNWbG9PdHlIcEJLeDlHMmQzMkF5M0RaOUM0RXctcVJXMFVUWmFhc1JXU1dlbHJrSlFJZUw5eFRRb3V1UUx3RDlfOUNudXNPZExZVVVlSXc?oc=5",
-      "date": "2026-11-22T10:20:00.000Z",
-      "source": "Jornal Brasília Capital"
-    },
-    {
-      "title": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e criação de animais",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
-      "date": "2026-11-22T07:00:01.000Z",
+      "title": "Jensen Huang é aplaudido por funcionários no retorno à Nvidia; VIDEO",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/huang-nvidia-ceo-funcionarios.ghtml",
+      "date": "2026-11-23T20:44:10.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Nova espécie de perereca é descoberta em Minas Gerais após cientista ouvir canto incomum",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/22/nova-especie-de-perereca-e-descoberta-em-minas-gerais-apos-cientista-ouvir-canto-incomum.ghtml",
-      "date": "2026-11-22T07:00:00.000Z",
+      "title": "Batmóvel de 'Batman: O Retorno' vai a leilão por até R$ 37 milhões e pode bater recorde",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/23/batmovel-de-batman-o-retorno-vai-a-leilao-por-ate-r-37-milhoes-e-pode-bater-recorde.ghtml",
+      "date": "2026-11-23T20:27:43.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Lula critica mercado financeiro e diz que setor quer manter população pobre na miséria",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenpxd2dOd3l4Tmo0Vi1uMG02T2VhU2ptUDMyYW9YeVhydndsd0l0SnA4a3ZoSDFXa01vTXo2NXZGdkVRc3JyZl8xdVBOZEJjQ0lmbUh2REZhMnQ5OW1IUXd0T0QyM2dCWDQ1clV3QzlDNlk2bXpTMVZTZm1BallXcVlmTlBBTTJpTlV1dTZyTHNPU2JBVXdhYzBMRVNUUjExNV82NWNHNEJELXdCOGRrUHRUZElDaGc2ckZtcmhn?oc=5",
-      "date": "2026-11-22T06:30:00.000Z",
-      "source": "Vero Notícias"
-    },
-    {
-      "title": "A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
-      "date": "2026-11-22T06:00:00.000Z",
+      "title": "Ações do BRB perderam quase 75% do valor em um ano; entenda",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/acoes-do-brb-perderam-quase-75percent-do-valor-em-um-ano-entenda.ghtml",
+      "date": "2026-11-23T19:06:05.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Há 3.000 anos, trabalhadores do Egito fizeram uma greve por salários atrasados; conheça a história",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/22/ha-3000-anos-trabalhadores-do-egito-fizeram-uma-greve-por-salarios-atrasados-conheca-a-historia.ghtml",
-      "date": "2026-11-22T06:00:00.000Z",
+      "title": "Selic a 13,75%: quem ganha com os juros altos no Brasil?",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONk9rSzEzbGRFYjl4Y3pMZjlRbmlST3JVQm9zWGU2NEdnRjhKQUctYzZRVWxSOERobmd5UW1EelVOQVZmbDRBZXMxNzZTa09DZG5EcXY0S3JwSHhEWFdZR2NTOXc0dXk0enE3WjRtOVlhb1ZSV2xRTzY4X1FnX2lGa2xULVlGNkk?oc=5",
+      "date": "2026-11-23T18:44:00.000Z",
+      "source": "Bancários-DF"
+    },
+    {
+      "title": "Ministério do Trabalho publica portaria que regulamenta descansos da escala 5x2; entenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/ministerio-do-trabalho-portaria-escala-5x2.ghtml",
+      "date": "2026-11-23T18:42:53.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "13º salário na conta: como decidir entre pagar dívidas, investir ou aproveitar as compras",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/22/13o-salario-na-conta-como-decidir-entre-pagar-dividas-investir-ou-aproveitar-as-compras.ghtml",
-      "date": "2026-11-22T05:00:00.000Z",
+      "title": "Fazenda reduz previsão de crescimento da economia para 1,9% neste ano",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/fazenda-reduz-previsao-de-crescimento-da-economia-para-19percent-neste-ano.ghtml",
+      "date": "2026-11-23T18:08:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "O presidente Luiz Inácio Lula da Silva (PT) fez duras críticas ao mercado financeiro neste sábado (21), atacou o que chamou de \"yuppies da Faria Lima\" e afirmou que não aceitará pressões de bancos e investidores sobre a condução da política econômica d",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TQk1seTlSdVYwV2dDUS13alg4VENYR0tCbmZmUUZlV29Ub2VqMmdhdVJ4NzNVN01yN3lyVjRZd1NhMnlPT3dJNHZsR0dnNWc5VWc?oc=5",
-      "date": "2026-11-22T03:49:14.000Z",
-      "source": "Instagram"
+      "title": "Mercado financeiro revisa projeções para 2027 e eleva Selic a 13% sob pressão fiscal e cambial",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGR3SmhpM3Z1aEhpQ2Q4SEhaVWtFRDNQcml2NnZpZklzTVUxcVBFR044dHUySElTS0ZTd0w1aHRwZ3hFdHFMM2sxTzhJdHZJWVVVR29tUnVnd3loaGhab3cybXlfczc4d1hqWjhWaVRCTTZOWUp5MHZteEFNelNzeE9qaWRSN0hhdWJHWUhrMlhRZGFNWERxNU9kcDJzQ1pTdS1wNk1heG81THdQTlBvSjczamdIMFNNUHpCV1JtUU1pUQ?oc=5",
+      "date": "2026-11-23T17:55:13.000Z",
+      "source": "Brasil Inovador"
     },
     {
-      "title": "Mega-Sena 3089 pode pagar R$ 45 milhões neste domingo; g1 transmite ao vivo",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-pode-pagar-r-45-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
-      "date": "2026-11-22T03:00:01.000Z",
+      "title": "Mercado eleva projeção do dólar para R$ 5,55 em 2026",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZndhQ1lEeXRmd2lEaEFtb0IxcnFvSmhfcklTUG8zb0tzVnVETEk3aHVvS1kxbXJ0UDh1WS1YNXpJRk0wR0RmN3ZFWWcycFExcGJQd2doczdoTldqdmFOek9KcGF5OEU3WHhQSmt3QlBZS3lBUkVXd2FjYmNyS3RGT2ZrYmltZ3hTaFdBVlZodEFZQTl4Vjd0RFpTNmpBbTFJMTVLanBJSlo?oc=5",
+      "date": "2026-11-23T17:52:47.000Z",
+      "source": "Movimento Econômico"
+    },
+    {
+      "title": "Copom mantém previsão da taxa básica de juros para 13% em 2017",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWVzMENZeWhlaHJ1MWRBaUQ5VDRCOHdTbGh6bVNNOXNtQk0tamVkeWlKM29kMk5IT2xKWFloMVB6eC1NUnNVNFpabTBfRE9tQ2Y5V0dLV0JhZ3F3Rzc5R2ZQckJMdFRHbldSWl9VVTBjWndjU2h1VzBVUnBKcldwclNValhKLXpvN1hjRDN6Zl9NZGFzMHNMMXlhRjJCXzlQZUUxSTdKUTNlazljUmNlOFlXM3pkcjM2YnpuMlIwTmFOU0xJa24zVWs4MnQ3M3Y5NnNBZmF3?oc=5",
+      "date": "2026-11-23T17:30:00.000Z",
+      "source": "Agência Brasil"
+    },
+    {
+      "title": "Durigan vê pacote fiscal como 'primeiro passo' e diz discutir ajuste nas contas diariamente com Lula",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/durigan-evento-itau.ghtml",
+      "date": "2026-11-23T17:27:22.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
-      "date": "2026-11-22T03:00:00.000Z",
+      "title": "Fiscalização encontra trabalho infantil em 113 empresas e afasta 179 adolescentes",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/mais-de-100-empresas-sao-flagradas-com-adolescentes-em-atividades-perigosas-179-sao-afastados.ghtml",
+      "date": "2026-11-23T17:04:24.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta do ano com dois meses de antecedência",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/brasil-recebe-75-milhoes-de-turistas-estrangeiros-e-supera-meta-do-ano-com-dois-meses-de-antecedencia.ghtml",
-      "date": "2026-11-22T01:29:23.000Z",
+      "title": "Crédito deve crescer 0,4% em outubro, com desaceleração da expansão anual para 8%",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzQ0OGxvd0pXeGg3ME5pWEo2Ym5zMUJRTlpkZVdBMVZ5ZDRSM0VpdVlJRW5xckczT2wtb3lqVEhKQnRMc0ZELUZJZ0NMU3NZalhoeTByNm9tc3B4Tmp6V25wTmNmSkg4NkdfRmZRRjRxQzgxZGwtejlhXzlsNGd0bklKRW1CcUZSSUd5MDFQMGRvZXJubHl5cFd0RlhqSFZCZFRULWhWM0VJVWd2djFF?oc=5",
+      "date": "2026-11-23T16:59:45.000Z",
+      "source": "Monitor Mercantil"
+    },
+    {
+      "title": "Jaime Basso está entre as 50 maiores lideranças do mercado financeiro brasileiro",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXdRZ1lXaGQtZU1NVEpock85ZE1kTlpnVXhkbTAyMi1wZm50Y1lrWmpXb3RSVHVOSGR3V01lZUhoTmZJWWFRZ2M3SzRkSWFJSUFxbUtXNF9hLWRVQ1Bmd1QzRWtFQl92Szdja1REWUFHX3VPVnRVTDNKZXM3UXR3NVZTaDVMTHExYXh5VUFPYkpMOHFBaWdoaEhxcXlnVE50d2dsVVVWYmZDaU5sVUJXNFcyOGZWQTA?oc=5",
+      "date": "2026-11-23T16:33:59.000Z",
+      "source": "Diário Zona Norte"
+    },
+    {
+      "title": "Fortuna de Jensen Huang cresce R$ 219 bilhões após retorno ao comando da Nvidia",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/fortuna-de-jensen-huang-cresce-em-apos-volta-ao-comando-da-nvidia.ghtml",
+      "date": "2026-11-23T16:21:26.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "'Mercado financeiro é chantagista por natureza', diz leitor sobre pressão econômica a Lula 4",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN0ZwdEhHSGxDREVIaHAyZ1A2VzRNU1lGc3N3MzhyZnJLWHJmRXIxWmhudnVfdm5kZFhla0RwR2JlcHlmMWk3MkpJZXNsM1g0LTBrZVRnbmE1YmNqdnZwaVlyRXNUamR6SzNvckYxaThOWXVfUjBCaTRtek1wU1lSYkhkUVFnODh5bWlJZ0ZxMHlReFBqQW53Wm5ES2d5eGc4UDBVblVhckRlc1U1OEFVUTJPenJqd3RvZmRYY0JwemVmU2diVE1VR0w1a2RELTBkbXdIQlJMMl83cW43bnZLVVZR?oc=5",
-      "date": "2026-11-22T01:00:00.000Z",
-      "source": "Folha de S.Paulo"
-    },
-    {
-      "title": "Lula defende ajuste fiscal e critica o mercado financeiro em live",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONTlranRRbmFwOUZOUXpabjFQN1hvWWs4S29hRXE5MW9pVTF2ajk1Mks3VmxESFZFaE1xczBPN3Vkb293VXJZN0NZSnRuRXRicFhqQ0FFUFhOVXBSd2hLNmFJOFVqTmEzU0VJUnBJQklGb1Bub0pva3ZiM0sza01wb1BKUDRURjNIdUkycXVoQkpnRzU1OEUwSm5Dd3kyYnRG?oc=5",
-      "date": "2026-11-22T00:14:00.000Z",
-      "source": "A Tribuna RJ"
-    },
-    {
-      "title": "‘O sistema financeiro não vai me ensinar a dirigir o Brasil’, diz Lula",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVNMUHRuSTNYSU00S3VEa01JdHY2QjU0TUVhV2JHbDZVVUI4UEZRNzNfcng5cnB6bFgtN2RWQXNTdDZNakpOZ2JCY1hGRmI2RHZxTFk1UGdvUWZsNk5RRWQtYmVJMC1qYklLUU4xNjBsMkJQYk4zSGxwbl9aczRqQWJCXzFGRlEyWWgxcDgzNTR3ODZDeXBxYWxVVjFxNmRaN2lBQmYzbHF1d2poMUE?oc=5",
-      "date": "2026-11-21T20:55:00.000Z",
-      "source": "CartaCapital"
-    },
-    {
-      "title": "Joe Wallach, um dos executivos que participaram da inauguração da Globo, morre aos 103 anos",
-      "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/21/joe-wallach-morre-aos-103-anos.ghtml",
-      "date": "2026-11-21T16:56:54.000Z",
+      "title": "CVM suspende registro do BRB, há 1 ano sem divulgar balanço; banco fica impedido de negociar ações",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/cvm-suspende-registro-do-brb-por-relatorios-pendentes-banco-fica-impedido-de-negociar-acoes.ghtml",
+      "date": "2026-11-23T16:19:53.000Z",
       "source": "g1 Economia"
+    },
+    {
+      "title": "Segunda-feira, 23/11/2026 - Notícias sobre o mercado financeiro, com Álvaro Bandeira",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdURQMVQtTktIc0pUdnpIand0bFJHMHh0bnVKekFKU2haY3FfTE93cUNlVktmMmF4cmFZZlNLXzZQNkVuWUZHeW1KY1hjMVU1WHZWT2o3OWViUmtZRjJhcGp2UkhBc2xoRjBodUNsenpqdS1TODR0cWtwcmVkZ2lSTlBzRU9qZjhwbjhtVExGS0F3RDk2YW9nNlhFUUstem5yM1lDM3huUmE5ckVaekcyUzBYaG5pS0VVaUg5ZldheTVDZ1ZfcnlGd1Bsc0Y?oc=5",
+      "date": "2026-11-23T15:25:00.000Z",
+      "source": "Jornal do Brasil"
+    },
+    {
+      "title": "Evento discute impactos da tokenização de ativos no mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQl9vSXRmQ2RFRXFhV1h2dlRIb2JEMnpwWjVxV1A5M3hoN05lTHowSGpPbXJTcHFjNzNIVUJfcjlWRlZUaEE1WlhvUkNZZFl1eVo3a2dXMUEtT0gtWTdhRXNkRzlwcDdfVlpGbFZXeE85LUdVRkFUcmNpTk9UVHNNQVdtdzFtdkRkVWNEbm9wem9OU2V1X0tiUFFQOEtGdi03VUo0?oc=5",
+      "date": "2026-11-23T12:00:00.000Z",
+      "source": "Fundação Getulio Vargas"
     }
   ]
 }
