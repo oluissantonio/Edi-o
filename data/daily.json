@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:55:20.350Z",
+  "generatedAt": "2026-11-26T19:35:51.750Z",
   "indicators": {
     "ipca": {
       "month": 0.14,
@@ -21,132 +21,132 @@
       "ref": "2026-10-01"
     },
     "dolar": {
-      "value": 5.8825,
-      "change": 0.43023235961961803,
-      "ref": "2026-11-25",
+      "value": 5.7446,
+      "change": -2.3442413939651527,
+      "ref": "2026-11-26",
       "source": "Banco Central (PTAX)"
     }
   },
   "news": [
     {
-      "title": "JBS prevê retomada das exportações de frango à União Europeia em dezembro após suspensão",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/jbs-exportacao-frango-uniao-europeia.ghtml",
-      "date": "2026-11-25T19:50:30.000Z",
+      "title": "Clubes de futebol pedem mediação do STF para preservar patrocínio de bets",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/clubes-de-futebol-pedem-mediacao-do-stf-para-preservar-patrocinio-de-bets.ghtml",
+      "date": "2026-11-26T19:09:20.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Nubank (ROXO34) supera rivais e vira 2º app financeiro mais baixado da América Latina",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yM0gza3VkbXNzSFJ2QWNoU1RObGNIdW9CQzAtbGxtMzN3Mm1rc09HSzRPQXU2YTh2MmdWNTZtbFhsdVdFajVqMzAyMG0tYXZSb0J1NG53YXluQktQZFRrUjc5Um9ITHJlZnZUbXNDWm8xdGNfYV9kd3ZzSdIBgAFBVV95cUxPMFdPdTJRbWJwUjRsXzV3T2NxSGJNVGYyNU1icmd0b0FRMHN2SVNfTTFtbTdDWXdiM1BQYUlObzhZZ0JZb2QyMUtPSWQ2TTdVV19hUzM2bDRNblgwYk9XdmZvM2RWWmdsakw0SWpkblFIMXFSa005UTA0MXJQVk5jbg?oc=5",
-      "date": "2026-11-25T19:40:30.000Z",
-      "source": "Suno - Investimentos Inteligentes"
-    },
-    {
-      "title": "Dólar recua a R$ 5,80 e Bolsa sobe com fiscal, tarifaço e inflação dos EUA",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2VoQlJkYi1tLWtsZVV0bUVRaXRPdXh3OHB3RzBHMW1mUVdPNmN2S2RDT0ZiVk9JUlZYVUhMQWlON0NHOWpmcHNrcGZ6V0t5M2lNVkJyTV91YXBGd1JiU0dEVmZPa3R6X3ExdGZLN2VEaDhDSFJKRS13UEJUTnktSllONW5leHpkbXMxdDR3dnpiWjE3N0F3ZmVFRDU0Q2pIWktKcHV3?oc=5",
-      "date": "2026-11-25T19:14:37.000Z",
-      "source": "CNN Brasil"
-    },
-    {
-      "title": "Justiça proíbe Unidas de usar menores de 18 anos na lavagem de carros",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/25/justica-proibe-unidas-de-usar-menores-de-18-anos-na-lavagem-de-carros.ghtml",
-      "date": "2026-11-25T19:01:24.000Z",
+      "title": "Durigan diz que discutirá novas medidas fiscais com Lula: 'Mostrar claramente o caminho para 2027'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/durigan-diz-que-discutira-novas-medidas-fiscais-com-lula-mostrar-claramente-o-caminho-para-2027.ghtml",
+      "date": "2026-11-26T19:08:44.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "A aprovação do chamado plano Moretti pela Câmara foi recebida como um sinal positivo pelo mercado financeiro, por indicar a disposição do governo de avançar na agenda de ajuste fiscal. As medidas têm impacto estimado entre R$ 46 bilhões e R$ 56 bilh",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JNElSQVpRSFJkeXVhME93QW5oYWJGcWl6U1huamdrX2NIQzlzTFFVeF9fS01nRDJ1cDNkZ2dnUVh1VHhRbXl5Z2dkdExxQW1aSVE?oc=5",
-      "date": "2026-11-25T18:41:28.000Z",
+      "title": "Empresários e integrantes do mercado financeiro foram acionados por líderes do PT para conversar com o presidente do conselho de administração do Bradesco, Luiz Carlos Trabuco, sobre o convite que ele recebeu de Lula para ser ministro da Fazenda. A",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBTjh3UFlVY2F6WGpXdTQ1YlotaVZLeEFBSDhWMzFnUUUyTFdHZ01jbUpsRk1FQUxNLXRUODhPeEdKTThlVnRwZnd2MElLeGZ6ZWc?oc=5",
+      "date": "2026-11-26T18:43:16.000Z",
       "source": "Instagram"
     },
     {
-      "title": "Fim de ano: distribuidoras de energia oferecem descontos e parcelamento para renegociar dívidas",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/25/fim-de-ano-distribuidoras-de-energia-oferecem-descontos-e-parcelamento-para-renegociar-dividas.ghtml",
-      "date": "2026-11-25T18:09:10.000Z",
+      "title": "Espanhol Pablo Hernández de Cos é escolhido para presidir o Banco Central Europeu",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/espanhol-pablo-hernandez-de-cos-e-escolhido-para-presidir-o-banco-central-europeu.ghtml",
+      "date": "2026-11-26T18:42:40.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Ajuste fiscal limita benefícios do REIDI e ameaça investimentos em infraestrutura",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlZvWnRVSkkyN1RRZEt5ZE1PV2t6V01qQkJmeldFS0dzdHZvemNUMDl0SUFfU3lVME5QNnUyNVV6UTFNVDN0VE5oUzB4aFVQSnYzUHRjY2JqOGstRHZodElHU0tjN2JWNHB6cjNkdjFNUlhZSzlYb21DU0dnQ0NPWjhxNE9pQjBFT01tVUFsQjRiMFpKWlpoajdZamdsX0ItSDBkWWdNandQNEozbF9YdEgxeGE?oc=5",
-      "date": "2026-11-25T17:50:41.000Z",
-      "source": "Monitor Mercantil"
+      "title": "Brasileiros vendem mais ações do que compram no exterior; fundos ganham espaço",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMWRXMG56V2JNV01UX2RZSjF5WnR5Y0R6YklsZ1Jhd04zNlNrdHM4Vk9qakZpenpFanRvMkl6SmdScl8yaU5ka3E3cXJHa0RNdVo4bU5ZWGFCU0Y4U040OHB0R2txNjFMekstU25kaGRYODJ6RlRGdXJZZFkwcXZHbjRMR0xpY2FTamJTV040NkdoZ2xRVC1tOGdaQTZpZnJEaXFwQ0RrWkJrZlBnOGpCajN6Y2tUZDRaUUlvVUw5NmVkemNUb0M2U21Ndy02SW9rNWfSAdcBQVVfeXFMTjk1alROM2tnRFNEYm9scVV1WVRGNE1ZeEJyeXB3ZXkxeXFlMXY4bTRNVVk0Qkg5a09VUmdsbkFadG9HVDhtY18wNDBPOFVtdjdhQ2FhSzM4UlRHUUUxUXNMRElUOGNqN29pTEZjcXk0Xy1VbUJRTV9XelhEY0w3Q0xLSGVNXzNYTXJTZWFFQVh0RTk3LUpGdU80LUZqblpvUlJfM3JwbXA2c1FKc1RaaW0xX0xHVTV2WWFabzBYaW0zM0dPNDZYQjVCY2J6dHhaY2pSdlByM00?oc=5",
+      "date": "2026-11-26T18:40:00.000Z",
+      "source": "Estadão"
     },
     {
-      "title": "Plano&Plano (PLPL3): Demanda saudável em 2026 e preparada para 2027",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEtvczV6b1EyclljRXpXeG5OMjlqTEVwUzN0SjFjRkx0LXJucmIwRXZOQVlQektiVmNDVERsbi1uNFN2ODd2NUdNTWdqNHlrMWxyY1gxdEROMTNoblRobkhIem9TYWItaXhkaUdEQlFLTmE2V1hZQk11VFVPQzJuTEctV0E4R1dsUERPYjhNOVNaOU9sTDFWY1hTRlJsQmR4TDcxeHI1eFdhZzZkbEtJ?oc=5",
-      "date": "2026-11-25T17:38:46.000Z",
-      "source": "XP Investimentos"
+      "title": "Inflação abaixo do esperado expõe pressão do mercado por juros altos",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWE93Rmw3VEZQWmNQN3dCcVh4cTFJWnFjYmU2U2JkeXRpSHY1Z2dYQUVCV0ppZkZ4eldiR21UMWRKZUF0d0xER0EtLUtIYlpjY0xrS1FZbnhzMHZudUFDd2NCTHZCN3RrMEdXMTJaT19ueWJGRkVyZ3ZXaEdQcV8tNU45OFpqNlVjVUN6VV9aQzUzcDQ5QWtsTDlpN2JSNkU2N2N1c3RmNA?oc=5",
+      "date": "2026-11-26T18:39:00.000Z",
+      "source": "Vermelho"
     },
     {
-      "title": "Tarifaço: açúcar brasileiro pode ter nova taxa para entrar nos EUA; veja o que pode mudar",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/eua-querem-mudar-taxacao-sobre-acucar-brasileiro-veja-como-pode-ficar.ghtml",
-      "date": "2026-11-25T17:25:14.000Z",
+      "title": "Renovação por 30 dias da subvenção de R$ 2,12 por litro de diesel deve ser publicada nesta sexta, diz Fazenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/fazenda-diz-que-renovacao-por-mais-30-dias-da-subvencao-de-r-212-por-litro-de-diesel-sera-publicada-nesta-sexta.ghtml",
+      "date": "2026-11-26T18:37:06.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Bolsas da Europa fecham em queda com proposta tarifária dos EUA e tecnologia sob pressão",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81WWUxYkljaElzeGZXVVFBRFVDSHFqcHI5Y0ZRWVdkQi1QM0Nrd0djbnZKUHJDcG0tbHZUa1ZESXJxeVJtNWJsanpNbHJic1NnMmpDSW54LTY?oc=5",
-      "date": "2026-11-25T17:22:00.000Z",
-      "source": "TradeMap"
+      "title": "Mulheres estreiam na renda variável investindo 50% mais que os homens, aponta a B3",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KUDJUdW5OTTQyOGZwcHA5OF9XMFpCY0RvWk10TklyazJyOW9lUHk2SUVUSFlvS2NLX0lETVpTWk1RczA3VzFRMmJVZjJWT0E4V0VUM3ByVVFPQWd2QTVCZHVzZkE5SmNRdnB1ZHBNU09BUlpxeFoxa0NJZXdVd9IBgwFBVV95cUxOM29BN3ozaXlmam9YVkpOTkRKcWUyRUg2TUtSMzRpbTE4VzR6R1Jtc3BkaTdlN0lGMzRpNWh2Zm5uSjdhX3pSWlBTVlN3bkdlRHZkbG43eW5RbHJyNzROWDhjcWFsancydS1qdlZVZzd3Y1RyOTVYWjlCRlEzQlZTN1Uyaw?oc=5",
+      "date": "2026-11-26T18:18:35.000Z",
+      "source": "Suno - Investimentos Inteligentes"
     },
     {
-      "title": "Bolsas dos EUA despencam com novo tarifaço de Trump e temores sobre investimentos em IA",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-tarifas-ia-bolsa-de-ny-wall-street.ghtml",
-      "date": "2026-11-25T16:55:37.000Z",
+      "title": "FIDCs contabilizam R$ 100,9 bilhões no período de janeiro a outubro",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUg3VDdIQVpyYzNfZ2FuN1haNFRrV1pCTUhmNE1YbFN2bE8tTjlZU0lJbTNubW15QnB4YzE2RVFFcGRSYTRWVWlScjFaamZHVG5kMUhqN3dzbkl4U3I2RGhtUHZDdEdyZ3BzNGZTQXlQQ29ISi0taS0xbFVXM05TSlphS2FaRGhFdTU3R2pRSW94eE1qdk1pOVkybWF2ei1DQXY0QW1MTDY?oc=5",
+      "date": "2026-11-26T18:16:44.000Z",
+      "source": "TrendsCE"
+    },
+    {
+      "title": "Especulação sobre Trabuco na Fazenda e corte de gastos acalmam o mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNENfenlVeHhLRHNESlhjS0pTT2NRNGwtQzRhbk1JTEItV2RSeHExY192UTF4NjR6UkpkVll6ZWdqZC1UOVRVa0cxbkhkQ2I5bWtIcHJQek9KaDk2WkRNSGJER09vaUVDcXRpNXVXeU9kejlRYzJNRnVkQWJpTGhIR3NvblE1Tk5ZX2t5Vjh5QklMa2ZDa0J0eVRqQUJBYm5pUHdhZG4xcjVGT052R2dkc1dsVzVPbGVIQnRvM2xDeE83R2tX?oc=5",
+      "date": "2026-11-26T17:14:00.000Z",
+      "source": "Canal MyNews"
+    },
+    {
+      "title": "Reforma tributária: sem benefícios a produtos e setores, imposto do governo cairia de 11,3% para 7% em 2027, estima órgão do Senado",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/reforma-tributaria-sem-beneficios-a-produtos-e-setores-imposto-do-governo-cairia-de-113percent-para-7percent-em-2027-estima-orgao-do-senado.ghtml",
+      "date": "2026-11-26T16:00:01.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Efeito China: Ford vai trazer SUV Bronco eletrificado chinês para o Brasil",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/25/novo-ford-bronco-eletrico-hibrido.ghtml",
-      "date": "2026-11-25T16:46:21.000Z",
+      "title": "Black Friday: celulares lideram descontos no PIX entre produtos monitorados pelo g1; veja lista",
+      "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-celulares-lideram-descontos-no-pix-entre-produtos-monitorados-pelo-g1-veja-lista.ghtml",
+      "date": "2026-11-26T16:00:00.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "Embraer reage a possível tarifa de 10% dos EUA e defende isenção: 'vigente desde a década de 1980'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-embraer-tarifa.ghtml",
-      "date": "2026-11-25T16:10:59.000Z",
+      "title": "Por que o mercado se anima tanto com a possibilidade de Trabuco na Fazenda?",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHZZc2ZKc244NE5Ta08ybUd2dml2UjBWVmk0MHB0UlBWWl9PRFpDWjc3eVlyS1NuQThBSDVxakRtXzluM0lRUnJIY2ozTWZaczdlVmMteFN4M085ZVdFLVA2a0dpbzFuU295V0dDUDczY1Rlb0Q0d0hkbzY0empfUjE2Q3VLb1lGUWZlZlpyMm93T2drc2cySEVXeHVBenBfT2pJSFdvcVc2Rkl4dzBqTm55d9IBuAFBVV95cUxNRzZaN21lblRwSGFkS2RLaHRMRXdjRzAzUzMzZ3V2SUtPS2VCQThrR2FoZm5KUmVlT2ZkN1RLM3Y0QU5DYkNIZ1hNOFg2bmluYy03aENsdDBVM05GOUFIbS1aMVMyRWhGbU1sYnpsWmFlLWxqQ2lKWmhPNFVXVlJLRnFsenRCckE0TElFcThNWXdycDFtZWFvMkI3Nmk4djh2OTJXd2VSZkFMM2gzbXdvRVYtaEg1bmcx?oc=5",
+      "date": "2026-11-26T15:45:00.000Z",
+      "source": "InfoMoney"
+    },
+    {
+      "title": "Kassab: mercado financeiro precisa entender que Lula ganhou as eleições",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVU02a21iSXVqVXh4WXFoR3k3NENoNllWTnZvaEJ5aEZDN3hJRWdwN0JnZl80TFVjYjc3UjlJNGpxeVdzVTZrMm5qN3ZBUEVkSmR3T0xjTzdURXF3YkpkVGE1ZVVTel95bEZCZ2Y2aHVUSVhqUWdfVGVnMFVZbVZNUjBSZ21DeWVNMlpqVmZFOE5lNnR4dWo0al9sR1BZZXZJeFlJU1pMazMzRTNHbHNSOFM1c1ZyTEg2Rmd3aFVVMndoem1ld0dJaE0tY3g1ejgtY29LT1lR?oc=5",
+      "date": "2026-11-26T15:40:00.000Z",
+      "source": "UOL Economia"
+    },
+    {
+      "title": "Governo dá 10 dias para que Google amplie informações sobre anúncios e fixa multa de R$ 200 mil em caso de descumprimento",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/governo-da-10-dias-para-que-google-amplie-informacoes-sobre-anuncios-e-fixa-multa-diaria-de-r-200-mil-em-caso-de-descumprimento.ghtml",
+      "date": "2026-11-26T15:38:39.000Z",
       "source": "g1 Economia"
     },
     {
-      "title": "EUA deixam de lado proposta de acordos comerciais com Rússia para tentar encerrar guerra na Ucrânia, diz jornal",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/eua-deixam-de-lado-proposta-de-acordos-comerciais-com-russia-para-tentar-encerrar-guerra-na-ucrania-diz-jornal.ghtml",
-      "date": "2026-11-25T15:58:02.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Trump amplia ofensiva comercial e propõe novas tarifas contra Brasil, China e outros parceiros",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-amplia-ofensiva-comercial.ghtml",
-      "date": "2026-11-25T15:19:52.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "Crédito na era digital: por que o futuro passa pela distribuição",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORDJ6a2FUTi1EN2NPd2JndDVUTEdiZGhMbXowel80SkVXRVZNcFB5c3BkSFY3VS1FR2FyVmxVM1hhR1hLYmI3enY0TTFOQkxfRFFHNTlWN3prWnloVkpkbWtnTHRvNDhydzQtWllGNkVxY1NzcHVNeG5wdnFPdDhicnUzMll5aGw4U0tjVnRkdDdhTFFIUWtsa3pnZW0xZ3NFYXNqQXBuWC1RdlNGbG1WRg?oc=5",
-      "date": "2026-11-25T15:05:05.000Z",
-      "source": "Finsiders Brasil"
-    },
-    {
-      "title": "Mais dinheiro, menos paciência: a nova queda de braço entre investidores institucionais e gestoras",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUU5GTlVCd2FkclQyUkhWQjVRbXNXekxiQ21HVWxldXBrbFI0NTZ6VEVqTzVqdWp1eVJpQzRDbkdZR01qOVQ4Rm9lM3J5U2RpUi0xd01EcGtmaFZfdlBMLTZuSDJuNVVLWDllejRWdWd6bUN1bjMwSHJSQVFNbmFVZm9WbGNrY2tQbVFnREtVU1pSN2lwdlF4Zl9QZEJVbE1tMUwtYTFiTTU0bjhmT0ttb3Z1Ui1wU01KRUlrVzdnMTlfeUdQRWlTaDFpT3VmUk9wVG1HNQ?oc=5",
-      "date": "2026-11-25T14:59:00.000Z",
-      "source": "NeoFeed"
-    },
-    {
-      "title": "Ações da Embraer caem 4% após EUA proporem tarifa sobre aviões brasileiros",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/acoes-embraer-eua.ghtml",
-      "date": "2026-11-25T14:26:53.000Z",
-      "source": "g1 Economia"
-    },
-    {
-      "title": "BC divulga IBCR de setembro",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PaV9FV3ZYOWpDN0dHTFZvRjV0bUVmd1EwbHdvdlVBNVk0QU5tRnR2N1h3Uk9KNTVJckNyVGF0Yy1vbVQxdE9meHZSbVp2V0d5TWdMYWhoQ3JVRGhq?oc=5",
-      "date": "2026-11-25T13:51:39.000Z",
-      "source": "Banco Central do Brasil"
-    },
-    {
-      "title": "Quarta-feira, 25/11/2026 - Notícias sobre o mercado financeiro, com Álvaro Bandeira",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbV84NWM0Wkp5Z0ExaGZRLTg5d0l2S05mcUxzZWpfeHR3NW4zc09qYzZiUTliaDNOQkctc0F5OFRzZm13WkQya2lJRHkxRGhkNXo5dnZmMmpzUXpJeDQyM25DbC1hSWRDa3hKdzVBbGxSd1pFXzRjaFBnaUlmSlp3eE9qdW9paWdrZjEwOW51dUp2TDU0OHYwMXBiU0Nxc1lWM29Gb0gwTnNVSlg0X1c5Smh3bEJHakUxT2VVYWVyS244SjBzZ1hvZWdWZw?oc=5",
-      "date": "2026-11-25T13:18:00.000Z",
+      "title": "Quinta-feira, 26/11/2026 - Noticias sobre o mercado financeiro, com Álvaro Bandeira",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOamd6Q0xmMkFReGFYNTRxMndXQ2poRmNYQXlfZ3AxWXgzeEVLOVhxcFFOZ2JfOExIMWF3VzAwSUdIQVhzUUg0dVB1RGtlcFZ6WVltMzZzdFlGRW1ycEYxZVZVNnUtRzRLaUtuUlQwV2RQZTlDRUtTc0dnaDZzeUNtakIxa0s4WWcyMS1wTHdEWmFJVWdEM3RDRVhBN3BFcXF3ZFluck5kUkwtUjdObnZtYTdDUVdaZ29xUWluNm9aMU9WNTd6T04zbTlid1J6bDNh?oc=5",
+      "date": "2026-11-26T15:31:00.000Z",
       "source": "Jornal do Brasil"
+    },
+    {
+      "title": "'Carne dopada': exportadores brasileiros rebatem fala de Macron: 'grave e inaceitável um chefe de Estado recorrer a inverdades'",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/exportadores-de-carne-rebatem-fala-de-macron.ghtml",
+      "date": "2026-11-26T15:24:20.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Até 20 milhões de clientes podem ser afetados por medidas de restrição, incluindo no cartão rotativo, diz BC",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/ate-20-milhoes-de-pessoas-podem-ter-limite-do-cartao-de-credito-reduzido-para-conter-endividamento-diz-banco-central.ghtml",
+      "date": "2026-11-26T15:03:45.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Embraer diz que tarifa de Trump sobre aviões pode elevar preço das passagens e inflação nos EUA",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/embraer-aeronaves-eua.ghtml",
+      "date": "2026-11-26T14:29:23.000Z",
+      "source": "g1 Economia"
+    },
+    {
+      "title": "Ibovespa futuro sobe mais de 1%, dólar cai a R$ 5,77 e mercados asiáticos fecham em alta",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRk5xbEd2bURZMWRKcFhCcHZLR2lEam9CVFQwVi0waHR3bXMzZ2IweXhaLXEtbWFHN2RDcXM5NDJqdkE0VlljVUFrcjN4clJBUnRsdFl4TXpWVXFHUGRKWWpLckJIOWFLbHZrdTFoalZ6Ny15dUNNT0ZFYzF5UjZWb0wyNmRnOHRjTkI2OU9kNWdCYTZmNGxXY2Vvbjl5cWltVmZJcTYzVE1vSndLX0RUYzRMaDl3aVlrbWI2cHZBXzFrSTZ2anp4QjJNR2VjY0RLZG5Yd2FHcnBNLVpqM2lnY0JkLTNpdVJjdVNFd09ucXRva1E?oc=5",
+      "date": "2026-11-26T13:55:00.000Z",
+      "source": "Portal do Agronegócio"
     }
   ]
 }
